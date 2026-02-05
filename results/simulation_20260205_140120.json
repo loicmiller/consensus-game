@@ -1,0 +1,191 @@
+{
+  "timestamp": "20260205_140120",
+  "simulation": {
+    "duration": 980,
+    "num_nodes": 10
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "node_id": "basic_2",
+      "score": 0.7846877760674991,
+      "strategy": "ExampleStrategy"
+    },
+    {
+      "rank": 2,
+      "node_id": "basic_4",
+      "score": 0.7846802475001656,
+      "strategy": "ExampleStrategy"
+    },
+    {
+      "rank": 3,
+      "node_id": "greedy_0",
+      "score": 0.7846140961271973,
+      "strategy": "GreedyMiner"
+    },
+    {
+      "rank": 4,
+      "node_id": "basic_0",
+      "score": 0.7846086783903251,
+      "strategy": "ExampleStrategy"
+    },
+    {
+      "rank": 5,
+      "node_id": "basic_3",
+      "score": 0.7838653120201812,
+      "strategy": "ExampleStrategy"
+    },
+    {
+      "rank": 6,
+      "node_id": "basic_1",
+      "score": 0.7838517840270617,
+      "strategy": "ExampleStrategy"
+    },
+    {
+      "rank": 7,
+      "node_id": "logging_0",
+      "score": 0.7838482867442059,
+      "strategy": "LoggingExampleStrategy"
+    },
+    {
+      "rank": 8,
+      "node_id": "basic_5",
+      "score": 0.7838421193023024,
+      "strategy": "ExampleStrategy"
+    },
+    {
+      "rank": 9,
+      "node_id": "adaptive_0",
+      "score": 0.7838418517321242,
+      "strategy": "AdaptiveStrategy"
+    },
+    {
+      "rank": 10,
+      "node_id": "EMKAMA_0",
+      "score": 0.5838809414965315,
+      "strategy": "MaStrategie"
+    }
+  ],
+  "detailed_scores": {
+    "EMKAMA_0": {
+      "rank": 10,
+      "total_score": 0.5838809414965315,
+      "strategy": "MaStrategie",
+      "metrics": {
+        "convergence": 0.6036363442034028,
+        "stability": 1.0,
+        "liveness": 0.5963855421686747,
+        "efficiency": 0.016655562958027982
+      }
+    },
+    "basic_0": {
+      "rank": 4,
+      "total_score": 0.7846086783903251,
+      "strategy": "ExampleStrategy",
+      "metrics": {
+        "convergence": 0.9474384564204925,
+        "stability": 1.0,
+        "liveness": 1.0,
+        "efficiency": 0.0150260932157639
+      }
+    },
+    "logging_0": {
+      "rank": 7,
+      "total_score": 0.7838482867442059,
+      "strategy": "LoggingExampleStrategy",
+      "metrics": {
+        "convergence": 0.952228924164571,
+        "stability": 1.0,
+        "liveness": 0.9879518072289156,
+        "efficiency": 0.01488900920411478
+      }
+    },
+    "basic_1": {
+      "rank": 6,
+      "total_score": 0.7838517840270617,
+      "strategy": "ExampleStrategy",
+      "metrics": {
+        "convergence": 0.952228924164571,
+        "stability": 1.0,
+        "liveness": 0.9879518072289156,
+        "efficiency": 0.014906495618393712
+      }
+    },
+    "basic_2": {
+      "rank": 1,
+      "total_score": 0.7846877760674991,
+      "strategy": "ExampleStrategy",
+      "metrics": {
+        "convergence": 0.951145900969146,
+        "stability": 1.0,
+        "liveness": 0.9939759036144579,
+        "efficiency": 0.014957650027031897
+      }
+    },
+    "adaptive_0": {
+      "rank": 9,
+      "total_score": 0.7838418517321242,
+      "strategy": "AdaptiveStrategy",
+      "metrics": {
+        "convergence": 0.952228924164571,
+        "stability": 1.0,
+        "liveness": 0.9879518072289156,
+        "efficiency": 0.014856834143706105
+      }
+    },
+    "basic_3": {
+      "rank": 5,
+      "total_score": 0.7838653120201812,
+      "strategy": "ExampleStrategy",
+      "metrics": {
+        "convergence": 0.952228924164571,
+        "stability": 1.0,
+        "liveness": 0.9879518072289156,
+        "efficiency": 0.014974135583991287
+      }
+    },
+    "basic_4": {
+      "rank": 2,
+      "total_score": 0.7846802475001656,
+      "strategy": "ExampleStrategy",
+      "metrics": {
+        "convergence": 0.951145900969146,
+        "stability": 1.0,
+        "liveness": 0.9939759036144579,
+        "efficiency": 0.01492000719036491
+      }
+    },
+    "basic_5": {
+      "rank": 8,
+      "total_score": 0.7838421193023024,
+      "strategy": "ExampleStrategy",
+      "metrics": {
+        "convergence": 0.952228924164571,
+        "stability": 1.0,
+        "liveness": 0.9879518072289156,
+        "efficiency": 0.014858171994597028
+      }
+    },
+    "greedy_0": {
+      "rank": 3,
+      "total_score": 0.7846140961271973,
+      "strategy": "GreedyMiner",
+      "metrics": {
+        "convergence": 0.9474384564204923,
+        "stability": 1.0,
+        "liveness": 1.0,
+        "efficiency": 0.015053181900126195
+      }
+    }
+  },
+  "network_stats": {
+    "sent": 104334,
+    "delivered": 105086,
+    "lost": 5286,
+    "duplicated": 2100,
+    "delayed": 0,
+    "in_transit": 1348,
+    "current_tick": 980
+  },
+  "strategy_errors": {}
+}

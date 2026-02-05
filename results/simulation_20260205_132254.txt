@@ -1,0 +1,124 @@
+Consensus-as-a-Game - Résultats de Simulation
+Date: 2026-02-05 13:22:54
+================================================================================
+
+Durée: 971 ticks
+Nœuds: 10
+
+CLASSEMENT
+--------------------------------------------------------------------------------
+ 1. logging_0                 | Score: 0.7759 | LoggingExampleStrategy
+ 2. greedy_3                  | Score: 0.7758 | GreedyMiner
+ 3. greedy_1                  | Score: 0.7754 | GreedyMiner
+ 4. greedy_0                  | Score: 0.7727 | GreedyMiner
+ 5. adaptive_0                | Score: 0.7707 | AdaptiveStrategy
+ 6. conservative_0            | Score: 0.7652 | ConservativeWaiter
+ 7. basic_1                   | Score: 0.7651 | ExampleStrategy
+ 8. basic_0                   | Score: 0.7639 | ExampleStrategy
+ 9. logging_1                 | Score: 0.7621 | LoggingExampleStrategy
+10. greedy_2                  | Score: 0.7238 | GreedyMiner
+
+================================================================================
+
+MÉTRIQUES DÉTAILLÉES
+--------------------------------------------------------------------------------
+
+logging_0 (Rang 1)
+  Stratégie   : LoggingExampleStrategy
+  Score total : 0.7759
+  Métriques   :
+    - convergence : 90.70%
+    - stability   : 100.00%
+    - liveness    : 99.29%
+    - efficiency  : 4.95%
+
+greedy_3 (Rang 2)
+  Stratégie   : GreedyMiner
+  Score total : 0.7758
+  Métriques   :
+    - convergence : 91.11%
+    - stability   : 100.00%
+    - liveness    : 98.58%
+    - efficiency  : 4.88%
+
+greedy_1 (Rang 3)
+  Stratégie   : GreedyMiner
+  Score total : 0.7754
+  Métriques   :
+    - convergence : 90.14%
+    - stability   : 100.00%
+    - liveness    : 100.00%
+    - efficiency  : 4.96%
+
+greedy_0 (Rang 4)
+  Stratégie   : GreedyMiner
+  Score total : 0.7727
+  Métriques   :
+    - convergence : 94.07%
+    - stability   : 100.00%
+    - liveness    : 91.49%
+    - efficiency  : 5.22%
+
+adaptive_0 (Rang 5)
+  Stratégie   : AdaptiveStrategy
+  Score total : 0.7707
+  Métriques   :
+    - convergence : 94.24%
+    - stability   : 100.00%
+    - liveness    : 90.78%
+    - efficiency  : 4.66%
+
+conservative_0 (Rang 6)
+  Stratégie   : ConservativeWaiter
+  Score total : 0.7652
+  Métriques   :
+    - convergence : 94.27%
+    - stability   : 100.00%
+    - liveness    : 88.65%
+    - efficiency  : 4.00%
+
+basic_1 (Rang 7)
+  Stratégie   : ExampleStrategy
+  Score total : 0.7651
+  Métriques   :
+    - convergence : 94.11%
+    - stability   : 100.00%
+    - liveness    : 87.94%
+    - efficiency  : 4.89%
+
+basic_0 (Rang 8)
+  Stratégie   : ExampleStrategy
+  Score total : 0.7639
+  Métriques   :
+    - convergence : 94.11%
+    - stability   : 100.00%
+    - liveness    : 87.94%
+    - efficiency  : 4.30%
+
+logging_1 (Rang 9)
+  Stratégie   : LoggingExampleStrategy
+  Score total : 0.7621
+  Métriques   :
+    - convergence : 93.61%
+    - stability   : 100.00%
+    - liveness    : 87.23%
+    - efficiency  : 5.02%
+
+greedy_2 (Rang 10)
+  Stratégie   : GreedyMiner
+  Score total : 0.7238
+  Métriques   :
+    - convergence : 85.52%
+    - stability   : 100.00%
+    - liveness    : 78.72%
+    - efficiency  : 8.52%
+
+================================================================================
+Statistiques réseau:
+  sent                : 25033
+  delivered           : 25487
+  lost                : 1317
+  duplicated          : 511
+  delayed             : 0
+  in_transit          : 57
+  current_tick        : 971

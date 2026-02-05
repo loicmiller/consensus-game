@@ -1,0 +1,2664 @@
+Logs pour stratégie: LoggingExampleStrategy
+================================================================================
+
+
+--- logging_0 ---
+[Tick 0] Stratégie initialisée pour logging_0
+[Tick 6] Nouveau bloc accepté: EMKAMA_0_0 de EMKAMA_0, hauteur 1
+[Tick 10] Tentative de minage au tick 10
+[Tick 17] Nouveau bloc accepté: groupe_samson_tilio_0_0 de groupe_samson_tilio_0, hauteur 1
+[Tick 18] Choix du parent: EMKAMA_0_0 (hauteur 1)
+[Tick 18] Nouveau bloc accepté: greedy_0_0 de greedy_0, hauteur 2
+[Tick 18] Nouveau bloc accepté: greedy_0_1 de adaptive_0, hauteur 3
+[Tick 19] Nouveau bloc accepté: adaptive_0_0 de basic_0, hauteur 1
+[Tick 20] Tentative de minage au tick 20
+[Tick 21] Nouveau bloc accepté: groupe_samson_tilio_0_1 de groupe_samson_tilio_0, hauteur 3
+[Tick 23] Nouveau bloc accepté: basic_0_0 de groupe_samson_tilio_0, hauteur 2
+[Tick 24] Nouveau bloc accepté: greedy_1_0 de groupe_samson_tilio_0, hauteur 1
+[Tick 24] Nouveau bloc accepté: logging_1_0 de greedy_0, hauteur 2
+[Tick 24] Bloc rejeté: logging_0_0 de adaptive_0
+[Tick 24] Nouveau bloc accepté: adaptive_0_1 de adaptive_0, hauteur 4
+[Tick 25] Nouveau bloc accepté: EMKAMA_0_1 de basic_0, hauteur 2
+[Tick 25] Nouveau bloc accepté: logging_2_0 de logging_1, hauteur 3
+[Tick 27] Nouveau bloc accepté: EMKAMA_0_2 de EMKAMA_0, hauteur 3
+[Tick 29] Choix du parent: adaptive_0_1 (hauteur 4)
+[Tick 30] Tentative de minage au tick 30
+[Tick 30] Nouveau bloc accepté: greedy_0_2 de greedy_0, hauteur 4
+[Tick 32] Nouveau bloc accepté: EMKAMA_0_3 de EMKAMA_0, hauteur 4
+[Tick 32] Nouveau bloc accepté: basic_0_1 de basic_0, hauteur 5
+[Tick 33] Nouveau bloc accepté: groupe_samson_tilio_0_2 de groupe_samson_tilio_0, hauteur 4
+[Tick 33] Bloc rejeté: greedy_1_2 de greedy_1
+[Tick 34] Nouveau bloc accepté: greedy_1_1 de greedy_1, hauteur 4
+[Tick 35] Nouveau bloc accepté: logging_2_1 de logging_2, hauteur 6
+[Tick 38] Choix du parent: logging_2_1 (hauteur 6)
+[Tick 38] Nouveau bloc accepté: logging_1_2 de logging_1, hauteur 6
+[Tick 39] Bloc rejeté: logging_0_1 de adaptive_0
+[Tick 39] Nouveau bloc accepté: EMKAMA_0_4 de greedy_1, hauteur 5
+[Tick 40] Tentative de minage au tick 40
+[Tick 41] Nouveau bloc accepté: conservative_0_0 de conservative_0, hauteur 5
+[Tick 42] Nouveau bloc accepté: logging_1_1 de groupe_samson_tilio_0, hauteur 4
+[Tick 43] Nouveau bloc accepté: groupe_samson_tilio_0_3 de groupe_samson_tilio_0, hauteur 6
+[Tick 43] Nouveau bloc accepté: greedy_0_3 de greedy_1, hauteur 6
+[Tick 46] Bloc rejeté: logging_0_2 de greedy_1
+[Tick 48] Nouveau bloc accepté: greedy_1_3 de logging_2, hauteur 8
+[Tick 50] Tentative de minage au tick 50
+[Tick 51] Nouveau bloc accepté: adaptive_0_2 de logging_1, hauteur 7
+[Tick 52] Nouveau bloc accepté: conservative_0_1 de conservative_0, hauteur 9
+[Tick 53] Nouveau bloc accepté: greedy_0_4 de greedy_0, hauteur 9
+[Tick 54] Choix du parent: conservative_0_1 (hauteur 9)
+[Tick 55] Nouveau bloc accepté: logging_1_3 de logging_1, hauteur 9
+[Tick 55] Nouveau bloc accepté: groupe_samson_tilio_0_4 de greedy_0, hauteur 9
+[Tick 55] Nouveau bloc accepté: EMKAMA_0_5 de greedy_0, hauteur 6
+[Tick 60] Tentative de minage au tick 60
+[Tick 60] Nouveau bloc accepté: EMKAMA_0_6 de logging_2, hauteur 7
+[Tick 61] Nouveau bloc accepté: greedy_1_4 de basic_0, hauteur 10
+[Tick 62] Bloc rejeté: logging_0_3 de groupe_samson_tilio_0
+[Tick 64] Nouveau bloc accepté: adaptive_0_3 de basic_0, hauteur 10
+[Tick 65] Nouveau bloc accepté: logging_2_2 de groupe_samson_tilio_0, hauteur 9
+[Tick 66] Nouveau bloc accepté: basic_0_2 de adaptive_0, hauteur 8
+[Tick 67] Nouveau bloc accepté: logging_1_4 de EMKAMA_0, hauteur 11
+[Tick 69] Nouveau bloc accepté: groupe_samson_tilio_0_5 de groupe_samson_tilio_0, hauteur 11
+[Tick 69] Nouveau bloc accepté: logging_2_3 de logging_2, hauteur 12
+[Tick 69] Nouveau bloc accepté: EMKAMA_0_7 de logging_1, hauteur 8
+[Tick 70] Tentative de minage au tick 70
+[Tick 73] Choix du parent: logging_2_3 (hauteur 12)
+[Tick 73] Nouveau bloc accepté: greedy_0_5 de basic_0, hauteur 11
+[Tick 75] Nouveau bloc accepté: greedy_1_5 de greedy_1, hauteur 13
+[Tick 76] Nouveau bloc accepté: greedy_0_6 de greedy_0, hauteur 12
+[Tick 76] Bloc rejeté: logging_1_5 de logging_1
+[Tick 77] Nouveau bloc accepté: basic_0_3 de logging_1, hauteur 12
+[Tick 78] Nouveau bloc accepté: conservative_0_2 de greedy_0, hauteur 13
+[Tick 78] Nouveau bloc accepté: EMKAMA_0_8 de logging_2, hauteur 9
+[Tick 80] Tentative de minage au tick 80
+[Tick 82] Bloc rejeté: logging_0_4 de logging_2
+[Tick 83] Nouveau bloc accepté: adaptive_0_4 de EMKAMA_0, hauteur 13
+[Tick 86] Choix du parent: logging_1_5 (hauteur 14)
+[Tick 86] Nouveau bloc accepté: groupe_samson_tilio_0_7 de groupe_samson_tilio_0, hauteur 14
+[Tick 86] Nouveau bloc accepté: groupe_samson_tilio_0_6 de adaptive_0, hauteur 12
+[Tick 87] Nouveau bloc accepté: basic_0_4 de basic_0, hauteur 13
+[Tick 87] Nouveau bloc accepté: greedy_1_6 de greedy_1, hauteur 14
+[Tick 87] Nouveau bloc accepté: adaptive_0_5 de adaptive_0, hauteur 15
+[Tick 89] Nouveau bloc accepté: logging_2_4 de logging_2, hauteur 14
+[Tick 89] Bloc rejeté: basic_0_5 de basic_0
+[Tick 90] Tentative de minage au tick 90
+[Tick 92] Bloc rejeté: logging_0_5 de logging_1
+[Tick 93] Nouveau bloc accepté: EMKAMA_0_9 de EMKAMA_0, hauteur 10
+[Tick 95] Nouveau bloc accepté: greedy_0_7 de greedy_0, hauteur 15
+[Tick 96] Nouveau bloc accepté: logging_1_6 de logging_1, hauteur 15
+[Tick 96] Nouveau bloc accepté: greedy_1_7 de logging_2, hauteur 15
+[Tick 97] Bloc rejeté: greedy_0_8 de greedy_0
+[Tick 97] Nouveau bloc accepté: groupe_samson_tilio_0_8 de EMKAMA_0, hauteur 16
+[Tick 100] Tentative de minage au tick 100
+[Tick 100] Choix du parent: greedy_0_8 (hauteur 17)
+[Tick 100] Nouveau bloc accepté: groupe_samson_tilio_0_9 de groupe_samson_tilio_0, hauteur 17
+[Tick 103] Nouveau bloc accepté: greedy_1_8 de greedy_1, hauteur 16
+[Tick 105] Nouveau bloc accepté: conservative_0_3 de basic_0, hauteur 16
+[Tick 105] Nouveau bloc accepté: EMKAMA_0_10 de adaptive_0, hauteur 11
+[Tick 105] Bloc rejeté: adaptive_0_6 de greedy_0
+[Tick 107] Nouveau bloc accepté: logging_2_5 de adaptive_0, hauteur 17
+[Tick 107] Bloc rejeté: logging_0_6 de basic_0
+[Tick 109] Nouveau bloc accepté: greedy_0_9 de basic_0, hauteur 19
+[Tick 110] Tentative de minage au tick 110
+[Tick 114] Nouveau bloc accepté: logging_1_7 de logging_1, hauteur 19
+[Tick 114] Nouveau bloc accepté: logging_2_6 de EMKAMA_0, hauteur 19
+[Tick 115] Choix du parent: greedy_0_9 (hauteur 19)
+[Tick 115] Nouveau bloc accepté: basic_0_6 de EMKAMA_0, hauteur 18
+[Tick 115] Nouveau bloc accepté: groupe_samson_tilio_0_10 de groupe_samson_tilio_0, hauteur 20
+[Tick 115] Bloc rejeté: greedy_1_10 de greedy_1
+[Tick 117] Nouveau bloc accepté: EMKAMA_0_11 de EMKAMA_0, hauteur 12
+[Tick 117] Nouveau bloc accepté: greedy_1_9 de EMKAMA_0, hauteur 17
+[Tick 119] Nouveau bloc accepté: adaptive_0_7 de greedy_0, hauteur 19
+[Tick 119] Nouveau bloc accepté: greedy_0_10 de EMKAMA_0, hauteur 20
+[Tick 120] Tentative de minage au tick 120
+[Tick 120] Nouveau bloc accepté: conservative_0_4 de conservative_0, hauteur 19
+[Tick 122] Nouveau bloc accepté: groupe_samson_tilio_0_11 de groupe_samson_tilio_0, hauteur 21
+[Tick 123] Bloc rejeté: logging_0_7 de adaptive_0
+[Tick 125] Nouveau bloc accepté: logging_1_8 de logging_2, hauteur 20
+[Tick 127] Nouveau bloc accepté: EMKAMA_0_12 de EMKAMA_0, hauteur 13
+[Tick 127] Nouveau bloc accepté: greedy_1_11 de greedy_1, hauteur 22
+[Tick 127] Nouveau bloc accepté: logging_2_7 de logging_2, hauteur 21
+[Tick 127] Nouveau bloc accepté: EMKAMA_0_13 de EMKAMA_0, hauteur 14
+[Tick 127] Nouveau bloc accepté: adaptive_0_8 de groupe_samson_tilio_0, hauteur 21
+[Tick 128] Nouveau bloc accepté: basic_0_7 de groupe_samson_tilio_0, hauteur 21
+[Tick 129] Nouveau bloc accepté: greedy_0_11 de EMKAMA_0, hauteur 22
+[Tick 130] Tentative de minage au tick 130
+[Tick 131] Nouveau bloc accepté: greedy_1_12 de basic_0, hauteur 23
+[Tick 132] Choix du parent: greedy_1_12 (hauteur 23)
+[Tick 136] Nouveau bloc accepté: groupe_samson_tilio_0_12 de EMKAMA_0, hauteur 22
+[Tick 140] Tentative de minage au tick 140
+[Tick 140] Nouveau bloc accepté: logging_2_8 de greedy_1, hauteur 24
+[Tick 141] Bloc rejeté: logging_0_8 de basic_0
+[Tick 141] Nouveau bloc accepté: greedy_1_13 de greedy_1, hauteur 24
+[Tick 143] Nouveau bloc accepté: groupe_samson_tilio_0_13 de greedy_0, hauteur 23
+[Tick 145] Nouveau bloc accepté: greedy_0_12 de greedy_0, hauteur 25
+[Tick 145] Nouveau bloc accepté: basic_0_8 de basic_0, hauteur 25
+[Tick 145] Nouveau bloc accepté: adaptive_0_9 de logging_2, hauteur 25
+[Tick 146] Nouveau bloc accepté: logging_1_9 de logging_2, hauteur 23
+[Tick 147] Nouveau bloc accepté: EMKAMA_0_14 de EMKAMA_0, hauteur 15
+[Tick 147] Nouveau bloc accepté: conservative_0_5 de logging_2, hauteur 23
+[Tick 148] Nouveau bloc accepté: greedy_1_14 de logging_1, hauteur 25
+[Tick 149] Nouveau bloc accepté: greedy_0_13 de greedy_0, hauteur 26
+[Tick 150] Tentative de minage au tick 150
+[Tick 150] Nouveau bloc accepté: groupe_samson_tilio_0_14 de EMKAMA_0, hauteur 26
+[Tick 151] Nouveau bloc accepté: conservative_0_6 de logging_2, hauteur 25
+[Tick 154] Choix du parent: greedy_0_13 (hauteur 26)
+[Tick 155] Nouveau bloc accepté: groupe_samson_tilio_0_15 de groupe_samson_tilio_0, hauteur 27
+[Tick 155] Nouveau bloc accepté: logging_1_10 de greedy_1, hauteur 27
+[Tick 159] Nouveau bloc accepté: logging_2_9 de logging_1, hauteur 27
+[Tick 159] Bloc rejeté: logging_0_9 de EMKAMA_0
+[Tick 159] Nouveau bloc accepté: EMKAMA_0_15 de logging_2, hauteur 16
+[Tick 160] Tentative de minage au tick 160
+[Tick 163] Nouveau bloc accepté: greedy_0_14 de logging_2, hauteur 28
+[Tick 163] Nouveau bloc accepté: EMKAMA_0_16 de logging_2, hauteur 17
+[Tick 165] Nouveau bloc accepté: EMKAMA_0_17 de adaptive_0, hauteur 18
+[Tick 166] Nouveau bloc accepté: greedy_0_15 de greedy_0, hauteur 29
+[Tick 166] Nouveau bloc accepté: adaptive_0_10 de greedy_1, hauteur 27
+[Tick 166] Nouveau bloc accepté: greedy_1_15 de logging_2, hauteur 28
+[Tick 167] Nouveau bloc accepté: basic_0_9 de basic_0, hauteur 28
+[Tick 168] Nouveau bloc accepté: logging_2_10 de logging_2, hauteur 29
+[Tick 169] Choix du parent: greedy_0_15 (hauteur 29)
+[Tick 169] Nouveau bloc accepté: conservative_0_7 de EMKAMA_0, hauteur 29
+[Tick 170] Tentative de minage au tick 170
+[Tick 172] Nouveau bloc accepté: greedy_1_16 de greedy_0, hauteur 30
+[Tick 174] Nouveau bloc accepté: logging_1_11 de basic_0, hauteur 30
+[Tick 175] Nouveau bloc accepté: basic_0_10 de logging_1, hauteur 31
+[Tick 175] Nouveau bloc accepté: adaptive_0_11 de adaptive_0, hauteur 31
+[Tick 176] Nouveau bloc accepté: groupe_samson_tilio_0_16 de greedy_0, hauteur 30
+[Tick 178] Bloc rejeté: logging_0_10 de greedy_0
+[Tick 179] Nouveau bloc accepté: greedy_0_16 de greedy_0, hauteur 31
+[Tick 180] Tentative de minage au tick 180
+[Tick 180] Choix du parent: basic_0_10 (hauteur 31)
+[Tick 180] Nouveau bloc accepté: EMKAMA_0_18 de EMKAMA_0, hauteur 19
+[Tick 184] Bloc rejeté: logging_0_11 de greedy_1
+[Tick 184] Nouveau bloc accepté: logging_1_12 de EMKAMA_0, hauteur 32
+[Tick 184] Nouveau bloc accepté: logging_2_11 de basic_0, hauteur 31
+[Tick 185] Nouveau bloc accepté: greedy_1_17 de logging_2, hauteur 32
+[Tick 186] Nouveau bloc accepté: EMKAMA_0_19 de logging_1, hauteur 20
+[Tick 189] Nouveau bloc accepté: conservative_0_8 de conservative_0, hauteur 33
+[Tick 189] Nouveau bloc accepté: logging_2_12 de EMKAMA_0, hauteur 33
+[Tick 190] Tentative de minage au tick 190
+[Tick 191] Nouveau bloc accepté: EMKAMA_0_20 de EMKAMA_0, hauteur 21
+[Tick 191] Nouveau bloc accepté: groupe_samson_tilio_0_17 de basic_0, hauteur 32
+[Tick 192] Nouveau bloc accepté: greedy_0_17 de greedy_0, hauteur 33
+[Tick 195] Nouveau bloc accepté: groupe_samson_tilio_0_18 de groupe_samson_tilio_0, hauteur 34
+[Tick 196] Nouveau bloc accepté: logging_1_13 de basic_0, hauteur 33
+[Tick 197] Nouveau bloc accepté: adaptive_0_12 de logging_1, hauteur 33
+[Tick 198] Choix du parent: groupe_samson_tilio_0_18 (hauteur 34)
+[Tick 198] Bloc rejeté: greedy_0_18 de EMKAMA_0
+[Tick 200] Tentative de minage au tick 200
+[Tick 202] Nouveau bloc accepté: greedy_1_18 de adaptive_0, hauteur 34
+[Tick 202] Nouveau bloc accepté: logging_2_13 de EMKAMA_0, hauteur 34
+[Tick 203] Bloc rejeté: logging_0_12 de greedy_1
+[Tick 203] Nouveau bloc accepté: basic_0_11 de logging_1, hauteur 34
+[Tick 203] Nouveau bloc accepté: groupe_samson_tilio_0_19 de greedy_1, hauteur 35
+[Tick 206] Nouveau bloc accepté: adaptive_0_13 de adaptive_0, hauteur 36
+[Tick 208] Nouveau bloc accepté: EMKAMA_0_21 de greedy_1, hauteur 22
+[Tick 208] Nouveau bloc accepté: greedy_1_19 de greedy_1, hauteur 36
+[Tick 210] Tentative de minage au tick 210
+[Tick 210] Choix du parent: adaptive_0_13 (hauteur 36)
+[Tick 211] Nouveau bloc accepté: greedy_1_20 de greedy_1, hauteur 37
+[Tick 211] Nouveau bloc accepté: basic_0_12 de greedy_0, hauteur 36
+[Tick 212] Nouveau bloc accepté: greedy_0_19 de groupe_samson_tilio_0, hauteur 36
+[Tick 213] Nouveau bloc accepté: conservative_0_9 de EMKAMA_0, hauteur 37
+[Tick 214] Nouveau bloc accepté: EMKAMA_0_22 de EMKAMA_0, hauteur 23
+[Tick 215] Nouveau bloc accepté: logging_2_14 de logging_2, hauteur 37
+[Tick 217] Nouveau bloc accepté: groupe_samson_tilio_0_20 de greedy_1, hauteur 37
+[Tick 218] Bloc rejeté: logging_0_13 de greedy_0
+[Tick 220] Tentative de minage au tick 220
+[Tick 220] Nouveau bloc accepté: logging_1_14 de logging_1, hauteur 37
+[Tick 220] Nouveau bloc accepté: EMKAMA_0_23 de EMKAMA_0, hauteur 24
+[Tick 220] Nouveau bloc accepté: basic_0_13 de EMKAMA_0, hauteur 38
+[Tick 224] Nouveau bloc accepté: adaptive_0_14 de adaptive_0, hauteur 38
+[Tick 224] Bloc rejeté: groupe_samson_tilio_0_21 de groupe_samson_tilio_0
+[Tick 225] Nouveau bloc accepté: greedy_0_20 de greedy_0, hauteur 38
+[Tick 226] Nouveau bloc accepté: greedy_1_21 de logging_2, hauteur 38
+[Tick 227] Choix du parent: groupe_samson_tilio_0_21 (hauteur 39)
+[Tick 228] Nouveau bloc accepté: logging_1_15 de logging_1, hauteur 39
+[Tick 229] Nouveau bloc accepté: EMKAMA_0_24 de EMKAMA_0, hauteur 25
+[Tick 229] Nouveau bloc accepté: greedy_0_21 de EMKAMA_0, hauteur 40
+[Tick 229] Nouveau bloc accepté: greedy_1_22 de greedy_1, hauteur 39
+[Tick 230] Tentative de minage au tick 230
+[Tick 233] Nouveau bloc accepté: conservative_0_10 de basic_0, hauteur 40
+[Tick 235] Nouveau bloc accepté: basic_0_14 de EMKAMA_0, hauteur 41
+[Tick 236] Nouveau bloc accepté: greedy_0_22 de greedy_0, hauteur 41
+[Tick 238] Nouveau bloc accepté: adaptive_0_15 de adaptive_0, hauteur 42
+[Tick 239] Nouveau bloc accepté: logging_2_15 de greedy_0, hauteur 40
+[Tick 240] Tentative de minage au tick 240
+[Tick 240] Bloc rejeté: logging_0_14 de EMKAMA_0
+[Tick 242] Nouveau bloc accepté: groupe_samson_tilio_0_22 de EMKAMA_0, hauteur 40
+[Tick 243] Choix du parent: adaptive_0_15 (hauteur 42)
+[Tick 244] Bloc rejeté: logging_0_15 de adaptive_0
+[Tick 246] Nouveau bloc accepté: logging_1_16 de logging_1, hauteur 42
+[Tick 246] Nouveau bloc accepté: greedy_1_23 de groupe_samson_tilio_0, hauteur 41
+[Tick 247] Nouveau bloc accepté: EMKAMA_0_25 de EMKAMA_0, hauteur 26
+[Tick 249] Nouveau bloc accepté: logging_2_16 de logging_2, hauteur 43
+[Tick 250] Tentative de minage au tick 250
+[Tick 251] Nouveau bloc accepté: greedy_1_24 de logging_2, hauteur 42
+[Tick 252] Nouveau bloc accepté: greedy_0_23 de greedy_0, hauteur 42
+[Tick 252] Nouveau bloc accepté: EMKAMA_0_26 de greedy_0, hauteur 27
+[Tick 254] Nouveau bloc accepté: groupe_samson_tilio_0_23 de groupe_samson_tilio_0, hauteur 43
+[Tick 256] Nouveau bloc accepté: adaptive_0_16 de greedy_1, hauteur 44
+[Tick 257] Nouveau bloc accepté: basic_0_15 de groupe_samson_tilio_0, hauteur 44
+[Tick 258] Bloc rejeté: groupe_samson_tilio_0_24 de groupe_samson_tilio_0
+[Tick 258] Nouveau bloc accepté: greedy_1_25 de EMKAMA_0, hauteur 44
+[Tick 259] Nouveau bloc accepté: EMKAMA_0_27 de greedy_1, hauteur 28
+[Tick 259] Nouveau bloc accepté: greedy_0_25 de EMKAMA_0, hauteur 45
+[Tick 260] Tentative de minage au tick 260
+[Tick 261] Nouveau bloc accepté: greedy_0_24 de greedy_0, hauteur 43
+[Tick 262] Nouveau bloc accepté: groupe_samson_tilio_0_25 de groupe_samson_tilio_0, hauteur 46
+[Tick 263] Choix du parent: groupe_samson_tilio_0_25 (hauteur 46)
+[Tick 263] Nouveau bloc accepté: greedy_1_26 de greedy_1, hauteur 46
+[Tick 264] Nouveau bloc accepté: adaptive_0_17 de adaptive_0, hauteur 46
+[Tick 265] Nouveau bloc accepté: logging_1_17 de greedy_1, hauteur 44
+[Tick 267] Nouveau bloc accepté: logging_2_17 de logging_2, hauteur 45
+[Tick 268] Nouveau bloc accepté: conservative_0_11 de conservative_0, hauteur 44
+[Tick 268] Nouveau bloc accepté: greedy_0_26 de greedy_0, hauteur 46
+[Tick 268] Nouveau bloc accepté: logging_1_18 de logging_1, hauteur 46
+[Tick 270] Tentative de minage au tick 270
+[Tick 273] Nouveau bloc accepté: EMKAMA_0_28 de EMKAMA_0, hauteur 29
+[Tick 275] Nouveau bloc accepté: basic_0_16 de adaptive_0, hauteur 47
+[Tick 275] Nouveau bloc accepté: conservative_0_12 de conservative_0, hauteur 47
+[Tick 276] Choix du parent: logging_0_16 (hauteur 47)
+[Tick 280] Tentative de minage au tick 280
+[Tick 281] Nouveau bloc accepté: logging_2_18 de logging_2, hauteur 47
+[Tick 281] Nouveau bloc accepté: greedy_1_27 de greedy_1, hauteur 48
+[Tick 283] Nouveau bloc accepté: basic_0_17 de logging_1, hauteur 48
+[Tick 283] Nouveau bloc accepté: EMKAMA_0_29 de basic_0, hauteur 30
+[Tick 285] Nouveau bloc accepté: logging_1_19 de logging_1, hauteur 49
+[Tick 286] Nouveau bloc accepté: groupe_samson_tilio_0_26 de greedy_1, hauteur 48
+[Tick 288] Bloc rejeté: adaptive_0_18 de logging_2
+[Tick 289] Bloc rejeté: logging_0_17 de EMKAMA_0
+[Tick 289] Bloc rejeté: logging_0_16 de EMKAMA_0
+[Tick 290] Tentative de minage au tick 290
+[Tick 290] Nouveau bloc accepté: EMKAMA_0_30 de EMKAMA_0, hauteur 31
+[Tick 291] Nouveau bloc accepté: greedy_0_27 de greedy_0, hauteur 48
+[Tick 291] Nouveau bloc accepté: greedy_0_28 de basic_0, hauteur 50
+[Tick 292] Nouveau bloc accepté: logging_2_19 de logging_2, hauteur 50
+[Tick 293] Nouveau bloc accepté: greedy_1_28 de greedy_1, hauteur 51
+[Tick 294] Choix du parent: greedy_1_28 (hauteur 51)
+[Tick 294] Nouveau bloc accepté: groupe_samson_tilio_0_27 de groupe_samson_tilio_0, hauteur 51
+[Tick 295] Nouveau bloc accepté: conservative_0_13 de greedy_0, hauteur 50
+[Tick 297] Nouveau bloc accepté: basic_0_18 de basic_0, hauteur 51
+[Tick 300] Tentative de minage au tick 300
+[Tick 301] Nouveau bloc accepté: EMKAMA_0_31 de EMKAMA_0, hauteur 32
+[Tick 301] Bloc rejeté: logging_0_18 de greedy_0
+[Tick 304] Choix du parent: logging_0_18 (hauteur 52)
+[Tick 304] Bloc rejeté: groupe_samson_tilio_0_28 de logging_2
+[Tick 305] Nouveau bloc accepté: adaptive_0_19 de greedy_1, hauteur 51
+[Tick 306] Nouveau bloc accepté: greedy_1_29 de logging_1, hauteur 52
+[Tick 308] Nouveau bloc accepté: logging_1_20 de logging_1, hauteur 52
+[Tick 308] Nouveau bloc accepté: EMKAMA_0_32 de EMKAMA_0, hauteur 33
+[Tick 309] Bloc rejeté: adaptive_0_20 de adaptive_0
+[Tick 310] Tentative de minage au tick 310
+[Tick 310] Nouveau bloc accepté: greedy_0_29 de adaptive_0, hauteur 53
+[Tick 312] Bloc rejeté: groupe_samson_tilio_0_29 de groupe_samson_tilio_0
+[Tick 313] Nouveau bloc accepté: logging_2_20 de groupe_samson_tilio_0, hauteur 54
+[Tick 313] Nouveau bloc accepté: greedy_1_30 de greedy_1, hauteur 53
+[Tick 316] Nouveau bloc accepté: basic_0_19 de EMKAMA_0, hauteur 54
+[Tick 316] Nouveau bloc accepté: greedy_0_30 de basic_0, hauteur 54
+[Tick 318] Bloc rejeté: logging_0_19 de EMKAMA_0
+[Tick 320] Tentative de minage au tick 320
+[Tick 320] Nouveau bloc accepté: conservative_0_14 de greedy_0, hauteur 54
+[Tick 321] Bloc rejeté: logging_2_21 de logging_1
+[Tick 322] Nouveau bloc accepté: basic_0_20 de groupe_samson_tilio_0, hauteur 55
+[Tick 322] Nouveau bloc accepté: greedy_0_31 de greedy_0, hauteur 55
+[Tick 322] Nouveau bloc accepté: groupe_samson_tilio_0_30 de basic_0, hauteur 56
+[Tick 324] Choix du parent: logging_2_21 (hauteur 57)
+[Tick 324] Nouveau bloc accepté: EMKAMA_0_33 de logging_1, hauteur 34
+[Tick 324] Nouveau bloc accepté: logging_1_21 de logging_2, hauteur 54
+[Tick 326] Nouveau bloc accepté: greedy_1_31 de basic_0, hauteur 56
+[Tick 327] Nouveau bloc accepté: groupe_samson_tilio_0_31 de groupe_samson_tilio_0, hauteur 57
+[Tick 330] Tentative de minage au tick 330
+[Tick 331] Nouveau bloc accepté: EMKAMA_0_34 de EMKAMA_0, hauteur 35
+[Tick 331] Nouveau bloc accepté: adaptive_0_21 de adaptive_0, hauteur 57
+[Tick 334] Nouveau bloc accepté: greedy_0_32 de logging_1, hauteur 58
+[Tick 335] Nouveau bloc accepté: greedy_1_32 de basic_0, hauteur 57
+[Tick 335] Nouveau bloc accepté: logging_1_22 de groupe_samson_tilio_0, hauteur 58
+[Tick 336] Nouveau bloc accepté: basic_0_21 de logging_1, hauteur 58
+[Tick 336] Bloc rejeté: logging_0_20 de adaptive_0
+[Tick 338] Nouveau bloc accepté: EMKAMA_0_35 de greedy_1, hauteur 36
+[Tick 339] Choix du parent: logging_0_20 (hauteur 58)
+[Tick 339] Nouveau bloc accepté: conservative_0_15 de conservative_0, hauteur 58
+[Tick 339] Nouveau bloc accepté: logging_1_23 de logging_1, hauteur 59
+[Tick 340] Tentative de minage au tick 340
+[Tick 341] Bloc rejeté: logging_2_22 de groupe_samson_tilio_0
+[Tick 342] Nouveau bloc accepté: adaptive_0_22 de adaptive_0, hauteur 59
+[Tick 342] Bloc rejeté: basic_0_22 de basic_0
+[Tick 343] Nouveau bloc accepté: greedy_0_33 de greedy_1, hauteur 59
+[Tick 343] Nouveau bloc accepté: groupe_samson_tilio_0_32 de basic_0, hauteur 59
+[Tick 347] Bloc rejeté: logging_0_21 de logging_2
+[Tick 348] Choix du parent: basic_0_22 (hauteur 61)
+[Tick 348] Nouveau bloc accepté: EMKAMA_0_36 de EMKAMA_0, hauteur 37
+[Tick 350] Tentative de minage au tick 350
+[Tick 350] Nouveau bloc accepté: groupe_samson_tilio_0_33 de greedy_0, hauteur 60
+[Tick 353] Nouveau bloc accepté: conservative_0_16 de EMKAMA_0, hauteur 61
+[Tick 353] Nouveau bloc accepté: greedy_1_33 de greedy_0, hauteur 60
+[Tick 353] Nouveau bloc accepté: greedy_0_34 de EMKAMA_0, hauteur 61
+[Tick 354] Nouveau bloc accepté: greedy_1_34 de greedy_1, hauteur 62
+[Tick 355] Nouveau bloc accepté: EMKAMA_0_37 de EMKAMA_0, hauteur 38
+[Tick 355] Bloc rejeté: logging_0_22 de basic_0
+[Tick 355] Nouveau bloc accepté: logging_1_24 de logging_1, hauteur 63
+[Tick 356] Choix du parent: logging_1_24 (hauteur 63)
+[Tick 357] Nouveau bloc accepté: adaptive_0_23 de basic_0, hauteur 62
+[Tick 359] Nouveau bloc accepté: groupe_samson_tilio_0_34 de basic_0, hauteur 62
+[Tick 360] Tentative de minage au tick 360
+[Tick 361] Nouveau bloc accepté: greedy_0_35 de groupe_samson_tilio_0, hauteur 63
+[Tick 362] Nouveau bloc accepté: logging_2_23 de basic_0, hauteur 62
+[Tick 364] Nouveau bloc accepté: groupe_samson_tilio_0_35 de greedy_0, hauteur 63
+[Tick 366] Nouveau bloc accepté: EMKAMA_0_38 de basic_0, hauteur 39
+[Tick 369] Bloc rejeté: logging_0_23 de greedy_1
+[Tick 370] Tentative de minage au tick 370
+[Tick 370] Choix du parent: logging_0_23 (hauteur 64)
+[Tick 372] Nouveau bloc accepté: adaptive_0_24 de logging_2, hauteur 65
+[Tick 372] Nouveau bloc accepté: conservative_0_17 de logging_2, hauteur 65
+[Tick 373] Nouveau bloc accepté: greedy_1_35 de greedy_1, hauteur 65
+[Tick 373] Nouveau bloc accepté: greedy_0_36 de greedy_0, hauteur 64
+[Tick 373] Nouveau bloc accepté: logging_1_25 de logging_1, hauteur 66
+[Tick 374] Nouveau bloc accepté: groupe_samson_tilio_0_36 de logging_2, hauteur 65
+[Tick 375] Nouveau bloc accepté: basic_0_23 de logging_1, hauteur 63
+[Tick 376] Bloc rejeté: logging_0_24 de EMKAMA_0
+[Tick 377] Nouveau bloc accepté: logging_2_24 de groupe_samson_tilio_0, hauteur 65
+[Tick 380] Tentative de minage au tick 380
+[Tick 381] Nouveau bloc accepté: greedy_1_36 de greedy_1, hauteur 66
+[Tick 382] Bloc rejeté: basic_0_24 de basic_0
+[Tick 383] Nouveau bloc accepté: groupe_samson_tilio_0_37 de basic_0, hauteur 66
+[Tick 384] Nouveau bloc accepté: EMKAMA_0_39 de greedy_1, hauteur 40
+[Tick 385] Nouveau bloc accepté: greedy_0_37 de greedy_1, hauteur 67
+[Tick 388] Nouveau bloc accepté: logging_2_25 de greedy_1, hauteur 66
+[Tick 390] Tentative de minage au tick 390
+[Tick 391] Nouveau bloc accepté: EMKAMA_0_40 de logging_1, hauteur 41
+[Tick 391] Nouveau bloc accepté: greedy_0_38 de greedy_0, hauteur 68
+[Tick 394] Choix du parent: greedy_0_38 (hauteur 68)
+[Tick 394] Nouveau bloc accepté: groupe_samson_tilio_0_38 de groupe_samson_tilio_0, hauteur 68
+[Tick 395] Nouveau bloc accepté: adaptive_0_25 de adaptive_0, hauteur 67
+[Tick 395] Nouveau bloc accepté: logging_2_26 de logging_2, hauteur 67
+[Tick 395] Nouveau bloc accepté: EMKAMA_0_41 de logging_1, hauteur 42
+[Tick 397] Nouveau bloc accepté: logging_1_26 de logging_1, hauteur 69
+[Tick 398] Nouveau bloc accepté: adaptive_0_26 de adaptive_0, hauteur 69
+[Tick 398] Bloc rejeté: greedy_1_38 de greedy_1
+[Tick 400] Tentative de minage au tick 400
+[Tick 401] Nouveau bloc accepté: greedy_1_37 de greedy_1, hauteur 68
+[Tick 402] Nouveau bloc accepté: conservative_0_18 de EMKAMA_0, hauteur 68
+[Tick 404] Nouveau bloc accepté: logging_2_27 de EMKAMA_0, hauteur 69
+[Tick 404] Nouveau bloc accepté: groupe_samson_tilio_0_39 de groupe_samson_tilio_0, hauteur 70
+[Tick 407] Nouveau bloc accepté: basic_0_25 de groupe_samson_tilio_0, hauteur 68
+[Tick 408] Choix du parent: greedy_1_38 (hauteur 70)
+[Tick 408] Nouveau bloc accepté: EMKAMA_0_42 de EMKAMA_0, hauteur 43
+[Tick 408] Nouveau bloc accepté: greedy_1_39 de greedy_1, hauteur 71
+[Tick 410] Tentative de minage au tick 410
+[Tick 411] Bloc rejeté: logging_0_25 de adaptive_0
+[Tick 412] Bloc rejeté: logging_0_26 de EMKAMA_0
+[Tick 412] Nouveau bloc accepté: greedy_0_39 de logging_2, hauteur 71
+[Tick 413] Nouveau bloc accepté: conservative_0_19 de basic_0, hauteur 70
+[Tick 415] Choix du parent: logging_0_26 (hauteur 71)
+[Tick 416] Nouveau bloc accepté: groupe_samson_tilio_0_40 de greedy_1, hauteur 71
+[Tick 417] Nouveau bloc accepté: greedy_0_40 de logging_1, hauteur 72
+[Tick 418] Nouveau bloc accepté: adaptive_0_27 de greedy_1, hauteur 72
+[Tick 418] Nouveau bloc accepté: logging_2_28 de logging_2, hauteur 72
+[Tick 418] Nouveau bloc accepté: EMKAMA_0_43 de logging_2, hauteur 44
+[Tick 418] Nouveau bloc accepté: basic_0_26 de groupe_samson_tilio_0, hauteur 72
+[Tick 419] Nouveau bloc accepté: logging_1_27 de adaptive_0, hauteur 72
+[Tick 420] Tentative de minage au tick 420
+[Tick 422] Bloc rejeté: groupe_samson_tilio_0_41 de groupe_samson_tilio_0
+[Tick 423] Nouveau bloc accepté: greedy_1_40 de logging_1, hauteur 73
+[Tick 423] Nouveau bloc accepté: greedy_1_41 de greedy_1, hauteur 74
+[Tick 424] Choix du parent: groupe_samson_tilio_0_41 (hauteur 74)
+[Tick 426] Bloc rejeté: logging_0_27 de logging_1
+[Tick 430] Tentative de minage au tick 430
+[Tick 431] Nouveau bloc accepté: greedy_0_41 de greedy_0, hauteur 73
+[Tick 431] Nouveau bloc accepté: basic_0_27 de basic_0, hauteur 74
+[Tick 432] Nouveau bloc accepté: EMKAMA_0_44 de EMKAMA_0, hauteur 45
+[Tick 434] Choix du parent: logging_0_28 (hauteur 75)
+[Tick 434] Bloc rejeté: logging_0_28 de groupe_samson_tilio_0
+[Tick 434] Nouveau bloc accepté: greedy_1_42 de greedy_1, hauteur 75
+[Tick 436] Nouveau bloc accepté: groupe_samson_tilio_0_42 de groupe_samson_tilio_0, hauteur 76
+[Tick 436] Nouveau bloc accepté: logging_2_29 de greedy_0, hauteur 75
+[Tick 439] Nouveau bloc accepté: greedy_0_42 de adaptive_0, hauteur 75
+[Tick 440] Tentative de minage au tick 440
+[Tick 440] Nouveau bloc accepté: conservative_0_20 de adaptive_0, hauteur 76
+[Tick 442] Nouveau bloc accepté: adaptive_0_28 de basic_0, hauteur 75
+[Tick 442] Nouveau bloc accepté: greedy_1_43 de logging_2, hauteur 76
+[Tick 442] Nouveau bloc accepté: greedy_0_43 de greedy_0, hauteur 77
+[Tick 445] Bloc rejeté: logging_0_29 de EMKAMA_0
+[Tick 445] Nouveau bloc accepté: EMKAMA_0_45 de basic_0, hauteur 46
+[Tick 447] Nouveau bloc accepté: logging_1_28 de greedy_0, hauteur 76
+[Tick 447] Nouveau bloc accepté: greedy_1_44 de groupe_samson_tilio_0, hauteur 77
+[Tick 449] Choix du parent: greedy_0_43 (hauteur 77)
+[Tick 449] Bloc rejeté: conservative_0_21 de conservative_0
+[Tick 450] Tentative de minage au tick 450
+[Tick 451] Nouveau bloc accepté: logging_2_30 de logging_2, hauteur 77
+[Tick 451] Nouveau bloc accepté: greedy_0_44 de EMKAMA_0, hauteur 78
+[Tick 451] Nouveau bloc accepté: groupe_samson_tilio_0_43 de greedy_1, hauteur 77
+[Tick 451] Bloc rejeté: basic_0_29 de basic_0
+[Tick 454] Nouveau bloc accepté: EMKAMA_0_46 de logging_2, hauteur 47
+[Tick 455] Nouveau bloc accepté: basic_0_28 de greedy_0, hauteur 77
+[Tick 455] Nouveau bloc accepté: adaptive_0_29 de logging_1, hauteur 78
+[Tick 456] Nouveau bloc accepté: EMKAMA_0_47 de EMKAMA_0, hauteur 48
+[Tick 457] Choix du parent: basic_0_29 (hauteur 79)
+[Tick 457] Nouveau bloc accepté: logging_1_29 de logging_2, hauteur 79
+[Tick 457] Bloc rejeté: logging_0_30 de EMKAMA_0
+[Tick 460] Tentative de minage au tick 460
+[Tick 460] Nouveau bloc accepté: logging_2_31 de basic_0, hauteur 80
+[Tick 460] Nouveau bloc accepté: groupe_samson_tilio_0_44 de groupe_samson_tilio_0, hauteur 79
+[Tick 460] Nouveau bloc accepté: greedy_0_45 de EMKAMA_0, hauteur 80
+[Tick 464] Nouveau bloc accepté: greedy_0_46 de greedy_0, hauteur 81
+[Tick 465] Bloc rejeté: greedy_1_46 de greedy_1
+[Tick 467] Nouveau bloc accepté: adaptive_0_30 de greedy_0, hauteur 79
+[Tick 467] Bloc rejeté: logging_0_31 de EMKAMA_0
+[Tick 467] Nouveau bloc accepté: EMKAMA_0_48 de greedy_0, hauteur 49
+[Tick 468] Choix du parent: greedy_0_46 (hauteur 81)
+[Tick 469] Nouveau bloc accepté: greedy_1_45 de logging_1, hauteur 79
+[Tick 470] Tentative de minage au tick 470
+[Tick 471] Nouveau bloc accepté: logging_1_30 de basic_0, hauteur 81
+[Tick 473] Nouveau bloc accepté: groupe_samson_tilio_0_45 de greedy_1, hauteur 82
+[Tick 473] Nouveau bloc accepté: greedy_0_47 de greedy_0, hauteur 83
+[Tick 474] Nouveau bloc accepté: greedy_1_47 de logging_2, hauteur 81
+[Tick 474] Nouveau bloc accepté: basic_0_30 de basic_0, hauteur 82
+[Tick 476] Nouveau bloc accepté: conservative_0_22 de conservative_0, hauteur 81
+[Tick 476] Bloc rejeté: logging_0_32 de adaptive_0
+[Tick 478] Nouveau bloc accepté: greedy_1_48 de greedy_1, hauteur 83
+[Tick 479] Choix du parent: greedy_0_47 (hauteur 83)
+[Tick 479] Nouveau bloc accepté: greedy_0_48 de greedy_0, hauteur 84
+[Tick 480] Tentative de minage au tick 480
+[Tick 480] Nouveau bloc accepté: EMKAMA_0_49 de EMKAMA_0, hauteur 50
+[Tick 480] Nouveau bloc accepté: logging_2_32 de adaptive_0, hauteur 82
+[Tick 481] Nouveau bloc accepté: adaptive_0_31 de adaptive_0, hauteur 83
+[Tick 482] Nouveau bloc accepté: logging_1_31 de basic_0, hauteur 82
+[Tick 483] Nouveau bloc accepté: EMKAMA_0_50 de EMKAMA_0, hauteur 51
+[Tick 486] Bloc rejeté: groupe_samson_tilio_0_47 de groupe_samson_tilio_0
+[Tick 488] Nouveau bloc accepté: groupe_samson_tilio_0_46 de groupe_samson_tilio_0, hauteur 83
+[Tick 488] Bloc rejeté: logging_0_33 de logging_2
+[Tick 490] Tentative de minage au tick 490
+[Tick 493] Choix du parent: logging_0_33 (hauteur 84)
+[Tick 494] Nouveau bloc accepté: basic_0_31 de basic_0, hauteur 84
+[Tick 494] Nouveau bloc accepté: adaptive_0_32 de basic_0, hauteur 84
+[Tick 495] Nouveau bloc accepté: logging_2_33 de groupe_samson_tilio_0, hauteur 85
+[Tick 496] Nouveau bloc accepté: greedy_1_49 de adaptive_0, hauteur 85
+[Tick 496] Bloc rejeté: logging_0_34 de EMKAMA_0
+[Tick 497] Nouveau bloc accepté: EMKAMA_0_51 de EMKAMA_0, hauteur 52
+[Tick 498] Nouveau bloc accepté: groupe_samson_tilio_0_48 de groupe_samson_tilio_0, hauteur 86
+[Tick 499] Nouveau bloc accepté: conservative_0_23 de EMKAMA_0, hauteur 85
+[Tick 500] Tentative de minage au tick 500
+[Tick 502] Nouveau bloc accepté: greedy_0_49 de greedy_1, hauteur 86
+[Tick 503] Nouveau bloc accepté: greedy_1_50 de basic_0, hauteur 86
+[Tick 504] Choix du parent: groupe_samson_tilio_0_48 (hauteur 86)
+[Tick 504] Nouveau bloc accepté: logging_2_34 de logging_2, hauteur 86
+[Tick 505] Nouveau bloc accepté: greedy_0_50 de greedy_0, hauteur 87
+[Tick 506] Nouveau bloc accepté: EMKAMA_0_52 de EMKAMA_0, hauteur 53
+[Tick 507] Nouveau bloc accepté: logging_1_32 de greedy_0, hauteur 85
+[Tick 508] Nouveau bloc accepté: EMKAMA_0_53 de EMKAMA_0, hauteur 54
+[Tick 509] Nouveau bloc accepté: groupe_samson_tilio_0_49 de groupe_samson_tilio_0, hauteur 88
+[Tick 509] Nouveau bloc accepté: greedy_1_51 de basic_0, hauteur 87
+[Tick 510] Tentative de minage au tick 510
+[Tick 510] Nouveau bloc accepté: adaptive_0_33 de EMKAMA_0, hauteur 87
+[Tick 513] Nouveau bloc accepté: basic_0_32 de greedy_0, hauteur 88
+[Tick 515] Nouveau bloc accepté: groupe_samson_tilio_0_50 de groupe_samson_tilio_0, hauteur 89
+[Tick 517] Choix du parent: groupe_samson_tilio_0_50 (hauteur 89)
+[Tick 518] Nouveau bloc accepté: conservative_0_24 de EMKAMA_0, hauteur 89
+[Tick 520] Tentative de minage au tick 520
+[Tick 520] Nouveau bloc accepté: logging_2_35 de groupe_samson_tilio_0, hauteur 88
+[Tick 521] Bloc rejeté: logging_0_35 de adaptive_0
+[Tick 521] Nouveau bloc accepté: greedy_0_51 de greedy_1, hauteur 89
+[Tick 522] Nouveau bloc accepté: greedy_1_52 de logging_1, hauteur 89
+[Tick 522] Nouveau bloc accepté: EMKAMA_0_54 de EMKAMA_0, hauteur 55
+[Tick 525] Bloc rejeté: logging_0_36 de greedy_1
+[Tick 525] Bloc rejeté: greedy_0_52 de greedy_0
+[Tick 527] Nouveau bloc accepté: groupe_samson_tilio_0_51 de EMKAMA_0, hauteur 90
+[Tick 527] Nouveau bloc accepté: basic_0_33 de greedy_1, hauteur 90
+[Tick 529] Nouveau bloc accepté: logging_1_33 de logging_2, hauteur 89
+[Tick 530] Tentative de minage au tick 530
+[Tick 530] Nouveau bloc accepté: adaptive_0_34 de adaptive_0, hauteur 90
+[Tick 533] Choix du parent: greedy_0_52 (hauteur 91)
+[Tick 533] Nouveau bloc accepté: greedy_1_53 de logging_2, hauteur 91
+[Tick 533] Bloc rejeté: logging_2_36 de logging_2
+[Tick 535] Nouveau bloc accepté: greedy_0_53 de EMKAMA_0, hauteur 92
+[Tick 536] Nouveau bloc accepté: conservative_0_25 de conservative_0, hauteur 92
+[Tick 537] Nouveau bloc accepté: logging_1_34 de logging_1, hauteur 92
+[Tick 537] Nouveau bloc accepté: adaptive_0_35 de adaptive_0, hauteur 91
+[Tick 537] Bloc rejeté: logging_0_37 de adaptive_0
+[Tick 538] Nouveau bloc accepté: EMKAMA_0_55 de EMKAMA_0, hauteur 56
+[Tick 539] Nouveau bloc accepté: groupe_samson_tilio_0_52 de groupe_samson_tilio_0, hauteur 91
+[Tick 540] Tentative de minage au tick 540
+[Tick 541] Nouveau bloc accepté: logging_1_35 de EMKAMA_0, hauteur 93
+[Tick 543] Nouveau bloc accepté: groupe_samson_tilio_0_53 de groupe_samson_tilio_0, hauteur 93
+[Tick 543] Bloc rejeté: greedy_1_55 de logging_1
+[Tick 546] Nouveau bloc accepté: greedy_1_54 de EMKAMA_0, hauteur 92
+[Tick 550] Tentative de minage au tick 550
+[Tick 550] Nouveau bloc accepté: basic_0_34 de basic_0, hauteur 94
+[Tick 553] Choix du parent: basic_0_34 (hauteur 94)
+[Tick 553] Nouveau bloc accepté: greedy_0_54 de adaptive_0, hauteur 94
+[Tick 553] Nouveau bloc accepté: conservative_0_26 de adaptive_0, hauteur 94
+[Tick 555] Nouveau bloc accepté: EMKAMA_0_56 de EMKAMA_0, hauteur 57
+[Tick 555] Nouveau bloc accepté: logging_1_36 de greedy_0, hauteur 94
+[Tick 555] Nouveau bloc accepté: logging_2_37 de basic_0, hauteur 93
+[Tick 558] Nouveau bloc accepté: groupe_samson_tilio_0_54 de groupe_samson_tilio_0, hauteur 95
+[Tick 558] Bloc rejeté: greedy_1_57 de greedy_1
+[Tick 559] Nouveau bloc accepté: EMKAMA_0_57 de EMKAMA_0, hauteur 58
+[Tick 560] Tentative de minage au tick 560
+[Tick 561] Nouveau bloc accepté: greedy_1_56 de EMKAMA_0, hauteur 95
+[Tick 562] Nouveau bloc accepté: groupe_samson_tilio_0_55 de logging_2, hauteur 96
+[Tick 562] Nouveau bloc accepté: adaptive_0_36 de groupe_samson_tilio_0, hauteur 95
+[Tick 562] Bloc rejeté: logging_0_38 de logging_2
+[Tick 565] Choix du parent: greedy_1_57 (hauteur 96)
+[Tick 565] Nouveau bloc accepté: greedy_0_55 de greedy_1, hauteur 96
+[Tick 568] Bloc rejeté: EMKAMA_0_59 de EMKAMA_0
+[Tick 568] Nouveau bloc accepté: adaptive_0_37 de logging_1, hauteur 97
+[Tick 569] Nouveau bloc accepté: EMKAMA_0_58 de EMKAMA_0, hauteur 59
+[Tick 569] Nouveau bloc accepté: logging_1_37 de greedy_0, hauteur 97
+[Tick 570] Tentative de minage au tick 570
+[Tick 570] Nouveau bloc accepté: greedy_0_56 de greedy_0, hauteur 98
+[Tick 571] Bloc rejeté: logging_0_39 de logging_2
+[Tick 571] Nouveau bloc accepté: basic_0_35 de adaptive_0, hauteur 97
+[Tick 572] Nouveau bloc accepté: logging_2_38 de logging_2, hauteur 97
+[Tick 573] Nouveau bloc accepté: conservative_0_27 de conservative_0, hauteur 98
+[Tick 575] Choix du parent: greedy_0_56 (hauteur 98)
+[Tick 575] Nouveau bloc accepté: groupe_samson_tilio_0_56 de groupe_samson_tilio_0, hauteur 98
+[Tick 576] Nouveau bloc accepté: greedy_0_57 de greedy_0, hauteur 99
+[Tick 577] Nouveau bloc accepté: EMKAMA_0_60 de EMKAMA_0, hauteur 61
+[Tick 580] Tentative de minage au tick 580
+[Tick 580] Nouveau bloc accepté: greedy_1_58 de greedy_0, hauteur 99
+[Tick 581] Nouveau bloc accepté: groupe_samson_tilio_0_57 de groupe_samson_tilio_0, hauteur 100
+[Tick 581] Bloc rejeté: greedy_0_58 de greedy_0
+[Tick 582] Nouveau bloc accepté: greedy_1_59 de EMKAMA_0, hauteur 100
+[Tick 582] Bloc rejeté: adaptive_0_38 de adaptive_0
+[Tick 584] Bloc rejeté: logging_0_40 de logging_1
+[Tick 584] Nouveau bloc accepté: logging_1_38 de logging_2, hauteur 100
+[Tick 584] Bloc rejeté: logging_2_39 de logging_2
+[Tick 585] Choix du parent: greedy_0_58 (hauteur 101)
+[Tick 586] Nouveau bloc accepté: greedy_1_60 de greedy_1, hauteur 101
+[Tick 589] Nouveau bloc accepté: basic_0_36 de basic_0, hauteur 102
+[Tick 590] Tentative de minage au tick 590
+[Tick 591] Nouveau bloc accepté: greedy_0_59 de greedy_0, hauteur 103
+[Tick 593] Nouveau bloc accepté: logging_1_39 de logging_1, hauteur 102
+[Tick 593] Bloc rejeté: logging_0_41 de greedy_1
+[Tick 593] Nouveau bloc accepté: EMKAMA_0_61 de logging_2, hauteur 62
+[Tick 596] Choix du parent: greedy_0_59 (hauteur 103)
+[Tick 596] Nouveau bloc accepté: conservative_0_28 de basic_0, hauteur 102
+[Tick 597] Nouveau bloc accepté: groupe_samson_tilio_0_58 de groupe_samson_tilio_0, hauteur 103
+[Tick 597] Nouveau bloc accepté: greedy_1_61 de greedy_1, hauteur 104
+[Tick 600] Tentative de minage au tick 600
+[Tick 603] Bloc rejeté: EMKAMA_0_63 de EMKAMA_0
+[Tick 603] Bloc rejeté: logging_0_42 de greedy_1
+[Tick 604] Nouveau bloc accepté: adaptive_0_39 de greedy_0, hauteur 103
+[Tick 605] Nouveau bloc accepté: greedy_0_60 de basic_0, hauteur 104
+[Tick 607] Nouveau bloc accepté: groupe_samson_tilio_0_59 de logging_2, hauteur 104
+[Tick 607] Nouveau bloc accepté: EMKAMA_0_62 de logging_2, hauteur 63
+[Tick 607] Bloc rejeté: greedy_0_61 de greedy_0
+[Tick 607] Nouveau bloc accepté: basic_0_37 de EMKAMA_0, hauteur 105
+[Tick 608] Choix du parent: greedy_0_61 (hauteur 106)
+[Tick 609] Nouveau bloc accepté: logging_1_40 de logging_1, hauteur 104
+[Tick 610] Tentative de minage au tick 610
+[Tick 611] Nouveau bloc accepté: logging_2_40 de EMKAMA_0, hauteur 104
+[Tick 611] Nouveau bloc accepté: greedy_1_62 de logging_2, hauteur 105
+[Tick 612] Bloc rejeté: logging_0_43 de greedy_1
+[Tick 614] Nouveau bloc accepté: groupe_samson_tilio_0_60 de EMKAMA_0, hauteur 105
+[Tick 614] Nouveau bloc accepté: basic_0_38 de basic_0, hauteur 108
+[Tick 617] Nouveau bloc accepté: greedy_1_63 de basic_0, hauteur 107
+[Tick 617] Nouveau bloc accepté: conservative_0_29 de EMKAMA_0, hauteur 107
+[Tick 617] Nouveau bloc accepté: adaptive_0_40 de logging_2, hauteur 106
+[Tick 618] Nouveau bloc accepté: greedy_1_64 de greedy_1, hauteur 108
+[Tick 618] Nouveau bloc accepté: logging_1_41 de adaptive_0, hauteur 106
+[Tick 619] Nouveau bloc accepté: groupe_samson_tilio_0_61 de greedy_0, hauteur 107
+[Tick 620] Tentative de minage au tick 620
+[Tick 620] Nouveau bloc accepté: EMKAMA_0_64 de greedy_0, hauteur 65
+[Tick 620] Nouveau bloc accepté: greedy_0_62 de greedy_0, hauteur 108
+[Tick 621] Choix du parent: basic_0_38 (hauteur 108)
+[Tick 621] Nouveau bloc accepté: logging_2_41 de logging_2, hauteur 109
+[Tick 622] Nouveau bloc accepté: adaptive_0_41 de greedy_0, hauteur 109
+[Tick 623] Nouveau bloc accepté: groupe_samson_tilio_0_62 de greedy_1, hauteur 109
+[Tick 627] Bloc rejeté: logging_0_44 de logging_1
+[Tick 629] Nouveau bloc accepté: basic_0_39 de basic_0, hauteur 110
+[Tick 630] Tentative de minage au tick 630
+[Tick 630] Bloc rejeté: logging_1_42 de greedy_1
+[Tick 631] Nouveau bloc accepté: logging_2_42 de logging_2, hauteur 110
+[Tick 631] Nouveau bloc accepté: EMKAMA_0_65 de adaptive_0, hauteur 66
+[Tick 632] Nouveau bloc accepté: greedy_1_65 de logging_2, hauteur 110
+[Tick 634] Nouveau bloc accepté: conservative_0_30 de logging_2, hauteur 110
+[Tick 634] Bloc rejeté: greedy_0_64 de greedy_0
+[Tick 636] Nouveau bloc accepté: greedy_0_63 de greedy_1, hauteur 110
+[Tick 637] Nouveau bloc accepté: EMKAMA_0_66 de EMKAMA_0, hauteur 67
+[Tick 637] Nouveau bloc accepté: EMKAMA_0_67 de EMKAMA_0, hauteur 68
+[Tick 639] Bloc rejeté: groupe_samson_tilio_0_64 de groupe_samson_tilio_0
+[Tick 640] Tentative de minage au tick 640
+[Tick 640] Nouveau bloc accepté: groupe_samson_tilio_0_63 de groupe_samson_tilio_0, hauteur 110
+[Tick 640] Nouveau bloc accepté: greedy_1_66 de adaptive_0, hauteur 112
+[Tick 641] Choix du parent: groupe_samson_tilio_0_64 (hauteur 113)
+[Tick 641] Nouveau bloc accepté: adaptive_0_42 de EMKAMA_0, hauteur 111
+[Tick 643] Bloc rejeté: greedy_0_65 de greedy_0
+[Tick 644] Bloc rejeté: logging_0_45 de adaptive_0
+[Tick 645] Nouveau bloc accepté: logging_2_43 de greedy_0, hauteur 112
+[Tick 645] Nouveau bloc accepté: conservative_0_31 de conservative_0, hauteur 113
+[Tick 648] Nouveau bloc accepté: logging_2_44 de logging_1, hauteur 114
+[Tick 649] Nouveau bloc accepté: basic_0_40 de basic_0, hauteur 113
+[Tick 650] Tentative de minage au tick 650
+[Tick 651] Nouveau bloc accepté: greedy_0_66 de groupe_samson_tilio_0, hauteur 115
+[Tick 653] Nouveau bloc accepté: greedy_1_67 de greedy_0, hauteur 113
+[Tick 653] Nouveau bloc accepté: greedy_1_68 de groupe_samson_tilio_0, hauteur 115
+[Tick 654] Nouveau bloc accepté: groupe_samson_tilio_0_65 de greedy_1, hauteur 114
+[Tick 655] Nouveau bloc accepté: EMKAMA_0_68 de EMKAMA_0, hauteur 69
+[Tick 657] Nouveau bloc accepté: adaptive_0_43 de adaptive_0, hauteur 115
+[Tick 657] Nouveau bloc accepté: logging_1_44 de logging_1, hauteur 116
+[Tick 660] Tentative de minage au tick 660
+[Tick 660] Choix du parent: logging_1_44 (hauteur 116)
+[Tick 660] Nouveau bloc accepté: logging_1_43 de logging_1, hauteur 114
+[Tick 663] Nouveau bloc accepté: groupe_samson_tilio_0_66 de groupe_samson_tilio_0, hauteur 116
+[Tick 663] Nouveau bloc accepté: logging_2_45 de logging_2, hauteur 116
+[Tick 665] Nouveau bloc accepté: EMKAMA_0_69 de EMKAMA_0, hauteur 70
+[Tick 666] Nouveau bloc accepté: basic_0_41 de basic_0, hauteur 116
+[Tick 669] Nouveau bloc accepté: greedy_0_67 de greedy_0, hauteur 116
+[Tick 669] Nouveau bloc accepté: logging_2_46 de groupe_samson_tilio_0, hauteur 117
+[Tick 669] Nouveau bloc accepté: EMKAMA_0_70 de EMKAMA_0, hauteur 71
+[Tick 670] Tentative de minage au tick 670
+[Tick 672] Bloc rejeté: logging_0_46 de EMKAMA_0
+[Tick 672] Nouveau bloc accepté: logging_1_45 de logging_1, hauteur 118
+[Tick 672] Nouveau bloc accepté: greedy_1_69 de EMKAMA_0, hauteur 117
+[Tick 674] Bloc rejeté: groupe_samson_tilio_0_68 de groupe_samson_tilio_0
+[Tick 676] Nouveau bloc accepté: EMKAMA_0_71 de EMKAMA_0, hauteur 72
+[Tick 677] Nouveau bloc accepté: greedy_0_68 de greedy_0, hauteur 118
+[Tick 677] Nouveau bloc accepté: groupe_samson_tilio_0_67 de EMKAMA_0, hauteur 117
+[Tick 678] Nouveau bloc accepté: adaptive_0_44 de adaptive_0, hauteur 118
+[Tick 679] Nouveau bloc accepté: logging_2_47 de logging_2, hauteur 118
+[Tick 679] Nouveau bloc accepté: greedy_1_70 de greedy_1, hauteur 118
+[Tick 680] Tentative de minage au tick 680
+[Tick 680] Nouveau bloc accepté: basic_0_42 de basic_0, hauteur 119
+[Tick 680] Nouveau bloc accepté: conservative_0_32 de EMKAMA_0, hauteur 118
+[Tick 681] Choix du parent: basic_0_42 (hauteur 119)
+[Tick 690] Tentative de minage au tick 690
+[Tick 693] Nouveau bloc accepté: groupe_samson_tilio_0_69 de greedy_0, hauteur 120
+[Tick 693] Nouveau bloc accepté: adaptive_0_45 de basic_0, hauteur 120
+[Tick 693] Nouveau bloc accepté: logging_1_46 de groupe_samson_tilio_0, hauteur 121
+[Tick 697] Bloc rejeté: logging_0_47 de basic_0
+[Tick 698] Nouveau bloc accepté: conservative_0_33 de greedy_1, hauteur 121
+[Tick 699] Nouveau bloc accepté: adaptive_0_46 de adaptive_0, hauteur 122
+[Tick 700] Tentative de minage au tick 700
+[Tick 702] Choix du parent: adaptive_0_46 (hauteur 122)
+[Tick 703] Nouveau bloc accepté: groupe_samson_tilio_0_70 de groupe_samson_tilio_0, hauteur 121
+[Tick 703] Nouveau bloc accepté: greedy_0_69 de greedy_0, hauteur 121
+[Tick 707] Bloc rejeté: basic_0_44 de basic_0
+[Tick 708] Bloc rejeté: logging_0_48 de adaptive_0
+[Tick 709] Nouveau bloc accepté: basic_0_43 de basic_0, hauteur 122
+[Tick 709] Nouveau bloc accepté: logging_1_47 de adaptive_0, hauteur 122
+[Tick 710] Tentative de minage au tick 710
+[Tick 711] Nouveau bloc accepté: adaptive_0_47 de adaptive_0, hauteur 124
+[Tick 714] Bloc rejeté: greedy_1_74 de greedy_1
+[Tick 720] Tentative de minage au tick 720
+[Tick 722] Choix du parent: adaptive_0_47 (hauteur 124)
+[Tick 722] Nouveau bloc accepté: greedy_1_73 de adaptive_0, hauteur 124
+[Tick 724] Nouveau bloc accepté: conservative_0_34 de conservative_0, hauteur 124
+[Tick 725] Nouveau bloc accepté: logging_1_48 de logging_1, hauteur 124
+[Tick 727] Nouveau bloc accepté: basic_0_45 de basic_0, hauteur 126
+[Tick 728] Nouveau bloc accepté: greedy_1_75 de logging_1, hauteur 126
+[Tick 730] Tentative de minage au tick 730
+[Tick 738] Nouveau bloc accepté: conservative_0_35 de conservative_0, hauteur 127
+[Tick 738] Nouveau bloc accepté: greedy_1_76 de greedy_1, hauteur 127
+[Tick 739] Nouveau bloc accepté: logging_1_49 de logging_1, hauteur 127
+[Tick 740] Tentative de minage au tick 740
+[Tick 742] Bloc rejeté: logging_0_49 de greedy_1
+[Tick 742] Nouveau bloc accepté: logging_1_50 de greedy_1, hauteur 128
+[Tick 743] Nouveau bloc accepté: basic_0_46 de logging_1, hauteur 128
+[Tick 744] Choix du parent: logging_1_50 (hauteur 128)
+[Tick 748] Bloc rejeté: adaptive_0_49 de adaptive_0
+[Tick 749] Nouveau bloc accepté: adaptive_0_48 de logging_1, hauteur 128
+[Tick 750] Tentative de minage au tick 750
+[Tick 751] Nouveau bloc accepté: greedy_1_77 de greedy_1, hauteur 129
+[Tick 752] Nouveau bloc accepté: logging_1_51 de logging_1, hauteur 129
+[Tick 754] Choix du parent: logging_0_50 (hauteur 129)
+[Tick 756] Bloc rejeté: logging_0_50 de basic_0
+[Tick 760] Tentative de minage au tick 760
+[Tick 760] Nouveau bloc accepté: greedy_1_78 de greedy_1, hauteur 130
+[Tick 760] Nouveau bloc accepté: conservative_0_36 de conservative_0, hauteur 130
+[Tick 761] Nouveau bloc accepté: greedy_1_79 de greedy_1, hauteur 131
+[Tick 763] Nouveau bloc accepté: basic_0_47 de greedy_1, hauteur 130
+[Tick 764] Nouveau bloc accepté: logging_1_52 de logging_1, hauteur 131
+[Tick 766] Bloc rejeté: logging_0_51 de basic_0
+[Tick 766] Nouveau bloc accepté: adaptive_0_50 de basic_0, hauteur 132
+[Tick 770] Tentative de minage au tick 770
+[Tick 770] Nouveau bloc accepté: greedy_1_80 de greedy_1, hauteur 133
+[Tick 771] Choix du parent: greedy_1_80 (hauteur 133)
+[Tick 773] Nouveau bloc accepté: conservative_0_37 de conservative_0, hauteur 132
+[Tick 776] Nouveau bloc accepté: greedy_1_81 de adaptive_0, hauteur 134
+[Tick 780] Tentative de minage au tick 780
+[Tick 780] Nouveau bloc accepté: basic_0_48 de basic_0, hauteur 133
+[Tick 782] Bloc rejeté: logging_0_52 de logging_1
+[Tick 790] Tentative de minage au tick 790
+[Tick 790] Nouveau bloc accepté: adaptive_0_51 de greedy_1, hauteur 135
+[Tick 793] Nouveau bloc accepté: basic_0_49 de basic_0, hauteur 135
+[Tick 793] Nouveau bloc accepté: conservative_0_38 de adaptive_0, hauteur 136
+[Tick 793] Bloc rejeté: greedy_1_83 de basic_0
+[Tick 794] Choix du parent: conservative_0_38 (hauteur 136)
+[Tick 795] Nouveau bloc accepté: logging_1_53 de logging_1, hauteur 136
+[Tick 795] Nouveau bloc accepté: adaptive_0_52 de adaptive_0, hauteur 136
+[Tick 797] Nouveau bloc accepté: greedy_1_82 de adaptive_0, hauteur 135
+[Tick 800] Tentative de minage au tick 800
+[Tick 804] Nouveau bloc accepté: adaptive_0_53 de adaptive_0, hauteur 137
+[Tick 805] Choix du parent: logging_0_53 (hauteur 137)
+[Tick 808] Nouveau bloc accepté: greedy_1_84 de basic_0, hauteur 138
+[Tick 810] Tentative de minage au tick 810
+[Tick 812] Bloc rejeté: logging_0_53 de basic_0
+[Tick 813] Nouveau bloc accepté: basic_0_50 de basic_0, hauteur 138
+[Tick 813] Nouveau bloc accepté: logging_1_54 de adaptive_0, hauteur 138
+[Tick 818] Choix du parent: logging_0_54 (hauteur 138)
+[Tick 820] Tentative de minage au tick 820
+[Tick 820] Bloc rejeté: logging_1_55 de logging_1
+[Tick 821] Bloc rejeté: greedy_1_85 de basic_0
+[Tick 822] Nouveau bloc accepté: conservative_0_39 de conservative_0, hauteur 139
+[Tick 822] Bloc rejeté: logging_0_54 de logging_1
+[Tick 825] Nouveau bloc accepté: basic_0_51 de basic_0, hauteur 142
+[Tick 830] Tentative de minage au tick 830
+[Tick 830] Choix du parent: basic_0_51 (hauteur 142)
+[Tick 834] Nouveau bloc accepté: adaptive_0_54 de greedy_1, hauteur 140
+[Tick 839] Nouveau bloc accepté: conservative_0_40 de logging_1, hauteur 143
+[Tick 840] Tentative de minage au tick 840
+[Tick 840] Nouveau bloc accepté: greedy_1_86 de greedy_1, hauteur 143
+[Tick 840] Nouveau bloc accepté: adaptive_0_55 de adaptive_0, hauteur 144
+[Tick 840] Bloc rejeté: logging_0_55 de logging_1
+[Tick 842] Nouveau bloc accepté: logging_1_56 de logging_1, hauteur 142
+[Tick 848] Choix du parent: adaptive_0_55 (hauteur 144)
+[Tick 850] Tentative de minage au tick 850
+[Tick 850] Nouveau bloc accepté: logging_1_57 de greedy_1, hauteur 144
+[Tick 851] Nouveau bloc accepté: conservative_0_41 de conservative_0, hauteur 145
+[Tick 852] Nouveau bloc accepté: greedy_1_87 de greedy_1, hauteur 144
+[Tick 853] Nouveau bloc accepté: basic_0_52 de basic_0, hauteur 144
+[Tick 853] Bloc rejeté: logging_0_57 de basic_0
+[Tick 854] Bloc rejeté: logging_0_56 de logging_1
+[Tick 855] Choix du parent: logging_0_57 (hauteur 145)
+[Tick 855] Nouveau bloc accepté: adaptive_0_56 de adaptive_0, hauteur 145
+[Tick 856] Nouveau bloc accepté: greedy_1_88 de greedy_1, hauteur 145
+[Tick 858] Nouveau bloc accepté: logging_1_58 de adaptive_0, hauteur 146
+[Tick 860] Tentative de minage au tick 860
+[Tick 863] Nouveau bloc accepté: basic_0_53 de basic_0, hauteur 147
+[Tick 866] Bloc rejeté: logging_0_58 de logging_1
+[Tick 866] Bloc rejeté: EMKAMA_0_91 de EMKAMA_0
+[Tick 869] Nouveau bloc accepté: adaptive_0_57 de adaptive_0, hauteur 147
+[Tick 870] Tentative de minage au tick 870
+[Tick 870] Bloc rejeté: EMKAMA_0_90 de groupe_samson_tilio_0
+[Tick 871] Choix du parent: basic_0_53 (hauteur 147)
+[Tick 871] Bloc rejeté: greedy_0_86 de logging_2
+[Tick 872] Nouveau bloc accepté: conservative_0_42 de conservative_0, hauteur 148
+[Tick 872] Bloc rejeté: logging_2_58 de groupe_samson_tilio_0
+[Tick 874] Nouveau bloc accepté: logging_1_59 de EMKAMA_0, hauteur 147
+[Tick 874] Nouveau bloc accepté: greedy_1_89 de logging_1, hauteur 147
+[Tick 876] Nouveau bloc accepté: greedy_1_90 de greedy_1, hauteur 148
+[Tick 878] Bloc rejeté: EMKAMA_0_89 de EMKAMA_0
+[Tick 878] Bloc rejeté: groupe_samson_tilio_0_88 de EMKAMA_0
+[Tick 880] Tentative de minage au tick 880
+[Tick 881] Nouveau bloc accepté: basic_0_54 de basic_0, hauteur 148
+[Tick 881] Bloc rejeté: greedy_0_85 de EMKAMA_0
+[Tick 881] Bloc rejeté: logging_2_59 de logging_2
+[Tick 883] Bloc rejeté: groupe_samson_tilio_0_87 de EMKAMA_0
+[Tick 886] Bloc rejeté: EMKAMA_0_93 de EMKAMA_0
+[Tick 886] Bloc rejeté: groupe_samson_tilio_0_89 de groupe_samson_tilio_0
+[Tick 887] Bloc rejeté: logging_0_59 de logging_1
+[Tick 890] Tentative de minage au tick 890
+[Tick 890] Choix du parent: logging_0_59 (hauteur 148)
+[Tick 890] Bloc rejeté: EMKAMA_0_92 de EMKAMA_0
+[Tick 890] Nouveau bloc accepté: basic_0_55 de EMKAMA_0, hauteur 149
+[Tick 890] Nouveau bloc accepté: logging_1_60 de logging_1, hauteur 149
+[Tick 890] Nouveau bloc accepté: adaptive_0_58 de basic_0, hauteur 150
+[Tick 890] Nouveau bloc accepté: conservative_0_43 de adaptive_0, hauteur 150
+[Tick 894] Nouveau bloc accepté: greedy_1_91 de logging_1, hauteur 149
+[Tick 895] Bloc rejeté: logging_2_60 de logging_2
+[Tick 897] Nouveau bloc accepté: greedy_1_92 de greedy_1, hauteur 151
+[Tick 898] Nouveau bloc accepté: basic_0_56 de basic_0, hauteur 151
+[Tick 899] Bloc rejeté: groupe_samson_tilio_0_90 de groupe_samson_tilio_0
+[Tick 900] Tentative de minage au tick 900
+[Tick 903] Bloc rejeté: logging_0_60 de EMKAMA_0
+[Tick 904] Nouveau bloc accepté: adaptive_0_59 de basic_0, hauteur 152
+[Tick 908] Bloc rejeté: logging_2_61 de logging_2
+[Tick 909] Nouveau bloc accepté: logging_1_61 de logging_1, hauteur 150
+[Tick 909] Nouveau bloc accepté: greedy_1_93 de EMKAMA_0, hauteur 153
+[Tick 910] Tentative de minage au tick 910
+[Tick 911] Bloc rejeté: EMKAMA_0_94 de EMKAMA_0
+[Tick 912] Nouveau bloc accepté: logging_1_62 de EMKAMA_0, hauteur 152
+[Tick 913] Choix du parent: greedy_1_93 (hauteur 153)
+[Tick 915] Nouveau bloc accepté: conservative_0_44 de conservative_0, hauteur 154
+[Tick 916] Bloc rejeté: logging_2_62 de logging_2
+[Tick 917] Nouveau bloc accepté: greedy_1_94 de greedy_1, hauteur 154
+[Tick 917] Bloc rejeté: groupe_samson_tilio_0_92 de groupe_samson_tilio_0
+[Tick 918] Bloc rejeté: groupe_samson_tilio_0_91 de EMKAMA_0
+[Tick 919] Bloc rejeté: logging_0_61 de EMKAMA_0
+[Tick 920] Tentative de minage au tick 920
+[Tick 920] Nouveau bloc accepté: basic_0_57 de basic_0, hauteur 154
+[Tick 924] Bloc rejeté: EMKAMA_0_96 de EMKAMA_0
+[Tick 924] Nouveau bloc accepté: adaptive_0_60 de basic_0, hauteur 154
+[Tick 926] Bloc rejeté: EMKAMA_0_95 de EMKAMA_0
+[Tick 927] Nouveau bloc accepté: logging_1_63 de logging_1, hauteur 155
+[Tick 928] Choix du parent: logging_1_63 (hauteur 155)
+[Tick 930] Tentative de minage au tick 930
+[Tick 931] Nouveau bloc accepté: conservative_0_45 de adaptive_0, hauteur 156
+[Tick 932] Bloc rejeté: logging_2_63 de EMKAMA_0
+[Tick 933] Bloc rejeté: groupe_samson_tilio_0_93 de groupe_samson_tilio_0
+[Tick 935] Nouveau bloc accepté: adaptive_0_61 de EMKAMA_0, hauteur 155
+[Tick 936] Nouveau bloc accepté: greedy_1_96 de greedy_1, hauteur 157
+[Tick 937] Nouveau bloc accepté: greedy_1_95 de greedy_1, hauteur 155
+[Tick 940] Tentative de minage au tick 940
+[Tick 941] Choix du parent: greedy_1_96 (hauteur 157)
+[Tick 941] Nouveau bloc accepté: logging_1_64 de basic_0, hauteur 157
+[Tick 942] Nouveau bloc accepté: basic_0_58 de EMKAMA_0, hauteur 155
+[Tick 943] Bloc rejeté: EMKAMA_0_97 de EMKAMA_0
+[Tick 943] Bloc rejeté: logging_0_62 de greedy_1
+[Tick 943] Nouveau bloc accepté: basic_0_59 de EMKAMA_0, hauteur 157
+[Tick 944] Bloc rejeté: logging_2_64 de groupe_samson_tilio_0
+[Tick 946] Bloc rejeté: EMKAMA_0_98 de EMKAMA_0
+[Tick 948] Bloc rejeté: logging_0_63 de logging_1
+[Tick 948] Nouveau bloc accepté: adaptive_0_62 de basic_0, hauteur 158
+[Tick 950] Tentative de minage au tick 950
+[Tick 950] Bloc rejeté: groupe_samson_tilio_0_94 de groupe_samson_tilio_0
+[Tick 952] Nouveau bloc accepté: conservative_0_46 de conservative_0, hauteur 158
+[Tick 952] Nouveau bloc accepté: basic_0_60 de logging_1, hauteur 159
+[Tick 953] Bloc rejeté: groupe_samson_tilio_0_95 de groupe_samson_tilio_0
+[Tick 956] Nouveau bloc accepté: greedy_1_97 de greedy_1, hauteur 158
+[Tick 959] Choix du parent: basic_0_60 (hauteur 159)
+[Tick 959] Bloc rejeté: groupe_samson_tilio_0_96 de groupe_samson_tilio_0
+[Tick 960] Tentative de minage au tick 960
+[Tick 960] Nouveau bloc accepté: logging_1_65 de EMKAMA_0, hauteur 159
+[Tick 963] Nouveau bloc accepté: adaptive_0_63 de adaptive_0, hauteur 159
+[Tick 964] Nouveau bloc accepté: logging_1_66 de logging_1, hauteur 160
+[Tick 965] Bloc rejeté: logging_2_65 de groupe_samson_tilio_0
+[Tick 966] Nouveau bloc accepté: basic_0_61 de EMKAMA_0, hauteur 160
+[Tick 970] Tentative de minage au tick 970
+[Tick 970] Nouveau bloc accepté: greedy_1_98 de EMKAMA_0, hauteur 159
+[Tick 971] Bloc rejeté: logging_0_64 de EMKAMA_0
+[Tick 972] Choix du parent: logging_0_64 (hauteur 160)
+[Tick 974] Bloc rejeté: logging_1_67 de logging_1
+[Tick 975] Nouveau bloc accepté: greedy_1_99 de greedy_1, hauteur 161
+[Tick 976] Nouveau bloc accepté: adaptive_0_64 de greedy_1, hauteur 161
+[Tick 977] Bloc rejeté: EMKAMA_0_99 de EMKAMA_0
+[Tick 978] Nouveau bloc accepté: conservative_0_47 de conservative_0, hauteur 161
+[Tick 979] Nouveau bloc accepté: greedy_1_100 de greedy_1, hauteur 163
+[Tick 980] Tentative de minage au tick 980
+[Tick 984] Bloc rejeté: groupe_samson_tilio_0_97 de groupe_samson_tilio_0
+[Tick 985] Bloc rejeté: logging_0_65 de basic_0
+[Tick 985] Bloc rejeté: groupe_samson_tilio_0_98 de groupe_samson_tilio_0
+[Tick 986] Choix du parent: greedy_1_100 (hauteur 163)
+[Tick 986] Bloc rejeté: EMKAMA_0_100 de EMKAMA_0
+[Tick 986] Bloc rejeté: logging_2_66 de logging_2
+[Tick 986] Bloc rejeté: EMKAMA_0_101 de EMKAMA_0
+[Tick 988] Nouveau bloc accepté: basic_0_62 de logging_1, hauteur 162
+[Tick 988] Nouveau bloc accepté: adaptive_0_65 de EMKAMA_0, hauteur 163
+[Tick 988] Nouveau bloc accepté: logging_1_68 de basic_0, hauteur 163
+[Tick 989] Nouveau bloc accepté: greedy_1_101 de EMKAMA_0, hauteur 164
+[Tick 990] Tentative de minage au tick 990
+[Tick 991] Bloc rejeté: groupe_samson_tilio_0_99 de groupe_samson_tilio_0
+[Tick 991] Bloc rejeté: logging_0_66 de greedy_1
+[Tick 994] Choix du parent: logging_0_66 (hauteur 164)
+[Tick 998] Nouveau bloc accepté: basic_0_63 de basic_0, hauteur 165
+[Tick 999] Bloc rejeté: logging_2_67 de groupe_samson_tilio_0
+[Tick 999] Nouveau bloc accepté: logging_1_69 de logging_1, hauteur 166
+[Tick 999] Bloc rejeté: greedy_1_103 de greedy_1
+[Tick 1000] Tentative de minage au tick 1000
+
+
+--- logging_1 ---
+[Tick 0] Stratégie initialisée pour logging_1
+[Tick 9] Nouveau bloc accepté: EMKAMA_0_0 de logging_0, hauteur 1
+[Tick 10] Tentative de minage au tick 10
+[Tick 15] Choix du parent: EMKAMA_0_0 (hauteur 1)
+[Tick 15] Nouveau bloc accepté: groupe_samson_tilio_0_0 de logging_2, hauteur 1
+[Tick 17] Nouveau bloc accepté: greedy_0_0 de greedy_0, hauteur 2
+[Tick 20] Tentative de minage au tick 20
+[Tick 20] Nouveau bloc accepté: adaptive_0_0 de adaptive_0, hauteur 1
+[Tick 20] Nouveau bloc accepté: basic_0_0 de basic_0, hauteur 2
+[Tick 21] Bloc rejeté: logging_1_0 de greedy_0
+[Tick 22] Nouveau bloc accepté: greedy_1_0 de greedy_1, hauteur 1
+[Tick 22] Nouveau bloc accepté: groupe_samson_tilio_0_1 de groupe_samson_tilio_0, hauteur 3
+[Tick 23] Nouveau bloc accepté: logging_0_0 de adaptive_0, hauteur 2
+[Tick 24] Nouveau bloc accepté: logging_2_0 de logging_2, hauteur 3
+[Tick 25] Nouveau bloc accepté: EMKAMA_0_1 de groupe_samson_tilio_0, hauteur 2
+[Tick 26] Nouveau bloc accepté: greedy_0_1 de greedy_0, hauteur 3
+[Tick 27] Choix du parent: groupe_samson_tilio_0_1 (hauteur 3)
+[Tick 30] Tentative de minage au tick 30
+[Tick 31] Nouveau bloc accepté: adaptive_0_1 de logging_0, hauteur 4
+[Tick 31] Nouveau bloc accepté: EMKAMA_0_2 de greedy_1, hauteur 3
+[Tick 32] Nouveau bloc accepté: greedy_1_1 de groupe_samson_tilio_0, hauteur 4
+[Tick 32] Nouveau bloc accepté: basic_0_1 de basic_0, hauteur 5
+[Tick 34] Nouveau bloc accepté: groupe_samson_tilio_0_2 de greedy_0, hauteur 4
+[Tick 35] Choix du parent: basic_0_1 (hauteur 5)
+[Tick 35] Nouveau bloc accepté: conservative_0_0 de conservative_0, hauteur 5
+[Tick 37] Bloc rejeté: logging_2_1 de logging_0
+[Tick 38] Nouveau bloc accepté: logging_0_1 de logging_0, hauteur 5
+[Tick 38] Nouveau bloc accepté: greedy_0_2 de basic_0, hauteur 4
+[Tick 38] Nouveau bloc accepté: EMKAMA_0_3 de greedy_1, hauteur 4
+[Tick 38] Nouveau bloc accepté: greedy_1_2 de groupe_samson_tilio_0, hauteur 5
+[Tick 40] Tentative de minage au tick 40
+[Tick 40] Bloc rejeté: logging_1_1 de basic_0
+[Tick 43] Nouveau bloc accepté: groupe_samson_tilio_0_3 de EMKAMA_0, hauteur 6
+[Tick 43] Nouveau bloc accepté: greedy_0_3 de EMKAMA_0, hauteur 6
+[Tick 43] Nouveau bloc accepté: EMKAMA_0_4 de logging_0, hauteur 5
+[Tick 43] Bloc rejeté: logging_1_2 de logging_2
+[Tick 44] Nouveau bloc accepté: logging_0_2 de logging_2, hauteur 7
+[Tick 45] Nouveau bloc accepté: greedy_1_3 de greedy_1, hauteur 8
+[Tick 48] Choix du parent: greedy_1_3 (hauteur 8)
+[Tick 50] Tentative de minage au tick 50
+[Tick 50] Nouveau bloc accepté: EMKAMA_0_5 de EMKAMA_0, hauteur 6
+[Tick 50] Nouveau bloc accepté: adaptive_0_2 de greedy_1, hauteur 7
+[Tick 52] Nouveau bloc accepté: greedy_0_4 de greedy_0, hauteur 9
+[Tick 53] Nouveau bloc accepté: conservative_0_1 de conservative_0, hauteur 9
+[Tick 55] Bloc rejeté: logging_1_3 de greedy_0
+[Tick 55] Nouveau bloc accepté: logging_0_3 de logging_0, hauteur 10
+[Tick 59] Nouveau bloc accepté: EMKAMA_0_6 de EMKAMA_0, hauteur 7
+[Tick 60] Tentative de minage au tick 60
+[Tick 61] Nouveau bloc accepté: groupe_samson_tilio_0_4 de adaptive_0, hauteur 9
+[Tick 62] Choix du parent: logging_0_3 (hauteur 10)
+[Tick 62] Nouveau bloc accepté: adaptive_0_3 de basic_0, hauteur 10
+[Tick 63] Nouveau bloc accepté: basic_0_2 de EMKAMA_0, hauteur 8
+[Tick 64] Bloc rejeté: logging_1_4 de adaptive_0
+[Tick 65] Nouveau bloc accepté: greedy_0_5 de greedy_0, hauteur 11
+[Tick 67] Nouveau bloc accepté: greedy_1_4 de logging_0, hauteur 10
+[Tick 68] Nouveau bloc accepté: EMKAMA_0_7 de EMKAMA_0, hauteur 8
+[Tick 68] Nouveau bloc accepté: greedy_0_6 de greedy_0, hauteur 12
+[Tick 68] Nouveau bloc accepté: basic_0_3 de basic_0, hauteur 12
+[Tick 68] Nouveau bloc accepté: groupe_samson_tilio_0_5 de logging_2, hauteur 11
+[Tick 70] Tentative de minage au tick 70
+[Tick 70] Nouveau bloc accepté: logging_2_2 de groupe_samson_tilio_0, hauteur 9
+[Tick 72] Nouveau bloc accepté: logging_2_3 de greedy_1, hauteur 12
+[Tick 72] Nouveau bloc accepté: conservative_0_2 de conservative_0, hauteur 13
+[Tick 76] Choix du parent: conservative_0_2 (hauteur 13)
+[Tick 77] Nouveau bloc accepté: basic_0_4 de basic_0, hauteur 13
+[Tick 77] Bloc rejeté: logging_2_4 de logging_2
+[Tick 78] Nouveau bloc accepté: greedy_1_5 de logging_2, hauteur 13
+[Tick 78] Nouveau bloc accepté: greedy_1_6 de EMKAMA_0, hauteur 14
+[Tick 79] Nouveau bloc accepté: groupe_samson_tilio_0_6 de groupe_samson_tilio_0, hauteur 12
+[Tick 80] Tentative de minage au tick 80
+[Tick 81] Bloc rejeté: logging_1_5 de adaptive_0
+[Tick 84] Nouveau bloc accepté: logging_0_4 de basic_0, hauteur 13
+[Tick 85] Nouveau bloc accepté: groupe_samson_tilio_0_7 de EMKAMA_0, hauteur 14
+[Tick 87] Nouveau bloc accepté: EMKAMA_0_8 de logging_0, hauteur 9
+[Tick 90] Tentative de minage au tick 90
+[Tick 90] Choix du parent: logging_1_5 (hauteur 14)
+[Tick 91] Nouveau bloc accepté: adaptive_0_4 de EMKAMA_0, hauteur 13
+[Tick 91] Nouveau bloc accepté: logging_0_5 de basic_0, hauteur 15
+[Tick 92] Nouveau bloc accepté: adaptive_0_5 de logging_0, hauteur 15
+[Tick 93] Nouveau bloc accepté: greedy_0_7 de greedy_0, hauteur 15
+[Tick 93] Nouveau bloc accepté: groupe_samson_tilio_0_8 de groupe_samson_tilio_0, hauteur 16
+[Tick 93] Nouveau bloc accepté: EMKAMA_0_9 de EMKAMA_0, hauteur 10
+[Tick 94] Nouveau bloc accepté: basic_0_5 de greedy_0, hauteur 16
+[Tick 97] Nouveau bloc accepté: greedy_1_7 de basic_0, hauteur 15
+[Tick 100] Tentative de minage au tick 100
+[Tick 101] Bloc rejeté: logging_1_6 de greedy_1
+[Tick 102] Nouveau bloc accepté: logging_2_5 de adaptive_0, hauteur 17
+[Tick 102] Bloc rejeté: logging_0_6 de logging_0
+[Tick 104] Nouveau bloc accepté: conservative_0_3 de conservative_0, hauteur 16
+[Tick 104] Nouveau bloc accepté: greedy_0_8 de greedy_0, hauteur 17
+[Tick 104] Nouveau bloc accepté: groupe_samson_tilio_0_9 de groupe_samson_tilio_0, hauteur 17
+[Tick 106] Nouveau bloc accepté: greedy_1_8 de adaptive_0, hauteur 16
+[Tick 107] Choix du parent: logging_0_6 (hauteur 18)
+[Tick 109] Nouveau bloc accepté: logging_2_6 de EMKAMA_0, hauteur 19
+[Tick 110] Tentative de minage au tick 110
+[Tick 111] Nouveau bloc accepté: adaptive_0_6 de EMKAMA_0, hauteur 18
+[Tick 111] Nouveau bloc accepté: EMKAMA_0_10 de logging_0, hauteur 11
+[Tick 111] Bloc rejeté: conservative_0_4 de conservative_0
+[Tick 113] Nouveau bloc accepté: greedy_0_9 de logging_0, hauteur 19
+[Tick 113] Nouveau bloc accepté: EMKAMA_0_11 de greedy_0, hauteur 12
+[Tick 114] Nouveau bloc accepté: basic_0_6 de basic_0, hauteur 18
+[Tick 116] Choix du parent: logging_1_7 (hauteur 19)
+[Tick 116] Nouveau bloc accepté: greedy_1_9 de greedy_1, hauteur 17
+[Tick 118] Nouveau bloc accepté: greedy_0_10 de groupe_samson_tilio_0, hauteur 20
+[Tick 120] Tentative de minage au tick 120
+[Tick 120] Nouveau bloc accepté: groupe_samson_tilio_0_10 de logging_0, hauteur 20
+[Tick 120] Nouveau bloc accepté: logging_0_7 de greedy_1, hauteur 20
+[Tick 121] Nouveau bloc accepté: adaptive_0_7 de greedy_0, hauteur 19
+[Tick 122] Bloc rejeté: logging_1_7 de groupe_samson_tilio_0
+[Tick 122] Nouveau bloc accepté: greedy_1_10 de greedy_1, hauteur 21
+[Tick 122] Nouveau bloc accepté: groupe_samson_tilio_0_11 de groupe_samson_tilio_0, hauteur 21
+[Tick 122] Nouveau bloc accepté: EMKAMA_0_12 de EMKAMA_0, hauteur 13
+[Tick 126] Nouveau bloc accepté: groupe_samson_tilio_0_12 de groupe_samson_tilio_0, hauteur 22
+[Tick 127] Bloc rejeté: logging_1_8 de basic_0
+[Tick 127] Nouveau bloc accepté: basic_0_7 de greedy_1, hauteur 21
+[Tick 127] Nouveau bloc accepté: adaptive_0_8 de logging_2, hauteur 21
+[Tick 127] Bloc rejeté: greedy_1_12 de greedy_1
+[Tick 130] Tentative de minage au tick 130
+[Tick 132] Nouveau bloc accepté: EMKAMA_0_13 de logging_2, hauteur 14
+[Tick 133] Choix du parent: groupe_samson_tilio_0_12 (hauteur 22)
+[Tick 133] Nouveau bloc accepté: logging_2_7 de greedy_0, hauteur 21
+[Tick 133] Nouveau bloc accepté: greedy_0_11 de greedy_1, hauteur 22
+[Tick 137] Nouveau bloc accepté: greedy_1_11 de logging_0, hauteur 22
+[Tick 137] Nouveau bloc accepté: groupe_samson_tilio_0_13 de groupe_samson_tilio_0, hauteur 23
+[Tick 140] Tentative de minage au tick 140
+[Tick 142] Nouveau bloc accepté: logging_2_8 de greedy_1, hauteur 24
+[Tick 142] Nouveau bloc accepté: logging_0_8 de logging_2, hauteur 24
+[Tick 142] Nouveau bloc accepté: greedy_1_13 de logging_0, hauteur 24
+[Tick 143] Nouveau bloc accepté: conservative_0_5 de basic_0, hauteur 23
+[Tick 143] Nouveau bloc accepté: greedy_0_12 de greedy_0, hauteur 25
+[Tick 144] Nouveau bloc accepté: EMKAMA_0_14 de greedy_1, hauteur 15
+[Tick 147] Bloc rejeté: logging_1_9 de adaptive_0
+[Tick 147] Nouveau bloc accepté: greedy_1_14 de greedy_1, hauteur 25
+[Tick 148] Nouveau bloc accepté: basic_0_8 de groupe_samson_tilio_0, hauteur 25
+[Tick 148] Nouveau bloc accepté: conservative_0_6 de adaptive_0, hauteur 25
+[Tick 149] Nouveau bloc accepté: greedy_0_13 de greedy_0, hauteur 26
+[Tick 150] Tentative de minage au tick 150
+[Tick 150] Nouveau bloc accepté: adaptive_0_9 de logging_2, hauteur 25
+[Tick 152] Choix du parent: greedy_0_13 (hauteur 26)
+[Tick 152] Nouveau bloc accepté: groupe_samson_tilio_0_14 de EMKAMA_0, hauteur 26
+[Tick 155] Nouveau bloc accepté: logging_2_9 de logging_2, hauteur 27
+[Tick 155] Bloc rejeté: logging_1_10 de groupe_samson_tilio_0
+[Tick 157] Nouveau bloc accepté: EMKAMA_0_15 de basic_0, hauteur 16
+[Tick 160] Tentative de minage au tick 160
+[Tick 160] Bloc rejeté: basic_0_9 de EMKAMA_0
+[Tick 161] Nouveau bloc accepté: groupe_samson_tilio_0_15 de logging_0, hauteur 27
+[Tick 161] Nouveau bloc accepté: logging_0_9 de basic_0, hauteur 27
+[Tick 163] Nouveau bloc accepté: greedy_0_14 de logging_2, hauteur 28
+[Tick 163] Nouveau bloc accepté: EMKAMA_0_16 de groupe_samson_tilio_0, hauteur 17
+[Tick 163] Nouveau bloc accepté: greedy_1_15 de greedy_1, hauteur 28
+[Tick 164] Nouveau bloc accepté: greedy_0_15 de greedy_0, hauteur 29
+[Tick 167] Choix du parent: greedy_0_15 (hauteur 29)
+[Tick 167] Nouveau bloc accepté: adaptive_0_10 de EMKAMA_0, hauteur 27
+[Tick 170] Tentative de minage au tick 170
+[Tick 170] Nouveau bloc accepté: conservative_0_7 de EMKAMA_0, hauteur 29
+[Tick 170] Nouveau bloc accepté: greedy_1_16 de adaptive_0, hauteur 30
+[Tick 172] Nouveau bloc accepté: EMKAMA_0_17 de EMKAMA_0, hauteur 18
+[Tick 172] Nouveau bloc accepté: logging_2_10 de logging_0, hauteur 29
+[Tick 172] Nouveau bloc accepté: basic_0_10 de basic_0, hauteur 31
+[Tick 174] Choix du parent: basic_0_10 (hauteur 31)
+[Tick 176] Nouveau bloc accepté: groupe_samson_tilio_0_16 de groupe_samson_tilio_0, hauteur 30
+[Tick 176] Bloc rejeté: logging_1_11 de greedy_1
+[Tick 177] Nouveau bloc accepté: greedy_1_17 de greedy_1, hauteur 32
+[Tick 177] Nouveau bloc accepté: logging_0_10 de EMKAMA_0, hauteur 30
+[Tick 179] Nouveau bloc accepté: greedy_0_16 de greedy_1, hauteur 31
+[Tick 180] Tentative de minage au tick 180
+[Tick 180] Nouveau bloc accepté: EMKAMA_0_18 de EMKAMA_0, hauteur 19
+[Tick 180] Nouveau bloc accepté: adaptive_0_11 de logging_0, hauteur 31
+[Tick 181] Nouveau bloc accepté: logging_0_11 de logging_0, hauteur 32
+[Tick 183] Nouveau bloc accepté: EMKAMA_0_19 de EMKAMA_0, hauteur 20
+[Tick 184] Bloc rejeté: logging_1_12 de EMKAMA_0
+[Tick 186] Nouveau bloc accepté: logging_2_11 de logging_2, hauteur 31
+[Tick 188] Nouveau bloc accepté: groupe_samson_tilio_0_17 de greedy_1, hauteur 32
+[Tick 189] Bloc rejeté: greedy_1_18 de greedy_1
+[Tick 190] Tentative de minage au tick 190
+[Tick 190] Choix du parent: logging_1_12 (hauteur 32)
+[Tick 190] Nouveau bloc accepté: conservative_0_8 de conservative_0, hauteur 33
+[Tick 191] Nouveau bloc accepté: EMKAMA_0_20 de EMKAMA_0, hauteur 21
+[Tick 193] Nouveau bloc accepté: greedy_0_17 de greedy_0, hauteur 33
+[Tick 193] Nouveau bloc accepté: logging_2_12 de EMKAMA_0, hauteur 33
+[Tick 194] Nouveau bloc accepté: adaptive_0_12 de basic_0, hauteur 33
+[Tick 194] Nouveau bloc accepté: logging_2_13 de logging_2, hauteur 34
+[Tick 195] Bloc rejeté: logging_1_13 de EMKAMA_0
+[Tick 197] Nouveau bloc accepté: greedy_0_18 de EMKAMA_0, hauteur 35
+[Tick 198] Bloc rejeté: logging_0_12 de logging_0
+[Tick 199] Bloc rejeté: groupe_samson_tilio_0_19 de groupe_samson_tilio_0
+[Tick 200] Tentative de minage au tick 200
+[Tick 201] Nouveau bloc accepté: basic_0_11 de basic_0, hauteur 34
+[Tick 201] Nouveau bloc accepté: groupe_samson_tilio_0_18 de EMKAMA_0, hauteur 34
+[Tick 204] Nouveau bloc accepté: EMKAMA_0_21 de basic_0, hauteur 22
+[Tick 206] Nouveau bloc accepté: greedy_1_19 de greedy_1, hauteur 36
+[Tick 206] Nouveau bloc accepté: adaptive_0_13 de adaptive_0, hauteur 36
+[Tick 210] Tentative de minage au tick 210
+[Tick 210] Choix du parent: greedy_1_19 (hauteur 36)
+[Tick 211] Nouveau bloc accepté: greedy_0_19 de EMKAMA_0, hauteur 36
+[Tick 213] Nouveau bloc accepté: groupe_samson_tilio_0_20 de EMKAMA_0, hauteur 37
+[Tick 215] Nouveau bloc accepté: basic_0_12 de basic_0, hauteur 36
+[Tick 215] Nouveau bloc accepté: EMKAMA_0_22 de groupe_samson_tilio_0, hauteur 23
+[Tick 216] Nouveau bloc accepté: greedy_1_20 de EMKAMA_0, hauteur 37
+[Tick 218] Nouveau bloc accepté: logging_0_13 de greedy_0, hauteur 37
+[Tick 219] Nouveau bloc accepté: conservative_0_9 de logging_0, hauteur 37
+[Tick 220] Tentative de minage au tick 220
+[Tick 220] Nouveau bloc accepté: logging_2_14 de logging_2, hauteur 37
+[Tick 220] Nouveau bloc accepté: greedy_1_21 de groupe_samson_tilio_0, hauteur 38
+[Tick 223] Nouveau bloc accepté: EMKAMA_0_23 de EMKAMA_0, hauteur 24
+[Tick 223] Bloc rejeté: logging_1_14 de EMKAMA_0
+[Tick 223] Nouveau bloc accepté: adaptive_0_14 de groupe_samson_tilio_0, hauteur 38
+[Tick 224] Choix du parent: greedy_1_21 (hauteur 38)
+[Tick 226] Nouveau bloc accepté: greedy_0_20 de greedy_1, hauteur 38
+[Tick 228] Nouveau bloc accepté: basic_0_13 de EMKAMA_0, hauteur 38
+[Tick 228] Nouveau bloc accepté: groupe_samson_tilio_0_21 de groupe_samson_tilio_0, hauteur 39
+[Tick 229] Nouveau bloc accepté: EMKAMA_0_24 de EMKAMA_0, hauteur 25
+[Tick 230] Tentative de minage au tick 230
+[Tick 230] Nouveau bloc accepté: greedy_0_21 de logging_0, hauteur 40
+[Tick 233] Nouveau bloc accepté: greedy_1_22 de logging_2, hauteur 39
+[Tick 234] Bloc rejeté: logging_1_15 de basic_0
+[Tick 234] Nouveau bloc accepté: groupe_samson_tilio_0_22 de greedy_0, hauteur 40
+[Tick 235] Bloc rejeté: basic_0_14 de basic_0
+[Tick 236] Nouveau bloc accepté: logging_0_14 de greedy_0, hauteur 40
+[Tick 237] Nouveau bloc accepté: logging_2_15 de logging_2, hauteur 40
+[Tick 238] Nouveau bloc accepté: conservative_0_10 de basic_0, hauteur 40
+[Tick 240] Tentative de minage au tick 240
+[Tick 240] Choix du parent: basic_0_14 (hauteur 41)
+[Tick 241] Nouveau bloc accepté: greedy_0_22 de greedy_0, hauteur 41
+[Tick 243] Nouveau bloc accepté: EMKAMA_0_25 de groupe_samson_tilio_0, hauteur 26
+[Tick 244] Bloc rejeté: logging_0_15 de logging_0
+[Tick 245] Nouveau bloc accepté: EMKAMA_0_26 de EMKAMA_0, hauteur 27
+[Tick 246] Nouveau bloc accepté: greedy_1_23 de greedy_1, hauteur 41
+[Tick 246] Nouveau bloc accepté: adaptive_0_15 de logging_0, hauteur 42
+[Tick 246] Nouveau bloc accepté: greedy_0_23 de groupe_samson_tilio_0, hauteur 42
+[Tick 250] Tentative de minage au tick 250
+[Tick 250] Nouveau bloc accepté: groupe_samson_tilio_0_23 de logging_2, hauteur 43
+[Tick 253] Nouveau bloc accepté: logging_2_16 de logging_2, hauteur 43
+[Tick 254] Choix du parent: logging_0_15 (hauteur 43)
+[Tick 254] Nouveau bloc accepté: greedy_1_24 de adaptive_0, hauteur 42
+[Tick 256] Bloc rejeté: logging_1_16 de groupe_samson_tilio_0
+[Tick 256] Bloc rejeté: groupe_samson_tilio_0_24 de groupe_samson_tilio_0
+[Tick 257] Nouveau bloc accepté: greedy_1_25 de groupe_samson_tilio_0, hauteur 44
+[Tick 258] Nouveau bloc accepté: adaptive_0_16 de logging_0, hauteur 44
+[Tick 258] Nouveau bloc accepté: greedy_0_24 de groupe_samson_tilio_0, hauteur 43
+[Tick 260] Tentative de minage au tick 260
+[Tick 260] Nouveau bloc accepté: greedy_0_25 de EMKAMA_0, hauteur 45
+[Tick 263] Nouveau bloc accepté: EMKAMA_0_27 de basic_0, hauteur 28
+[Tick 263] Nouveau bloc accepté: conservative_0_11 de greedy_0, hauteur 44
+[Tick 263] Bloc rejeté: logging_0_16 de logging_0
+[Tick 265] Nouveau bloc accepté: basic_0_15 de groupe_samson_tilio_0, hauteur 44
+[Tick 266] Choix du parent: groupe_samson_tilio_0_24 (hauteur 45)
+[Tick 267] Nouveau bloc accepté: greedy_1_26 de greedy_1, hauteur 46
+[Tick 267] Bloc rejeté: logging_1_17 de logging_2
+[Tick 267] Nouveau bloc accepté: adaptive_0_17 de adaptive_0, hauteur 46
+[Tick 269] Nouveau bloc accepté: logging_2_17 de logging_0, hauteur 45
+[Tick 270] Tentative de minage au tick 270
+[Tick 272] Nouveau bloc accepté: groupe_samson_tilio_0_25 de groupe_samson_tilio_0, hauteur 46
+[Tick 272] Nouveau bloc accepté: greedy_0_26 de logging_2, hauteur 46
+[Tick 273] Bloc rejeté: logging_1_18 de EMKAMA_0
+[Tick 275] Nouveau bloc accepté: basic_0_16 de adaptive_0, hauteur 47
+[Tick 276] Nouveau bloc accepté: EMKAMA_0_28 de logging_0, hauteur 29
+[Tick 277] Nouveau bloc accepté: basic_0_17 de basic_0, hauteur 48
+[Tick 278] Nouveau bloc accepté: logging_0_17 de logging_0, hauteur 48
+[Tick 280] Tentative de minage au tick 280
+[Tick 280] Nouveau bloc accepté: EMKAMA_0_29 de logging_2, hauteur 30
+[Tick 282] Choix du parent: basic_0_17 (hauteur 48)
+[Tick 282] Nouveau bloc accepté: conservative_0_12 de greedy_0, hauteur 47
+[Tick 283] Nouveau bloc accepté: greedy_1_27 de logging_0, hauteur 48
+[Tick 284] Nouveau bloc accepté: logging_2_18 de logging_0, hauteur 47
+[Tick 285] Bloc rejeté: logging_1_19 de greedy_1
+[Tick 286] Bloc rejeté: logging_2_19 de logging_2
+[Tick 287] Nouveau bloc accepté: groupe_samson_tilio_0_26 de groupe_samson_tilio_0, hauteur 48
+[Tick 287] Bloc rejeté: adaptive_0_18 de basic_0
+[Tick 289] Nouveau bloc accepté: greedy_0_28 de greedy_1, hauteur 50
+[Tick 290] Tentative de minage au tick 290
+[Tick 290] Nouveau bloc accepté: greedy_0_27 de adaptive_0, hauteur 48
+[Tick 292] Nouveau bloc accepté: EMKAMA_0_30 de greedy_1, hauteur 31
+[Tick 294] Nouveau bloc accepté: groupe_samson_tilio_0_27 de groupe_samson_tilio_0, hauteur 51
+[Tick 294] Nouveau bloc accepté: basic_0_18 de basic_0, hauteur 51
+[Tick 295] Choix du parent: groupe_samson_tilio_0_27 (hauteur 51)
+[Tick 298] Nouveau bloc accepté: conservative_0_13 de greedy_0, hauteur 50
+[Tick 299] Bloc rejeté: logging_1_20 de groupe_samson_tilio_0
+[Tick 300] Tentative de minage au tick 300
+[Tick 302] Nouveau bloc accepté: greedy_1_28 de logging_0, hauteur 51
+[Tick 304] Nouveau bloc accepté: adaptive_0_19 de greedy_1, hauteur 51
+[Tick 305] Nouveau bloc accepté: greedy_1_29 de logging_2, hauteur 52
+[Tick 306] Nouveau bloc accepté: EMKAMA_0_31 de groupe_samson_tilio_0, hauteur 32
+[Tick 308] Nouveau bloc accepté: logging_0_18 de adaptive_0, hauteur 52
+[Tick 308] Nouveau bloc accepté: logging_0_19 de logging_0, hauteur 53
+[Tick 309] Nouveau bloc accepté: greedy_0_29 de greedy_0, hauteur 53
+[Tick 309] Nouveau bloc accepté: groupe_samson_tilio_0_28 de logging_2, hauteur 53
+[Tick 310] Tentative de minage au tick 310
+[Tick 311] Bloc rejeté: groupe_samson_tilio_0_29 de groupe_samson_tilio_0
+[Tick 312] Choix du parent: logging_0_19 (hauteur 53)
+[Tick 312] Nouveau bloc accepté: greedy_1_30 de groupe_samson_tilio_0, hauteur 53
+[Tick 314] Nouveau bloc accepté: basic_0_19 de basic_0, hauteur 54
+[Tick 314] Nouveau bloc accepté: EMKAMA_0_32 de logging_0, hauteur 33
+[Tick 314] Nouveau bloc accepté: adaptive_0_20 de greedy_1, hauteur 54
+[Tick 314] Nouveau bloc accepté: conservative_0_14 de greedy_0, hauteur 54
+[Tick 316] Nouveau bloc accepté: EMKAMA_0_33 de EMKAMA_0, hauteur 34
+[Tick 316] Bloc rejeté: logging_1_21 de basic_0
+[Tick 317] Nouveau bloc accepté: logging_2_20 de groupe_samson_tilio_0, hauteur 54
+[Tick 317] Nouveau bloc accepté: greedy_0_30 de adaptive_0, hauteur 54
+[Tick 317] Nouveau bloc accepté: basic_0_20 de basic_0, hauteur 55
+[Tick 320] Tentative de minage au tick 320
+[Tick 320] Nouveau bloc accepté: groupe_samson_tilio_0_30 de groupe_samson_tilio_0, hauteur 56
+[Tick 320] Nouveau bloc accepté: logging_2_21 de logging_2, hauteur 57
+[Tick 322] Nouveau bloc accepté: greedy_1_31 de greedy_1, hauteur 56
+[Tick 325] Choix du parent: logging_2_21 (hauteur 57)
+[Tick 327] Nouveau bloc accepté: greedy_0_31 de greedy_0, hauteur 55
+[Tick 330] Tentative de minage au tick 330
+[Tick 330] Nouveau bloc accepté: greedy_0_32 de greedy_0, hauteur 58
+[Tick 331] Nouveau bloc accepté: adaptive_0_21 de basic_0, hauteur 57
+[Tick 333] Nouveau bloc accepté: basic_0_21 de basic_0, hauteur 58
+[Tick 334] Choix du parent: logging_1_22 (hauteur 58)
+[Tick 334] Bloc rejeté: logging_1_22 de adaptive_0
+[Tick 334] Nouveau bloc accepté: logging_0_20 de EMKAMA_0, hauteur 58
+[Tick 336] Nouveau bloc accepté: EMKAMA_0_34 de EMKAMA_0, hauteur 35
+[Tick 336] Nouveau bloc accepté: greedy_1_32 de EMKAMA_0, hauteur 57
+[Tick 336] Nouveau bloc accepté: groupe_samson_tilio_0_31 de logging_2, hauteur 57
+[Tick 337] Nouveau bloc accepté: conservative_0_15 de EMKAMA_0, hauteur 58
+[Tick 339] Nouveau bloc accepté: groupe_samson_tilio_0_32 de groupe_samson_tilio_0, hauteur 59
+[Tick 339] Nouveau bloc accepté: EMKAMA_0_35 de EMKAMA_0, hauteur 36
+[Tick 340] Tentative de minage au tick 340
+[Tick 340] Nouveau bloc accepté: adaptive_0_22 de EMKAMA_0, hauteur 59
+[Tick 341] Nouveau bloc accepté: logging_0_21 de logging_2, hauteur 59
+[Tick 345] Nouveau bloc accepté: greedy_0_33 de logging_0, hauteur 59
+[Tick 345] Bloc rejeté: logging_1_23 de basic_0
+[Tick 346] Nouveau bloc accepté: greedy_1_33 de greedy_1, hauteur 60
+[Tick 346] Bloc rejeté: basic_0_22 de basic_0
+[Tick 347] Bloc rejeté: conservative_0_16 de conservative_0
+[Tick 348] Nouveau bloc accepté: groupe_samson_tilio_0_33 de groupe_samson_tilio_0, hauteur 60
+[Tick 350] Tentative de minage au tick 350
+[Tick 350] Nouveau bloc accepté: logging_2_22 de basic_0, hauteur 60
+[Tick 351] Nouveau bloc accepté: EMKAMA_0_36 de EMKAMA_0, hauteur 37
+[Tick 352] Nouveau bloc accepté: greedy_1_34 de greedy_1, hauteur 62
+[Tick 354] Choix du parent: greedy_1_34 (hauteur 62)
+[Tick 354] Nouveau bloc accepté: greedy_0_34 de EMKAMA_0, hauteur 61
+[Tick 356] Nouveau bloc accepté: logging_0_22 de basic_0, hauteur 62
+[Tick 357] Nouveau bloc accepté: groupe_samson_tilio_0_34 de basic_0, hauteur 62
+[Tick 359] Nouveau bloc accepté: greedy_0_35 de greedy_0, hauteur 63
+[Tick 360] Tentative de minage au tick 360
+[Tick 361] Nouveau bloc accepté: EMKAMA_0_37 de logging_0, hauteur 38
+[Tick 361] Nouveau bloc accepté: basic_0_23 de basic_0, hauteur 63
+[Tick 362] Nouveau bloc accepté: logging_2_23 de logging_2, hauteur 62
+[Tick 363] Bloc rejeté: logging_1_24 de logging_0
+[Tick 364] Nouveau bloc accepté: EMKAMA_0_38 de greedy_0, hauteur 39
+[Tick 365] Nouveau bloc accepté: adaptive_0_23 de basic_0, hauteur 62
+[Tick 367] Nouveau bloc accepté: groupe_samson_tilio_0_35 de EMKAMA_0, hauteur 63
+[Tick 368] Nouveau bloc accepté: logging_0_23 de groupe_samson_tilio_0, hauteur 64
+[Tick 368] Nouveau bloc accepté: greedy_1_35 de greedy_1, hauteur 65
+[Tick 370] Tentative de minage au tick 370
+[Tick 372] Choix du parent: greedy_1_35 (hauteur 65)
+[Tick 373] Nouveau bloc accepté: adaptive_0_24 de logging_0, hauteur 65
+[Tick 375] Nouveau bloc accepté: logging_0_24 de basic_0, hauteur 65
+[Tick 375] Nouveau bloc accepté: groupe_samson_tilio_0_36 de logging_2, hauteur 65
+[Tick 376] Nouveau bloc accepté: greedy_0_36 de groupe_samson_tilio_0, hauteur 64
+[Tick 378] Nouveau bloc accepté: logging_2_24 de logging_2, hauteur 65
+[Tick 379] Bloc rejeté: logging_1_25 de logging_2
+[Tick 380] Tentative de minage au tick 380
+[Tick 381] Nouveau bloc accepté: greedy_1_36 de greedy_1, hauteur 66
+[Tick 383] Nouveau bloc accepté: conservative_0_17 de conservative_0, hauteur 65
+[Tick 383] Nouveau bloc accepté: logging_2_25 de logging_2, hauteur 66
+[Tick 384] Nouveau bloc accepté: EMKAMA_0_39 de EMKAMA_0, hauteur 40
+[Tick 384] Nouveau bloc accepté: greedy_0_37 de greedy_0, hauteur 67
+[Tick 386] Nouveau bloc accepté: groupe_samson_tilio_0_37 de logging_2, hauteur 66
+[Tick 387] Nouveau bloc accepté: basic_0_24 de basic_0, hauteur 67
+[Tick 388] Nouveau bloc accepté: EMKAMA_0_40 de greedy_0, hauteur 41
+[Tick 390] Tentative de minage au tick 390
+[Tick 390] Nouveau bloc accepté: greedy_0_38 de greedy_0, hauteur 68
+[Tick 392] Choix du parent: greedy_0_38 (hauteur 68)
+[Tick 392] Nouveau bloc accepté: adaptive_0_25 de logging_2, hauteur 67
+[Tick 393] Nouveau bloc accepté: EMKAMA_0_41 de EMKAMA_0, hauteur 42
+[Tick 397] Bloc rejeté: conservative_0_18 de conservative_0
+[Tick 397] Nouveau bloc accepté: groupe_samson_tilio_0_38 de logging_0, hauteur 68
+[Tick 397] Nouveau bloc accepté: adaptive_0_26 de adaptive_0, hauteur 69
+[Tick 398] Nouveau bloc accepté: basic_0_25 de basic_0, hauteur 68
+[Tick 399] Nouveau bloc accepté: logging_2_26 de logging_0, hauteur 67
+[Tick 400] Tentative de minage au tick 400
+[Tick 400] Nouveau bloc accepté: logging_2_27 de groupe_samson_tilio_0, hauteur 69
+[Tick 402] Bloc rejeté: logging_1_26 de adaptive_0
+[Tick 403] Nouveau bloc accepté: greedy_1_37 de greedy_1, hauteur 68
+[Tick 403] Nouveau bloc accepté: greedy_1_38 de greedy_1, hauteur 70
+[Tick 404] Bloc rejeté: greedy_0_39 de greedy_0
+[Tick 404] Nouveau bloc accepté: conservative_0_19 de conservative_0, hauteur 70
+[Tick 405] Nouveau bloc accepté: groupe_samson_tilio_0_39 de groupe_samson_tilio_0, hauteur 70
+[Tick 406] Nouveau bloc accepté: EMKAMA_0_42 de EMKAMA_0, hauteur 43
+[Tick 408] Nouveau bloc accepté: greedy_1_39 de EMKAMA_0, hauteur 71
+[Tick 409] Nouveau bloc accepté: logging_0_25 de logging_0, hauteur 69
+[Tick 410] Tentative de minage au tick 410
+[Tick 412] Nouveau bloc accepté: groupe_samson_tilio_0_40 de EMKAMA_0, hauteur 71
+[Tick 414] Choix du parent: greedy_0_39 (hauteur 71)
+[Tick 414] Nouveau bloc accepté: logging_0_26 de adaptive_0, hauteur 71
+[Tick 415] Nouveau bloc accepté: adaptive_0_27 de greedy_1, hauteur 72
+[Tick 416] Nouveau bloc accepté: greedy_0_40 de greedy_0, hauteur 72
+[Tick 417] Nouveau bloc accepté: basic_0_26 de basic_0, hauteur 72
+[Tick 419] Nouveau bloc accepté: EMKAMA_0_43 de EMKAMA_0, hauteur 44
+[Tick 419] Nouveau bloc accepté: greedy_1_40 de logging_2, hauteur 73
+[Tick 420] Tentative de minage au tick 420
+[Tick 420] Nouveau bloc accepté: logging_2_28 de logging_2, hauteur 72
+[Tick 420] Bloc rejeté: logging_1_27 de adaptive_0
+[Tick 422] Nouveau bloc accepté: logging_0_27 de basic_0, hauteur 72
+[Tick 424] Nouveau bloc accepté: greedy_1_41 de logging_0, hauteur 74
+[Tick 428] Nouveau bloc accepté: greedy_0_41 de greedy_0, hauteur 73
+[Tick 428] Bloc rejeté: logging_0_28 de groupe_samson_tilio_0
+[Tick 430] Tentative de minage au tick 430
+[Tick 430] Nouveau bloc accepté: groupe_samson_tilio_0_41 de greedy_0, hauteur 74
+[Tick 431] Nouveau bloc accepté: basic_0_27 de greedy_1, hauteur 74
+[Tick 432] Nouveau bloc accepté: EMKAMA_0_44 de adaptive_0, hauteur 45
+[Tick 434] Choix du parent: logging_0_28 (hauteur 75)
+[Tick 435] Nouveau bloc accepté: logging_0_29 de logging_0, hauteur 76
+[Tick 436] Nouveau bloc accepté: logging_2_29 de groupe_samson_tilio_0, hauteur 75
+[Tick 437] Nouveau bloc accepté: greedy_0_42 de greedy_0, hauteur 75
+[Tick 437] Nouveau bloc accepté: conservative_0_20 de conservative_0, hauteur 76
+[Tick 439] Bloc rejeté: greedy_0_43 de greedy_0
+[Tick 439] Bloc rejeté: logging_1_28 de greedy_0
+[Tick 440] Tentative de minage au tick 440
+[Tick 440] Nouveau bloc accepté: groupe_samson_tilio_0_42 de logging_0, hauteur 76
+[Tick 441] Bloc rejeté: greedy_1_43 de EMKAMA_0
+[Tick 442] Nouveau bloc accepté: greedy_1_42 de logging_2, hauteur 75
+[Tick 446] Nouveau bloc accepté: adaptive_0_28 de logging_0, hauteur 75
+[Tick 446] Nouveau bloc accepté: greedy_0_44 de greedy_0, hauteur 78
+[Tick 446] Nouveau bloc accepté: greedy_1_44 de greedy_1, hauteur 77
+[Tick 447] Nouveau bloc accepté: basic_0_28 de basic_0, hauteur 77
+[Tick 447] Nouveau bloc accepté: EMKAMA_0_45 de logging_0, hauteur 46
+[Tick 448] Nouveau bloc accepté: logging_2_30 de logging_2, hauteur 77
+[Tick 450] Tentative de minage au tick 450
+[Tick 452] Nouveau bloc accepté: adaptive_0_29 de logging_2, hauteur 78
+[Tick 453] Choix du parent: greedy_0_44 (hauteur 78)
+[Tick 453] Nouveau bloc accepté: EMKAMA_0_46 de EMKAMA_0, hauteur 47
+[Tick 453] Nouveau bloc accepté: conservative_0_21 de basic_0, hauteur 78
+[Tick 454] Nouveau bloc accepté: groupe_samson_tilio_0_43 de groupe_samson_tilio_0, hauteur 77
+[Tick 456] Bloc rejeté: logging_1_29 de logging_2
+[Tick 457] Nouveau bloc accepté: logging_0_30 de greedy_1, hauteur 78
+[Tick 458] Nouveau bloc accepté: EMKAMA_0_47 de logging_0, hauteur 48
+[Tick 460] Tentative de minage au tick 460
+[Tick 460] Nouveau bloc accepté: logging_2_31 de basic_0, hauteur 80
+[Tick 461] Bloc rejeté: greedy_1_46 de greedy_1
+[Tick 462] Nouveau bloc accepté: basic_0_29 de basic_0, hauteur 79
+[Tick 465] Nouveau bloc accepté: greedy_0_45 de basic_0, hauteur 80
+[Tick 465] Nouveau bloc accepté: EMKAMA_0_48 de EMKAMA_0, hauteur 49
+[Tick 466] Nouveau bloc accepté: groupe_samson_tilio_0_44 de groupe_samson_tilio_0, hauteur 79
+[Tick 466] Nouveau bloc accepté: logging_0_31 de groupe_samson_tilio_0, hauteur 80
+[Tick 466] Nouveau bloc accepté: adaptive_0_30 de basic_0, hauteur 79
+[Tick 466] Nouveau bloc accepté: greedy_1_45 de EMKAMA_0, hauteur 79
+[Tick 467] Choix du parent: logging_2_31 (hauteur 80)
+[Tick 469] Nouveau bloc accepté: greedy_0_46 de greedy_0, hauteur 81
+[Tick 470] Tentative de minage au tick 470
+[Tick 471] Nouveau bloc accepté: conservative_0_22 de conservative_0, hauteur 81
+[Tick 474] Choix du parent: logging_1_30 (hauteur 81)
+[Tick 474] Nouveau bloc accepté: logging_0_32 de logging_2, hauteur 82
+[Tick 475] Nouveau bloc accepté: logging_2_32 de logging_2, hauteur 82
+[Tick 476] Nouveau bloc accepté: greedy_1_47 de EMKAMA_0, hauteur 81
+[Tick 476] Nouveau bloc accepté: groupe_samson_tilio_0_45 de logging_0, hauteur 82
+[Tick 478] Bloc rejeté: logging_1_31 de EMKAMA_0
+[Tick 480] Tentative de minage au tick 480
+[Tick 480] Nouveau bloc accepté: greedy_1_48 de logging_0, hauteur 83
+[Tick 481] Bloc rejeté: logging_1_30 de basic_0
+[Tick 481] Nouveau bloc accepté: adaptive_0_31 de adaptive_0, hauteur 83
+[Tick 481] Bloc rejeté: groupe_samson_tilio_0_47 de groupe_samson_tilio_0
+[Tick 482] Nouveau bloc accepté: groupe_samson_tilio_0_46 de groupe_samson_tilio_0, hauteur 83
+[Tick 483] Nouveau bloc accepté: greedy_0_47 de EMKAMA_0, hauteur 83
+[Tick 484] Nouveau bloc accepté: EMKAMA_0_49 de greedy_0, hauteur 50
+[Tick 484] Nouveau bloc accepté: greedy_0_48 de logging_2, hauteur 84
+[Tick 485] Nouveau bloc accepté: basic_0_30 de EMKAMA_0, hauteur 82
+[Tick 486] Nouveau bloc accepté: EMKAMA_0_50 de groupe_samson_tilio_0, hauteur 51
+[Tick 488] Nouveau bloc accepté: basic_0_31 de basic_0, hauteur 84
+[Tick 488] Nouveau bloc accepté: logging_0_33 de greedy_0, hauteur 84
+[Tick 490] Tentative de minage au tick 490
+[Tick 492] Choix du parent: groupe_samson_tilio_0_47 (hauteur 84)
+[Tick 492] Nouveau bloc accepté: adaptive_0_32 de groupe_samson_tilio_0, hauteur 84
+[Tick 493] Nouveau bloc accepté: greedy_1_49 de greedy_0, hauteur 85
+[Tick 493] Nouveau bloc accepté: EMKAMA_0_51 de EMKAMA_0, hauteur 52
+[Tick 498] Nouveau bloc accepté: logging_2_33 de logging_2, hauteur 85
+[Tick 498] Nouveau bloc accepté: greedy_1_50 de greedy_1, hauteur 86
+[Tick 499] Nouveau bloc accepté: groupe_samson_tilio_0_48 de groupe_samson_tilio_0, hauteur 86
+[Tick 500] Tentative de minage au tick 500
+[Tick 500] Nouveau bloc accepté: logging_0_34 de basic_0, hauteur 85
+[Tick 503] Nouveau bloc accepté: greedy_0_49 de greedy_1, hauteur 86
+[Tick 506] Nouveau bloc accepté: conservative_0_23 de conservative_0, hauteur 85
+[Tick 506] Bloc rejeté: logging_1_32 de greedy_0
+[Tick 507] Nouveau bloc accepté: logging_2_34 de logging_0, hauteur 86
+[Tick 507] Nouveau bloc accepté: EMKAMA_0_52 de basic_0, hauteur 53
+[Tick 508] Nouveau bloc accepté: EMKAMA_0_53 de EMKAMA_0, hauteur 54
+[Tick 509] Nouveau bloc accepté: greedy_0_50 de groupe_samson_tilio_0, hauteur 87
+[Tick 510] Tentative de minage au tick 510
+[Tick 510] Nouveau bloc accepté: groupe_samson_tilio_0_49 de greedy_0, hauteur 88
+[Tick 511] Nouveau bloc accepté: adaptive_0_33 de EMKAMA_0, hauteur 87
+[Tick 513] Nouveau bloc accepté: basic_0_32 de basic_0, hauteur 88
+[Tick 514] Choix du parent: groupe_samson_tilio_0_49 (hauteur 88)
+[Tick 514] Nouveau bloc accepté: greedy_0_51 de greedy_0, hauteur 89
+[Tick 515] Nouveau bloc accepté: greedy_1_51 de greedy_1, hauteur 87
+[Tick 515] Nouveau bloc accepté: greedy_1_52 de greedy_1, hauteur 89
+[Tick 518] Nouveau bloc accepté: conservative_0_24 de conservative_0, hauteur 89
+[Tick 519] Nouveau bloc accepté: logging_0_35 de basic_0, hauteur 87
+[Tick 519] Nouveau bloc accepté: groupe_samson_tilio_0_50 de logging_0, hauteur 89
+[Tick 520] Tentative de minage au tick 520
+[Tick 520] Nouveau bloc accepté: logging_2_35 de logging_2, hauteur 88
+[Tick 524] Nouveau bloc accepté: adaptive_0_34 de adaptive_0, hauteur 90
+[Tick 525] Nouveau bloc accepté: EMKAMA_0_54 de EMKAMA_0, hauteur 55
+[Tick 525] Nouveau bloc accepté: greedy_0_52 de greedy_0, hauteur 91
+[Tick 528] Bloc rejeté: logging_1_33 de logging_2
+[Tick 528] Nouveau bloc accepté: logging_0_36 de basic_0, hauteur 90
+[Tick 529] Choix du parent: greedy_0_52 (hauteur 91)
+[Tick 529] Nouveau bloc accepté: groupe_samson_tilio_0_51 de basic_0, hauteur 90
+[Tick 530] Tentative de minage au tick 530
+[Tick 530] Nouveau bloc accepté: basic_0_33 de logging_0, hauteur 90
+[Tick 531] Nouveau bloc accepté: groupe_samson_tilio_0_52 de EMKAMA_0, hauteur 91
+[Tick 536] Nouveau bloc accepté: conservative_0_25 de groupe_samson_tilio_0, hauteur 92
+[Tick 537] Nouveau bloc accepté: greedy_1_53 de logging_2, hauteur 91
+[Tick 538] Choix du parent: logging_1_34 (hauteur 92)
+[Tick 538] Nouveau bloc accepté: logging_2_36 de logging_2, hauteur 92
+[Tick 538] Nouveau bloc accepté: logging_0_37 de logging_0, hauteur 92
+[Tick 539] Nouveau bloc accepté: EMKAMA_0_55 de greedy_1, hauteur 56
+[Tick 539] Nouveau bloc accepté: adaptive_0_35 de logging_0, hauteur 91
+[Tick 540] Tentative de minage au tick 540
+[Tick 540] Nouveau bloc accepté: greedy_1_54 de greedy_1, hauteur 92
+[Tick 540] Bloc rejeté: logging_1_34 de EMKAMA_0
+[Tick 542] Nouveau bloc accepté: greedy_1_55 de greedy_1, hauteur 93
+[Tick 544] Bloc rejeté: logging_1_35 de adaptive_0
+[Tick 545] Choix du parent: logging_1_35 (hauteur 93)
+[Tick 545] Nouveau bloc accepté: groupe_samson_tilio_0_53 de basic_0, hauteur 93
+[Tick 546] Nouveau bloc accepté: greedy_0_53 de EMKAMA_0, hauteur 92
+[Tick 549] Nouveau bloc accepté: EMKAMA_0_56 de EMKAMA_0, hauteur 57
+[Tick 550] Tentative de minage au tick 550
+[Tick 551] Nouveau bloc accepté: logging_2_37 de logging_2, hauteur 93
+[Tick 551] Bloc rejeté: logging_1_36 de groupe_samson_tilio_0
+[Tick 553] Nouveau bloc accepté: basic_0_34 de logging_2, hauteur 94
+[Tick 556] Nouveau bloc accepté: conservative_0_26 de greedy_1, hauteur 94
+[Tick 556] Nouveau bloc accepté: greedy_0_54 de logging_2, hauteur 94
+[Tick 556] Nouveau bloc accepté: adaptive_0_36 de greedy_1, hauteur 95
+[Tick 560] Tentative de minage au tick 560
+[Tick 561] Nouveau bloc accepté: EMKAMA_0_57 de greedy_0, hauteur 58
+[Tick 561] Nouveau bloc accepté: groupe_samson_tilio_0_54 de greedy_1, hauteur 95
+[Tick 561] Nouveau bloc accepté: groupe_samson_tilio_0_55 de logging_2, hauteur 96
+[Tick 562] Nouveau bloc accepté: logging_0_38 de adaptive_0, hauteur 95
+[Tick 563] Choix du parent: groupe_samson_tilio_0_55 (hauteur 96)
+[Tick 563] Nouveau bloc accepté: EMKAMA_0_58 de basic_0, hauteur 59
+[Tick 565] Bloc rejeté: greedy_1_57 de greedy_0
+[Tick 565] Nouveau bloc accepté: greedy_0_55 de greedy_1, hauteur 96
+[Tick 566] Bloc rejeté: logging_0_39 de logging_0
+[Tick 566] Bloc rejeté: greedy_0_56 de EMKAMA_0
+[Tick 567] Nouveau bloc accepté: greedy_1_56 de adaptive_0, hauteur 95
+[Tick 567] Nouveau bloc accepté: adaptive_0_37 de logging_2, hauteur 97
+[Tick 570] Tentative de minage au tick 570
+[Tick 571] Nouveau bloc accepté: EMKAMA_0_59 de EMKAMA_0, hauteur 60
+[Tick 571] Nouveau bloc accepté: greedy_0_57 de greedy_0, hauteur 99
+[Tick 573] Nouveau bloc accepté: logging_2_38 de logging_2, hauteur 97
+[Tick 573] Nouveau bloc accepté: basic_0_35 de greedy_0, hauteur 97
+[Tick 575] Nouveau bloc accepté: groupe_samson_tilio_0_56 de groupe_samson_tilio_0, hauteur 98
+[Tick 575] Bloc rejeté: logging_1_37 de logging_2
+[Tick 576] Nouveau bloc accepté: conservative_0_27 de logging_0, hauteur 98
+[Tick 578] Nouveau bloc accepté: greedy_1_58 de basic_0, hauteur 99
+[Tick 579] Choix du parent: greedy_0_57 (hauteur 99)
+[Tick 579] Nouveau bloc accepté: greedy_1_59 de logging_2, hauteur 100
+[Tick 580] Tentative de minage au tick 580
+[Tick 581] Nouveau bloc accepté: logging_0_40 de logging_0, hauteur 99
+[Tick 581] Nouveau bloc accepté: EMKAMA_0_60 de logging_0, hauteur 61
+[Tick 584] Bloc rejeté: logging_1_38 de adaptive_0
+[Tick 585] Bloc rejeté: logging_2_39 de logging_2
+[Tick 585] Nouveau bloc accepté: groupe_samson_tilio_0_57 de adaptive_0, hauteur 100
+[Tick 585] Bloc rejeté: logging_0_41 de logging_0
+[Tick 587] Nouveau bloc accepté: adaptive_0_38 de EMKAMA_0, hauteur 101
+[Tick 588] Choix du parent: adaptive_0_38 (hauteur 101)
+[Tick 588] Bloc rejeté: basic_0_36 de basic_0
+[Tick 588] Nouveau bloc accepté: greedy_0_58 de basic_0, hauteur 101
+[Tick 590] Tentative de minage au tick 590
+[Tick 590] Nouveau bloc accepté: greedy_1_60 de greedy_0, hauteur 101
+[Tick 591] Nouveau bloc accepté: conservative_0_28 de conservative_0, hauteur 102
+[Tick 593] Nouveau bloc accepté: EMKAMA_0_61 de EMKAMA_0, hauteur 62
+[Tick 593] Nouveau bloc accepté: groupe_samson_tilio_0_58 de groupe_samson_tilio_0, hauteur 103
+[Tick 594] Nouveau bloc accepté: adaptive_0_39 de adaptive_0, hauteur 103
+[Tick 595] Choix du parent: groupe_samson_tilio_0_58 (hauteur 103)
+[Tick 596] Bloc rejeté: greedy_0_60 de greedy_0
+[Tick 599] Bloc rejeté: logging_1_39 de EMKAMA_0
+[Tick 600] Tentative de minage au tick 600
+[Tick 600] Nouveau bloc accepté: EMKAMA_0_62 de EMKAMA_0, hauteur 63
+[Tick 601] Nouveau bloc accepté: greedy_0_59 de EMKAMA_0, hauteur 103
+[Tick 602] Nouveau bloc accepté: logging_0_42 de greedy_0, hauteur 104
+[Tick 603] Nouveau bloc accepté: greedy_1_61 de greedy_1, hauteur 104
+[Tick 603] Nouveau bloc accepté: groupe_samson_tilio_0_59 de EMKAMA_0, hauteur 104
+[Tick 605] Nouveau bloc accepté: logging_2_40 de groupe_samson_tilio_0, hauteur 104
+[Tick 607] Nouveau bloc accepté: basic_0_37 de basic_0, hauteur 105
+[Tick 608] Nouveau bloc accepté: greedy_1_62 de greedy_1, hauteur 105
+[Tick 609] Bloc rejeté: greedy_1_63 de greedy_1
+[Tick 610] Tentative de minage au tick 610
+[Tick 610] Nouveau bloc accepté: EMKAMA_0_63 de greedy_0, hauteur 64
+[Tick 610] Bloc rejeté: logging_1_40 de logging_0
+[Tick 611] Choix du parent: basic_0_37 (hauteur 105)
+[Tick 611] Nouveau bloc accepté: groupe_samson_tilio_0_60 de EMKAMA_0, hauteur 105
+[Tick 612] Nouveau bloc accepté: greedy_0_61 de basic_0, hauteur 106
+[Tick 613] Nouveau bloc accepté: EMKAMA_0_64 de EMKAMA_0, hauteur 65
+[Tick 613] Nouveau bloc accepté: logging_0_43 de greedy_1, hauteur 107
+[Tick 615] Nouveau bloc accepté: groupe_samson_tilio_0_61 de groupe_samson_tilio_0, hauteur 107
+[Tick 616] Bloc rejeté: logging_1_41 de greedy_0
+[Tick 619] Nouveau bloc accepté: conservative_0_29 de EMKAMA_0, hauteur 107
+[Tick 619] Bloc rejeté: logging_2_41 de logging_2
+[Tick 620] Tentative de minage au tick 620
+[Tick 620] Nouveau bloc accepté: basic_0_38 de basic_0, hauteur 108
+[Tick 621] Nouveau bloc accepté: adaptive_0_40 de logging_0, hauteur 106
+[Tick 621] Nouveau bloc accepté: groupe_samson_tilio_0_62 de groupe_samson_tilio_0, hauteur 109
+[Tick 622] Nouveau bloc accepté: EMKAMA_0_65 de EMKAMA_0, hauteur 66
+[Tick 623] Nouveau bloc accepté: greedy_0_62 de greedy_0, hauteur 108
+[Tick 623] Nouveau bloc accepté: logging_0_44 de groupe_samson_tilio_0, hauteur 109
+[Tick 624] Nouveau bloc accepté: greedy_1_64 de greedy_1, hauteur 108
+[Tick 626] Nouveau bloc accepté: conservative_0_30 de conservative_0, hauteur 110
+[Tick 626] Nouveau bloc accepté: logging_2_42 de logging_2, hauteur 110
+[Tick 629] Choix du parent: conservative_0_30 (hauteur 110)
+[Tick 630] Tentative de minage au tick 630
+[Tick 632] Nouveau bloc accepté: basic_0_39 de logging_0, hauteur 110
+[Tick 633] Nouveau bloc accepté: adaptive_0_41 de greedy_1, hauteur 109
+[Tick 633] Nouveau bloc accepté: greedy_1_65 de groupe_samson_tilio_0, hauteur 110
+[Tick 634] Bloc rejeté: logging_1_42 de greedy_1
+[Tick 636] Nouveau bloc accepté: greedy_0_63 de greedy_0, hauteur 110
+[Tick 636] Nouveau bloc accepté: groupe_samson_tilio_0_63 de basic_0, hauteur 110
+[Tick 636] Bloc rejeté: EMKAMA_0_67 de EMKAMA_0
+[Tick 638] Nouveau bloc accepté: greedy_0_64 de greedy_1, hauteur 111
+[Tick 638] Nouveau bloc accepté: EMKAMA_0_66 de logging_0, hauteur 67
+[Tick 640] Tentative de minage au tick 640
+[Tick 640] Nouveau bloc accepté: adaptive_0_42 de EMKAMA_0, hauteur 111
+[Tick 641] Bloc rejeté: greedy_0_65 de greedy_0
+[Tick 641] Bloc rejeté: greedy_1_67 de greedy_1
+[Tick 642] Nouveau bloc accepté: greedy_1_66 de groupe_samson_tilio_0, hauteur 112
+[Tick 643] Choix du parent: greedy_1_67 (hauteur 113)
+[Tick 643] Nouveau bloc accepté: groupe_samson_tilio_0_64 de greedy_0, hauteur 113
+[Tick 645] Nouveau bloc accepté: logging_2_43 de adaptive_0, hauteur 112
+[Tick 647] Nouveau bloc accepté: logging_0_45 de EMKAMA_0, hauteur 114
+[Tick 647] Nouveau bloc accepté: groupe_samson_tilio_0_65 de groupe_samson_tilio_0, hauteur 114
+[Tick 647] Nouveau bloc accepté: logging_2_44 de logging_2, hauteur 114
+[Tick 648] Nouveau bloc accepté: conservative_0_31 de logging_0, hauteur 113
+[Tick 650] Tentative de minage au tick 650
+[Tick 653] Nouveau bloc accepté: basic_0_40 de greedy_1, hauteur 113
+[Tick 654] Nouveau bloc accepté: greedy_0_66 de greedy_0, hauteur 115
+[Tick 654] Nouveau bloc accepté: EMKAMA_0_68 de greedy_1, hauteur 69
+[Tick 655] Nouveau bloc accepté: adaptive_0_43 de adaptive_0, hauteur 115
+[Tick 655] Nouveau bloc accepté: greedy_1_68 de greedy_0, hauteur 115
+[Tick 656] Choix du parent: greedy_0_66 (hauteur 115)
+[Tick 659] Bloc rejeté: logging_1_43 de greedy_0
+[Tick 660] Tentative de minage au tick 660
+[Tick 661] Nouveau bloc accepté: logging_2_45 de logging_2, hauteur 116
+[Tick 661] Nouveau bloc accepté: basic_0_41 de basic_0, hauteur 116
+[Tick 664] Nouveau bloc accepté: groupe_samson_tilio_0_66 de EMKAMA_0, hauteur 116
+[Tick 666] Nouveau bloc accepté: logging_2_46 de logging_2, hauteur 117
+[Tick 667] Nouveau bloc accepté: EMKAMA_0_69 de basic_0, hauteur 70
+[Tick 668] Nouveau bloc accepté: greedy_0_67 de greedy_0, hauteur 116
+[Tick 669] Nouveau bloc accepté: EMKAMA_0_70 de greedy_1, hauteur 71
+[Tick 670] Tentative de minage au tick 670
+[Tick 670] Bloc rejeté: logging_1_44 de adaptive_0
+[Tick 671] Choix du parent: logging_2_46 (hauteur 117)
+[Tick 671] Nouveau bloc accepté: groupe_samson_tilio_0_67 de greedy_1, hauteur 117
+[Tick 671] Nouveau bloc accepté: greedy_1_69 de adaptive_0, hauteur 117
+[Tick 673] Nouveau bloc accepté: logging_0_46 de groupe_samson_tilio_0, hauteur 117
+[Tick 673] Nouveau bloc accepté: adaptive_0_44 de adaptive_0, hauteur 118
+[Tick 674] Nouveau bloc accepté: EMKAMA_0_71 de EMKAMA_0, hauteur 72
+[Tick 676] Nouveau bloc accepté: groupe_samson_tilio_0_68 de groupe_samson_tilio_0, hauteur 118
+[Tick 676] Bloc rejeté: logging_1_45 de logging_2
+[Tick 677] Nouveau bloc accepté: conservative_0_32 de conservative_0, hauteur 118
+[Tick 679] Nouveau bloc accepté: basic_0_42 de groupe_samson_tilio_0, hauteur 119
+[Tick 680] Tentative de minage au tick 680
+[Tick 680] Nouveau bloc accepté: logging_2_47 de groupe_samson_tilio_0, hauteur 118
+[Tick 683] Nouveau bloc accepté: greedy_0_68 de logging_0, hauteur 118
+[Tick 684] Nouveau bloc accepté: greedy_1_70 de greedy_1, hauteur 118
+[Tick 685] Nouveau bloc accepté: adaptive_0_45 de adaptive_0, hauteur 120
+[Tick 686] Choix du parent: adaptive_0_45 (hauteur 120)
+[Tick 686] Nouveau bloc accepté: logging_0_47 de logging_0, hauteur 120
+[Tick 690] Tentative de minage au tick 690
+[Tick 692] Nouveau bloc accepté: groupe_samson_tilio_0_69 de groupe_samson_tilio_0, hauteur 120
+[Tick 694] Nouveau bloc accepté: conservative_0_33 de conservative_0, hauteur 121
+[Tick 697] Choix du parent: logging_1_46 (hauteur 121)
+[Tick 699] Bloc rejeté: logging_1_46 de groupe_samson_tilio_0
+[Tick 700] Tentative de minage au tick 700
+[Tick 701] Nouveau bloc accepté: groupe_samson_tilio_0_70 de groupe_samson_tilio_0, hauteur 121
+[Tick 703] Nouveau bloc accepté: basic_0_43 de basic_0, hauteur 122
+[Tick 704] Bloc rejeté: logging_0_48 de logging_0
+[Tick 705] Nouveau bloc accepté: adaptive_0_46 de basic_0, hauteur 122
+[Tick 708] Nouveau bloc accepté: greedy_0_69 de greedy_0, hauteur 121
+[Tick 710] Tentative de minage au tick 710
+[Tick 710] Bloc rejeté: logging_1_47 de basic_0
+[Tick 711] Choix du parent: logging_0_48 (hauteur 123)
+[Tick 713] Nouveau bloc accepté: greedy_1_73 de basic_0, hauteur 124
+[Tick 714] Nouveau bloc accepté: basic_0_44 de basic_0, hauteur 123
+[Tick 715] Nouveau bloc accepté: conservative_0_34 de adaptive_0, hauteur 124
+[Tick 717] Nouveau bloc accepté: greedy_1_74 de basic_0, hauteur 125
+[Tick 720] Tentative de minage au tick 720
+[Tick 723] Bloc rejeté: logging_1_48 de adaptive_0
+[Tick 724] Nouveau bloc accepté: adaptive_0_47 de adaptive_0, hauteur 124
+[Tick 725] Nouveau bloc accepté: greedy_1_75 de greedy_1, hauteur 126
+[Tick 728] Choix du parent: greedy_1_75 (hauteur 126)
+[Tick 728] Bloc rejeté: conservative_0_35 de conservative_0
+[Tick 730] Tentative de minage au tick 730
+[Tick 730] Nouveau bloc accepté: logging_0_49 de logging_0, hauteur 125
+[Tick 731] Nouveau bloc accepté: basic_0_45 de logging_0, hauteur 126
+[Tick 735] Nouveau bloc accepté: greedy_1_76 de greedy_1, hauteur 127
+[Tick 737] Choix du parent: logging_1_49 (hauteur 127)
+[Tick 740] Tentative de minage au tick 740
+[Tick 740] Nouveau bloc accepté: basic_0_46 de basic_0, hauteur 128
+[Tick 743] Bloc rejeté: logging_1_50 de logging_0
+[Tick 745] Choix du parent: logging_1_50 (hauteur 128)
+[Tick 745] Nouveau bloc accepté: adaptive_0_48 de adaptive_0, hauteur 128
+[Tick 748] Nouveau bloc accepté: adaptive_0_49 de adaptive_0, hauteur 129
+[Tick 750] Tentative de minage au tick 750
+[Tick 750] Bloc rejeté: logging_1_49 de logging_0
+[Tick 752] Bloc rejeté: logging_1_51 de greedy_1
+[Tick 754] Nouveau bloc accepté: greedy_1_77 de greedy_1, hauteur 129
+[Tick 755] Nouveau bloc accepté: greedy_1_78 de greedy_1, hauteur 130
+[Tick 756] Bloc rejeté: logging_0_51 de logging_0
+[Tick 760] Tentative de minage au tick 760
+[Tick 760] Nouveau bloc accepté: conservative_0_36 de conservative_0, hauteur 130
+[Tick 761] Nouveau bloc accepté: logging_0_50 de adaptive_0, hauteur 129
+[Tick 762] Nouveau bloc accepté: basic_0_47 de basic_0, hauteur 130
+[Tick 763] Choix du parent: greedy_1_78 (hauteur 130)
+[Tick 763] Nouveau bloc accepté: greedy_1_79 de adaptive_0, hauteur 131
+[Tick 767] Bloc rejeté: greedy_1_80 de greedy_1
+[Tick 768] Nouveau bloc accepté: adaptive_0_50 de greedy_1, hauteur 132
+[Tick 770] Tentative de minage au tick 770
+[Tick 771] Bloc rejeté: logging_1_52 de logging_0
+[Tick 773] Nouveau bloc accepté: greedy_1_81 de greedy_1, hauteur 134
+[Tick 774] Nouveau bloc accepté: logging_0_52 de logging_0, hauteur 134
+[Tick 779] Nouveau bloc accepté: adaptive_0_51 de adaptive_0, hauteur 135
+[Tick 780] Tentative de minage au tick 780
+[Tick 782] Nouveau bloc accepté: conservative_0_37 de conservative_0, hauteur 132
+[Tick 784] Choix du parent: adaptive_0_51 (hauteur 135)
+[Tick 784] Nouveau bloc accepté: greedy_1_82 de greedy_1, hauteur 135
+[Tick 785] Nouveau bloc accepté: basic_0_48 de logging_0, hauteur 133
+[Tick 790] Tentative de minage au tick 790
+[Tick 795] Nouveau bloc accepté: greedy_1_83 de basic_0, hauteur 137
+[Tick 796] Nouveau bloc accepté: basic_0_49 de logging_0, hauteur 135
+[Tick 797] Nouveau bloc accepté: conservative_0_38 de conservative_0, hauteur 136
+[Tick 800] Tentative de minage au tick 800
+[Tick 803] Nouveau bloc accepté: adaptive_0_52 de adaptive_0, hauteur 136
+[Tick 804] Choix du parent: greedy_1_83 (hauteur 137)
+[Tick 804] Nouveau bloc accepté: logging_0_53 de adaptive_0, hauteur 137
+[Tick 806] Bloc rejeté: logging_1_53 de logging_0
+[Tick 806] Nouveau bloc accepté: adaptive_0_53 de logging_0, hauteur 137
+[Tick 807] Nouveau bloc accepté: greedy_1_84 de greedy_1, hauteur 138
+[Tick 810] Tentative de minage au tick 810
+[Tick 810] Nouveau bloc accepté: conservative_0_39 de basic_0, hauteur 139
+[Tick 812] Nouveau bloc accepté: logging_0_54 de basic_0, hauteur 138
+[Tick 815] Nouveau bloc accepté: greedy_1_85 de greedy_1, hauteur 140
+[Tick 816] Choix du parent: greedy_1_85 (hauteur 140)
+[Tick 816] Nouveau bloc accepté: basic_0_50 de adaptive_0, hauteur 138
+[Tick 817] Bloc rejeté: logging_1_54 de basic_0
+[Tick 820] Tentative de minage au tick 820
+[Tick 824] Bloc rejeté: logging_1_55 de basic_0
+[Tick 826] Choix du parent: logging_1_55 (hauteur 141)
+[Tick 830] Tentative de minage au tick 830
+[Tick 831] Nouveau bloc accepté: basic_0_51 de greedy_1, hauteur 142
+[Tick 833] Nouveau bloc accepté: conservative_0_40 de conservative_0, hauteur 143
+[Tick 835] Choix du parent: conservative_0_40 (hauteur 143)
+[Tick 837] Nouveau bloc accepté: logging_0_55 de logging_0, hauteur 139
+[Tick 837] Nouveau bloc accepté: adaptive_0_54 de logging_0, hauteur 140
+[Tick 837] Bloc rejeté: adaptive_0_55 de adaptive_0
+[Tick 839] Nouveau bloc accepté: greedy_1_86 de greedy_1, hauteur 143
+[Tick 840] Tentative de minage au tick 840
+[Tick 849] Nouveau bloc accepté: logging_0_56 de logging_0, hauteur 143
+[Tick 849] Nouveau bloc accepté: greedy_1_87 de greedy_1, hauteur 144
+[Tick 849] Nouveau bloc accepté: adaptive_0_56 de adaptive_0, hauteur 145
+[Tick 850] Tentative de minage au tick 850
+[Tick 852] Bloc rejeté: logging_1_56 de greedy_1
+[Tick 852] Nouveau bloc accepté: conservative_0_41 de logging_0, hauteur 145
+[Tick 852] Nouveau bloc accepté: logging_0_57 de greedy_1, hauteur 145
+[Tick 853] Choix du parent: adaptive_0_56 (hauteur 145)
+[Tick 854] Bloc rejeté: logging_1_57 de basic_0
+[Tick 856] Nouveau bloc accepté: logging_0_58 de logging_0, hauteur 146
+[Tick 858] Nouveau bloc accepté: basic_0_52 de logging_0, hauteur 144
+[Tick 860] Tentative de minage au tick 860
+[Tick 865] Choix du parent: logging_1_58 (hauteur 146)
+[Tick 865] Nouveau bloc accepté: basic_0_53 de logging_0, hauteur 147
+[Tick 866] Bloc rejeté: greedy_1_90 de greedy_1
+[Tick 867] Bloc rejeté: EMKAMA_0_90 de groupe_samson_tilio_0
+[Tick 868] Nouveau bloc accepté: greedy_1_88 de greedy_1, hauteur 145
+[Tick 868] Nouveau bloc accepté: greedy_1_89 de greedy_1, hauteur 147
+[Tick 868] Nouveau bloc accepté: adaptive_0_57 de basic_0, hauteur 147
+[Tick 870] Tentative de minage au tick 870
+[Tick 870] Bloc rejeté: logging_1_58 de basic_0
+[Tick 871] Nouveau bloc accepté: conservative_0_42 de conservative_0, hauteur 148
+[Tick 872] Bloc rejeté: logging_1_59 de greedy_1
+[Tick 873] Bloc rejeté: EMKAMA_0_91 de EMKAMA_0
+[Tick 874] Bloc rejeté: greedy_0_85 de EMKAMA_0
+[Tick 875] Bloc rejeté: groupe_samson_tilio_0_87 de EMKAMA_0
+[Tick 878] Nouveau bloc accepté: basic_0_54 de adaptive_0, hauteur 148
+[Tick 879] Bloc rejeté: logging_2_58 de EMKAMA_0
+[Tick 879] Bloc rejeté: groupe_samson_tilio_0_88 de EMKAMA_0
+[Tick 880] Tentative de minage au tick 880
+[Tick 881] Bloc rejeté: greedy_0_86 de groupe_samson_tilio_0
+[Tick 882] Nouveau bloc accepté: logging_0_59 de logging_0, hauteur 148
+[Tick 883] Choix du parent: greedy_1_90 (hauteur 148)
+[Tick 885] Bloc rejeté: EMKAMA_0_89 de EMKAMA_0
+[Tick 885] Bloc rejeté: logging_2_59 de logging_2
+[Tick 885] Nouveau bloc accepté: basic_0_55 de adaptive_0, hauteur 149
+[Tick 886] Bloc rejeté: EMKAMA_0_92 de logging_2
+[Tick 890] Tentative de minage au tick 890
+[Tick 890] Bloc rejeté: logging_2_60 de logging_2
+[Tick 891] Bloc rejeté: logging_1_60 de logging_0
+[Tick 892] Nouveau bloc accepté: greedy_1_91 de greedy_1, hauteur 149
+[Tick 893] Bloc rejeté: groupe_samson_tilio_0_89 de groupe_samson_tilio_0
+[Tick 893] Bloc rejeté: basic_0_56 de basic_0
+[Tick 896] Choix du parent: logging_1_60 (hauteur 149)
+[Tick 896] Nouveau bloc accepté: adaptive_0_58 de adaptive_0, hauteur 150
+[Tick 900] Tentative de minage au tick 900
+[Tick 900] Nouveau bloc accepté: conservative_0_43 de adaptive_0, hauteur 150
+[Tick 902] Nouveau bloc accepté: logging_0_60 de logging_0, hauteur 149
+[Tick 902] Nouveau bloc accepté: greedy_1_92 de EMKAMA_0, hauteur 151
+[Tick 905] Bloc rejeté: EMKAMA_0_93 de logging_2
+[Tick 907] Choix du parent: basic_0_56 (hauteur 151)
+[Tick 907] Nouveau bloc accepté: adaptive_0_59 de adaptive_0, hauteur 152
+[Tick 907] Bloc rejeté: logging_2_61 de EMKAMA_0
+[Tick 909] Bloc rejeté: logging_1_61 de greedy_1
+[Tick 909] Bloc rejeté: groupe_samson_tilio_0_90 de EMKAMA_0
+[Tick 910] Tentative de minage au tick 910
+[Tick 911] Nouveau bloc accepté: greedy_1_93 de EMKAMA_0, hauteur 153
+[Tick 912] Nouveau bloc accepté: conservative_0_44 de conservative_0, hauteur 154
+[Tick 914] Bloc rejeté: logging_1_62 de logging_0
+[Tick 916] Bloc rejeté: EMKAMA_0_94 de EMKAMA_0
+[Tick 918] Bloc rejeté: logging_2_62 de logging_2
+[Tick 918] Bloc rejeté: EMKAMA_0_96 de EMKAMA_0
+[Tick 919] Bloc rejeté: groupe_samson_tilio_0_91 de EMKAMA_0
+[Tick 920] Tentative de minage au tick 920
+[Tick 920] Choix du parent: conservative_0_44 (hauteur 154)
+[Tick 921] Bloc rejeté: EMKAMA_0_95 de EMKAMA_0
+[Tick 921] Nouveau bloc accepté: logging_0_61 de greedy_1, hauteur 154
+[Tick 923] Nouveau bloc accepté: greedy_1_94 de logging_0, hauteur 154
+[Tick 926] Nouveau bloc accepté: basic_0_57 de logging_0, hauteur 154
+[Tick 926] Nouveau bloc accepté: adaptive_0_60 de basic_0, hauteur 154
+[Tick 929] Bloc rejeté: groupe_samson_tilio_0_92 de groupe_samson_tilio_0
+[Tick 930] Tentative de minage au tick 930
+[Tick 930] Bloc rejeté: logging_1_63 de greedy_1
+[Tick 930] Bloc rejeté: groupe_samson_tilio_0_93 de groupe_samson_tilio_0
+[Tick 931] Bloc rejeté: logging_2_63 de logging_2
+[Tick 932] Nouveau bloc accepté: logging_0_62 de logging_0, hauteur 156
+[Tick 934] Nouveau bloc accepté: adaptive_0_61 de adaptive_0, hauteur 155
+[Tick 934] Nouveau bloc accepté: conservative_0_45 de logging_0, hauteur 156
+[Tick 938] Choix du parent: logging_0_62 (hauteur 156)
+[Tick 938] Bloc rejeté: logging_2_64 de logging_2
+[Tick 939] Nouveau bloc accepté: greedy_1_95 de logging_0, hauteur 155
+[Tick 940] Tentative de minage au tick 940
+[Tick 940] Nouveau bloc accepté: greedy_1_96 de EMKAMA_0, hauteur 157
+[Tick 942] Nouveau bloc accepté: basic_0_58 de greedy_1, hauteur 155
+[Tick 942] Nouveau bloc accepté: basic_0_59 de EMKAMA_0, hauteur 157
+[Tick 945] Nouveau bloc accepté: logging_0_63 de logging_0, hauteur 158
+[Tick 946] Bloc rejeté: EMKAMA_0_97 de EMKAMA_0
+[Tick 947] Nouveau bloc accepté: adaptive_0_62 de basic_0, hauteur 158
+[Tick 948] Choix du parent: logging_0_63 (hauteur 158)
+[Tick 948] Nouveau bloc accepté: basic_0_60 de basic_0, hauteur 159
+[Tick 950] Tentative de minage au tick 950
+[Tick 951] Bloc rejeté: groupe_samson_tilio_0_94 de groupe_samson_tilio_0
+[Tick 952] Bloc rejeté: EMKAMA_0_98 de EMKAMA_0
+[Tick 953] Bloc rejeté: logging_1_64 de logging_0
+[Tick 955] Nouveau bloc accepté: greedy_1_97 de greedy_1, hauteur 158
+[Tick 958] Choix du parent: logging_1_65 (hauteur 159)
+[Tick 960] Tentative de minage au tick 960
+[Tick 960] Bloc rejeté: logging_1_65 de EMKAMA_0
+[Tick 963] Nouveau bloc accepté: conservative_0_46 de logging_0, hauteur 158
+[Tick 963] Nouveau bloc accepté: greedy_1_98 de EMKAMA_0, hauteur 159
+[Tick 963] Bloc rejeté: logging_1_66 de EMKAMA_0
+[Tick 964] Bloc rejeté: logging_2_65 de groupe_samson_tilio_0
+[Tick 965] Nouveau bloc accepté: adaptive_0_63 de adaptive_0, hauteur 159
+[Tick 966] Bloc rejeté: groupe_samson_tilio_0_95 de groupe_samson_tilio_0
+[Tick 968] Nouveau bloc accepté: basic_0_61 de basic_0, hauteur 160
+[Tick 968] Nouveau bloc accepté: adaptive_0_64 de adaptive_0, hauteur 161
+[Tick 969] Choix du parent: adaptive_0_64 (hauteur 161)
+[Tick 969] Bloc rejeté: conservative_0_47 de conservative_0
+[Tick 970] Tentative de minage au tick 970
+[Tick 970] Nouveau bloc accepté: greedy_1_99 de greedy_1, hauteur 161
+[Tick 971] Bloc rejeté: groupe_samson_tilio_0_96 de logging_2
+[Tick 973] Bloc rejeté: EMKAMA_0_99 de EMKAMA_0
+[Tick 974] Nouveau bloc accepté: logging_0_64 de logging_0, hauteur 160
+[Tick 978] Bloc rejeté: groupe_samson_tilio_0_97 de groupe_samson_tilio_0
+[Tick 979] Nouveau bloc accepté: logging_0_65 de logging_0, hauteur 161
+[Tick 980] Tentative de minage au tick 980
+[Tick 980] Nouveau bloc accepté: basic_0_62 de basic_0, hauteur 162
+[Tick 980] Bloc rejeté: logging_1_67 de greedy_1
+[Tick 983] Choix du parent: logging_1_67 (hauteur 162)
+[Tick 984] Bloc rejeté: EMKAMA_0_100 de EMKAMA_0
+[Tick 985] Nouveau bloc accepté: greedy_1_100 de basic_0, hauteur 163
+[Tick 988] Bloc rejeté: EMKAMA_0_101 de EMKAMA_0
+[Tick 989] Bloc rejeté: logging_2_66 de logging_2
+[Tick 990] Tentative de minage au tick 990
+[Tick 991] Bloc rejeté: groupe_samson_tilio_0_99 de groupe_samson_tilio_0
+[Tick 992] Nouveau bloc accepté: greedy_1_101 de greedy_1, hauteur 164
+[Tick 993] Nouveau bloc accepté: adaptive_0_65 de adaptive_0, hauteur 163
+[Tick 993] Bloc rejeté: logging_1_68 de basic_0
+[Tick 993] Nouveau bloc accepté: logging_0_66 de adaptive_0, hauteur 164
+[Tick 994] Bloc rejeté: greedy_1_102 de greedy_1
+[Tick 995] Bloc rejeté: conservative_0_48 de EMKAMA_0
+[Tick 996] Bloc rejeté: EMKAMA_0_102 de EMKAMA_0
+[Tick 996] Nouveau bloc accepté: logging_0_67 de EMKAMA_0, hauteur 165
+[Tick 997] Choix du parent: logging_0_67 (hauteur 165)
+[Tick 997] Bloc rejeté: groupe_samson_tilio_0_98 de groupe_samson_tilio_0
+[Tick 998] Nouveau bloc accepté: basic_0_63 de greedy_1, hauteur 165
+[Tick 999] Bloc rejeté: logging_2_67 de logging_2
+[Tick 1000] Tentative de minage au tick 1000
+[Tick 1000] Nouveau bloc accepté: greedy_1_103 de greedy_1, hauteur 167
+[Tick 1000] Bloc rejeté: logging_1_69 de logging_0
+
+
+--- logging_2 ---
+[Tick 0] Stratégie initialisée pour logging_2
+[Tick 10] Tentative de minage au tick 10
+[Tick 12] Nouveau bloc accepté: groupe_samson_tilio_0_0 de groupe_samson_tilio_0, hauteur 1
+[Tick 14] Nouveau bloc accepté: adaptive_0_0 de greedy_0, hauteur 1
+[Tick 15] Nouveau bloc accepté: EMKAMA_0_0 de logging_0, hauteur 1
+[Tick 17] Nouveau bloc accepté: greedy_1_0 de greedy_1, hauteur 1
+[Tick 18] Nouveau bloc accepté: greedy_0_0 de logging_1, hauteur 2
+[Tick 20] Tentative de minage au tick 20
+[Tick 21] Choix du parent: greedy_0_0 (hauteur 2)
+[Tick 21] Nouveau bloc accepté: logging_1_0 de greedy_0, hauteur 2
+[Tick 21] Nouveau bloc accepté: logging_0_0 de adaptive_0, hauteur 2
+[Tick 23] Nouveau bloc accepté: greedy_0_1 de EMKAMA_0, hauteur 3
+[Tick 24] Nouveau bloc accepté: EMKAMA_0_1 de groupe_samson_tilio_0, hauteur 2
+[Tick 25] Nouveau bloc accepté: groupe_samson_tilio_0_1 de logging_1, hauteur 3
+[Tick 27] Bloc rejeté: logging_2_0 de logging_0
+[Tick 29] Nouveau bloc accepté: basic_0_0 de adaptive_0, hauteur 2
+[Tick 30] Tentative de minage au tick 30
+[Tick 30] Nouveau bloc accepté: EMKAMA_0_2 de logging_0, hauteur 3
+[Tick 32] Nouveau bloc accepté: greedy_1_1 de EMKAMA_0, hauteur 4
+[Tick 32] Nouveau bloc accepté: adaptive_0_1 de logging_1, hauteur 4
+[Tick 32] Nouveau bloc accepté: greedy_1_2 de greedy_1, hauteur 5
+[Tick 35] Choix du parent: greedy_1_2 (hauteur 5)
+[Tick 36] Nouveau bloc accepté: logging_1_1 de logging_1, hauteur 4
+[Tick 36] Nouveau bloc accepté: greedy_0_2 de logging_0, hauteur 4
+[Tick 37] Nouveau bloc accepté: logging_0_1 de logging_0, hauteur 5
+[Tick 37] Nouveau bloc accepté: EMKAMA_0_3 de logging_0, hauteur 4
+[Tick 37] Bloc rejeté: logging_2_1 de logging_0
+[Tick 38] Nouveau bloc accepté: groupe_samson_tilio_0_2 de EMKAMA_0, hauteur 4
+[Tick 38] Nouveau bloc accepté: greedy_0_3 de basic_0, hauteur 6
+[Tick 39] Nouveau bloc accepté: basic_0_1 de logging_0, hauteur 5
+[Tick 40] Tentative de minage au tick 40
+[Tick 41] Nouveau bloc accepté: logging_1_2 de logging_1, hauteur 6
+[Tick 42] Nouveau bloc accepté: adaptive_0_2 de adaptive_0, hauteur 7
+[Tick 43] Nouveau bloc accepté: conservative_0_0 de groupe_samson_tilio_0, hauteur 5
+[Tick 43] Nouveau bloc accepté: EMKAMA_0_4 de groupe_samson_tilio_0, hauteur 5
+[Tick 43] Nouveau bloc accepté: logging_0_2 de greedy_0, hauteur 7
+[Tick 46] Nouveau bloc accepté: greedy_1_3 de greedy_1, hauteur 8
+[Tick 47] Nouveau bloc accepté: groupe_samson_tilio_0_3 de EMKAMA_0, hauteur 6
+[Tick 50] Tentative de minage au tick 50
+[Tick 51] Choix du parent: greedy_1_3 (hauteur 8)
+[Tick 51] Nouveau bloc accepté: EMKAMA_0_5 de EMKAMA_0, hauteur 6
+[Tick 51] Nouveau bloc accepté: conservative_0_1 de conservative_0, hauteur 9
+[Tick 53] Nouveau bloc accepté: logging_1_3 de greedy_0, hauteur 9
+[Tick 53] Nouveau bloc accepté: greedy_0_4 de logging_1, hauteur 9
+[Tick 58] Nouveau bloc accepté: EMKAMA_0_6 de EMKAMA_0, hauteur 7
+[Tick 58] Nouveau bloc accepté: logging_0_3 de basic_0, hauteur 10
+[Tick 59] Nouveau bloc accepté: groupe_samson_tilio_0_4 de logging_0, hauteur 9
+[Tick 60] Tentative de minage au tick 60
+[Tick 61] Nouveau bloc accepté: greedy_1_4 de groupe_samson_tilio_0, hauteur 10
+[Tick 62] Nouveau bloc accepté: logging_1_4 de logging_1, hauteur 11
+[Tick 63] Nouveau bloc accepté: adaptive_0_3 de adaptive_0, hauteur 10
+[Tick 63] Nouveau bloc accepté: greedy_0_5 de greedy_0, hauteur 11
+[Tick 63] Bloc rejeté: logging_2_2 de EMKAMA_0
+[Tick 64] Nouveau bloc accepté: basic_0_2 de basic_0, hauteur 8
+[Tick 67] Choix du parent: logging_1_4 (hauteur 11)
+[Tick 67] Nouveau bloc accepté: groupe_samson_tilio_0_5 de adaptive_0, hauteur 11
+[Tick 70] Tentative de minage au tick 70
+[Tick 72] Nouveau bloc accepté: greedy_1_5 de greedy_1, hauteur 13
+[Tick 73] Nouveau bloc accepté: EMKAMA_0_7 de EMKAMA_0, hauteur 8
+[Tick 74] Nouveau bloc accepté: greedy_0_6 de groupe_samson_tilio_0, hauteur 12
+[Tick 74] Bloc rejeté: basic_0_4 de basic_0
+[Tick 76] Nouveau bloc accepté: basic_0_3 de adaptive_0, hauteur 12
+[Tick 76] Bloc rejeté: logging_2_3 de logging_1
+[Tick 76] Nouveau bloc accepté: EMKAMA_0_8 de EMKAMA_0, hauteur 9
+[Tick 77] Choix du parent: greedy_1_5 (hauteur 13)
+[Tick 79] Nouveau bloc accepté: logging_0_4 de logging_0, hauteur 13
+[Tick 80] Tentative de minage au tick 80
+[Tick 81] Bloc rejeté: logging_1_5 de logging_1
+[Tick 82] Nouveau bloc accepté: groupe_samson_tilio_0_6 de groupe_samson_tilio_0, hauteur 12
+[Tick 82] Nouveau bloc accepté: conservative_0_2 de conservative_0, hauteur 13
+[Tick 83] Bloc rejeté: greedy_0_7 de greedy_0
+[Tick 85] Nouveau bloc accepté: greedy_1_6 de logging_1, hauteur 14
+[Tick 87] Nouveau bloc accepté: groupe_samson_tilio_0_7 de logging_1, hauteur 14
+[Tick 90] Tentative de minage au tick 90
+[Tick 90] Nouveau bloc accepté: adaptive_0_4 de logging_0, hauteur 13
+[Tick 90] Nouveau bloc accepté: adaptive_0_5 de logging_0, hauteur 15
+[Tick 91] Nouveau bloc accepté: groupe_samson_tilio_0_8 de greedy_0, hauteur 16
+[Tick 91] Nouveau bloc accepté: greedy_1_7 de greedy_1, hauteur 15
+[Tick 92] Bloc rejeté: logging_2_4 de adaptive_0
+[Tick 94] Choix du parent: groupe_samson_tilio_0_8 (hauteur 16)
+[Tick 95] Nouveau bloc accepté: logging_0_5 de greedy_1, hauteur 15
+[Tick 96] Nouveau bloc accepté: EMKAMA_0_9 de logging_0, hauteur 10
+[Tick 97] Nouveau bloc accepté: basic_0_5 de basic_0, hauteur 16
+[Tick 100] Tentative de minage au tick 100
+[Tick 100] Nouveau bloc accepté: logging_1_6 de greedy_1, hauteur 15
+[Tick 102] Nouveau bloc accepté: conservative_0_3 de conservative_0, hauteur 16
+[Tick 103] Bloc rejeté: logging_2_5 de greedy_0
+[Tick 103] Bloc rejeté: logging_0_6 de logging_0
+[Tick 105] Nouveau bloc accepté: groupe_samson_tilio_0_9 de logging_0, hauteur 17
+[Tick 105] Nouveau bloc accepté: greedy_0_8 de greedy_1, hauteur 17
+[Tick 107] Nouveau bloc accepté: greedy_1_8 de basic_0, hauteur 16
+[Tick 108] Choix du parent: logging_0_6 (hauteur 18)
+[Tick 108] Nouveau bloc accepté: EMKAMA_0_10 de adaptive_0, hauteur 11
+[Tick 110] Tentative de minage au tick 110
+[Tick 110] Bloc rejeté: greedy_0_9 de greedy_0
+[Tick 110] Bloc rejeté: logging_2_6 de logging_1
+[Tick 113] Nouveau bloc accepté: basic_0_6 de basic_0, hauteur 18
+[Tick 114] Nouveau bloc accepté: adaptive_0_6 de adaptive_0, hauteur 18
+[Tick 115] Nouveau bloc accepté: EMKAMA_0_11 de EMKAMA_0, hauteur 12
+[Tick 116] Nouveau bloc accepté: logging_1_7 de logging_1, hauteur 19
+[Tick 117] Nouveau bloc accepté: adaptive_0_7 de adaptive_0, hauteur 19
+[Tick 118] Nouveau bloc accepté: groupe_samson_tilio_0_10 de basic_0, hauteur 20
+[Tick 119] Nouveau bloc accepté: greedy_1_9 de greedy_1, hauteur 17
+[Tick 119] Nouveau bloc accepté: greedy_0_10 de groupe_samson_tilio_0, hauteur 20
+[Tick 119] Nouveau bloc accepté: logging_0_7 de EMKAMA_0, hauteur 20
+[Tick 120] Tentative de minage au tick 120
+[Tick 121] Choix du parent: groupe_samson_tilio_0_10 (hauteur 20)
+[Tick 121] Nouveau bloc accepté: groupe_samson_tilio_0_11 de groupe_samson_tilio_0, hauteur 21
+[Tick 122] Nouveau bloc accepté: conservative_0_4 de conservative_0, hauteur 19
+[Tick 122] Nouveau bloc accepté: logging_1_8 de logging_1, hauteur 20
+[Tick 125] Nouveau bloc accepté: adaptive_0_8 de EMKAMA_0, hauteur 21
+[Tick 126] Nouveau bloc accepté: EMKAMA_0_12 de EMKAMA_0, hauteur 13
+[Tick 127] Nouveau bloc accepté: greedy_1_10 de greedy_1, hauteur 21
+[Tick 127] Nouveau bloc accepté: EMKAMA_0_13 de EMKAMA_0, hauteur 14
+[Tick 128] Nouveau bloc accepté: basic_0_7 de greedy_1, hauteur 21
+[Tick 129] Bloc rejeté: greedy_1_12 de greedy_1
+[Tick 130] Tentative de minage au tick 130
+[Tick 133] Nouveau bloc accepté: greedy_0_11 de logging_0, hauteur 22
+[Tick 136] Nouveau bloc accepté: greedy_1_11 de greedy_1, hauteur 22
+[Tick 136] Bloc rejeté: groupe_samson_tilio_0_13 de groupe_samson_tilio_0
+[Tick 136] Nouveau bloc accepté: groupe_samson_tilio_0_12 de EMKAMA_0, hauteur 22
+[Tick 137] Bloc rejeté: logging_2_7 de EMKAMA_0
+[Tick 138] Choix du parent: greedy_1_12 (hauteur 23)
+[Tick 140] Tentative de minage au tick 140
+[Tick 140] Nouveau bloc accepté: logging_0_8 de basic_0, hauteur 24
+[Tick 141] Bloc rejeté: logging_2_8 de greedy_1
+[Tick 142] Nouveau bloc accepté: conservative_0_5 de conservative_0, hauteur 23
+[Tick 144] Nouveau bloc accepté: adaptive_0_9 de adaptive_0, hauteur 25
+[Tick 145] Nouveau bloc accepté: EMKAMA_0_14 de greedy_1, hauteur 15
+[Tick 145] Nouveau bloc accepté: logging_1_9 de adaptive_0, hauteur 23
+[Tick 147] Bloc rejeté: groupe_samson_tilio_0_14 de EMKAMA_0
+[Tick 148] Nouveau bloc accepté: greedy_0_12 de logging_0, hauteur 25
+[Tick 149] Nouveau bloc accepté: basic_0_8 de basic_0, hauteur 25
+[Tick 149] Nouveau bloc accepté: conservative_0_6 de conservative_0, hauteur 25
+[Tick 150] Tentative de minage au tick 150
+[Tick 151] Bloc rejeté: greedy_1_14 de adaptive_0
+[Tick 152] Nouveau bloc accepté: greedy_1_13 de greedy_1, hauteur 24
+[Tick 152] Nouveau bloc accepté: greedy_0_13 de greedy_0, hauteur 26
+[Tick 154] Choix du parent: groupe_samson_tilio_0_14 (hauteur 26)
+[Tick 155] Nouveau bloc accepté: logging_1_10 de logging_1, hauteur 27
+[Tick 157] Nouveau bloc accepté: EMKAMA_0_15 de EMKAMA_0, hauteur 16
+[Tick 157] Nouveau bloc accepté: greedy_0_14 de greedy_0, hauteur 28
+[Tick 158] Nouveau bloc accepté: groupe_samson_tilio_0_15 de groupe_samson_tilio_0, hauteur 27
+[Tick 158] Nouveau bloc accepté: logging_0_9 de EMKAMA_0, hauteur 27
+[Tick 158] Nouveau bloc accepté: basic_0_9 de basic_0, hauteur 28
+[Tick 160] Tentative de minage au tick 160
+[Tick 160] Nouveau bloc accepté: EMKAMA_0_16 de groupe_samson_tilio_0, hauteur 17
+[Tick 161] Nouveau bloc accepté: adaptive_0_10 de adaptive_0, hauteur 27
+[Tick 161] Bloc rejeté: logging_2_9 de groupe_samson_tilio_0
+[Tick 165] Nouveau bloc accepté: greedy_1_15 de basic_0, hauteur 28
+[Tick 165] Nouveau bloc accepté: EMKAMA_0_17 de adaptive_0, hauteur 18
+[Tick 168] Choix du parent: greedy_0_14 (hauteur 28)
+[Tick 168] Nouveau bloc accepté: greedy_0_15 de greedy_0, hauteur 29
+[Tick 170] Tentative de minage au tick 170
+[Tick 170] Bloc rejeté: groupe_samson_tilio_0_16 de groupe_samson_tilio_0
+[Tick 171] Nouveau bloc accepté: conservative_0_7 de conservative_0, hauteur 29
+[Tick 172] Nouveau bloc accepté: greedy_1_16 de greedy_0, hauteur 30
+[Tick 172] Nouveau bloc accepté: logging_1_11 de adaptive_0, hauteur 30
+[Tick 173] Bloc rejeté: logging_2_10 de greedy_1
+[Tick 174] Nouveau bloc accepté: logging_0_10 de logging_0, hauteur 30
+[Tick 174] Nouveau bloc accepté: EMKAMA_0_18 de groupe_samson_tilio_0, hauteur 19
+[Tick 176] Choix du parent: groupe_samson_tilio_0_16 (hauteur 30)
+[Tick 176] Nouveau bloc accepté: adaptive_0_11 de logging_0, hauteur 31
+[Tick 177] Nouveau bloc accepté: greedy_0_16 de greedy_0, hauteur 31
+[Tick 180] Tentative de minage au tick 180
+[Tick 182] Nouveau bloc accepté: basic_0_10 de basic_0, hauteur 31
+[Tick 182] Nouveau bloc accepté: greedy_1_17 de greedy_0, hauteur 32
+[Tick 182] Nouveau bloc accepté: logging_0_11 de logging_0, hauteur 32
+[Tick 185] Choix du parent: greedy_1_17 (hauteur 32)
+[Tick 185] Bloc rejeté: logging_2_11 de EMKAMA_0
+[Tick 186] Bloc rejeté: adaptive_0_12 de adaptive_0
+[Tick 187] Nouveau bloc accepté: logging_1_12 de EMKAMA_0, hauteur 32
+[Tick 190] Tentative de minage au tick 190
+[Tick 190] Bloc rejeté: logging_2_12 de groupe_samson_tilio_0
+[Tick 191] Nouveau bloc accepté: EMKAMA_0_19 de EMKAMA_0, hauteur 20
+[Tick 191] Nouveau bloc accepté: groupe_samson_tilio_0_17 de EMKAMA_0, hauteur 32
+[Tick 192] Nouveau bloc accepté: EMKAMA_0_20 de EMKAMA_0, hauteur 21
+[Tick 193] Nouveau bloc accepté: conservative_0_8 de logging_0, hauteur 33
+[Tick 193] Nouveau bloc accepté: greedy_0_17 de basic_0, hauteur 33
+[Tick 194] Choix du parent: logging_2_12 (hauteur 33)
+[Tick 195] Nouveau bloc accepté: logging_1_13 de groupe_samson_tilio_0, hauteur 33
+[Tick 197] Bloc rejeté: greedy_0_18 de greedy_0
+[Tick 198] Bloc rejeté: logging_2_13 de adaptive_0
+[Tick 199] Nouveau bloc accepté: greedy_1_18 de EMKAMA_0, hauteur 34
+[Tick 200] Tentative de minage au tick 200
+[Tick 202] Bloc rejeté: logging_0_12 de greedy_1
+[Tick 204] Nouveau bloc accepté: EMKAMA_0_21 de EMKAMA_0, hauteur 22
+[Tick 204] Nouveau bloc accepté: basic_0_11 de greedy_1, hauteur 34
+[Tick 205] Nouveau bloc accepté: groupe_samson_tilio_0_18 de basic_0, hauteur 34
+[Tick 207] Nouveau bloc accepté: groupe_samson_tilio_0_19 de logging_0, hauteur 35
+[Tick 210] Tentative de minage au tick 210
+[Tick 211] Nouveau bloc accepté: greedy_1_19 de logging_0, hauteur 36
+[Tick 211] Nouveau bloc accepté: basic_0_12 de greedy_0, hauteur 36
+[Tick 212] Choix du parent: greedy_1_19 (hauteur 36)
+[Tick 212] Nouveau bloc accepté: EMKAMA_0_22 de EMKAMA_0, hauteur 23
+[Tick 213] Bloc rejeté: logging_0_13 de logging_0
+[Tick 214] Nouveau bloc accepté: adaptive_0_13 de adaptive_0, hauteur 36
+[Tick 214] Nouveau bloc accepté: groupe_samson_tilio_0_20 de adaptive_0, hauteur 37
+[Tick 215] Nouveau bloc accepté: logging_1_14 de logging_1, hauteur 37
+[Tick 216] Nouveau bloc accepté: greedy_1_20 de adaptive_0, hauteur 37
+[Tick 217] Nouveau bloc accepté: greedy_1_21 de greedy_1, hauteur 38
+[Tick 219] Nouveau bloc accepté: adaptive_0_14 de adaptive_0, hauteur 38
+[Tick 220] Tentative de minage au tick 220
+[Tick 220] Nouveau bloc accepté: greedy_0_19 de EMKAMA_0, hauteur 36
+[Tick 220] Nouveau bloc accepté: greedy_0_20 de greedy_0, hauteur 38
+[Tick 222] Bloc rejeté: logging_2_14 de greedy_1
+[Tick 223] Nouveau bloc accepté: conservative_0_9 de greedy_1, hauteur 37
+[Tick 225] Nouveau bloc accepté: EMKAMA_0_23 de greedy_1, hauteur 24
+[Tick 226] Nouveau bloc accepté: EMKAMA_0_24 de EMKAMA_0, hauteur 25
+[Tick 227] Nouveau bloc accepté: basic_0_13 de adaptive_0, hauteur 38
+[Tick 228] Nouveau bloc accepté: logging_1_15 de groupe_samson_tilio_0, hauteur 39
+[Tick 229] Nouveau bloc accepté: groupe_samson_tilio_0_21 de groupe_samson_tilio_0, hauteur 39
+[Tick 230] Tentative de minage au tick 230
+[Tick 231] Choix du parent: logging_1_15 (hauteur 39)
+[Tick 232] Nouveau bloc accepté: greedy_0_21 de greedy_0, hauteur 40
+[Tick 232] Nouveau bloc accepté: greedy_1_22 de logging_0, hauteur 39
+[Tick 234] Bloc rejeté: basic_0_14 de basic_0
+[Tick 234] Nouveau bloc accepté: logging_0_14 de EMKAMA_0, hauteur 40
+[Tick 235] Bloc rejeté: logging_2_15 de groupe_samson_tilio_0
+[Tick 237] Nouveau bloc accepté: greedy_0_22 de logging_0, hauteur 41
+[Tick 239] Nouveau bloc accepté: groupe_samson_tilio_0_22 de basic_0, hauteur 40
+[Tick 239] Nouveau bloc accepté: conservative_0_10 de logging_1, hauteur 40
+[Tick 240] Tentative de minage au tick 240
+[Tick 243] Nouveau bloc accepté: adaptive_0_15 de adaptive_0, hauteur 42
+[Tick 243] Nouveau bloc accepté: EMKAMA_0_25 de adaptive_0, hauteur 26
+[Tick 243] Nouveau bloc accepté: greedy_0_23 de adaptive_0, hauteur 42
+[Tick 247] Choix du parent: adaptive_0_15 (hauteur 42)
+[Tick 247] Nouveau bloc accepté: greedy_1_23 de greedy_1, hauteur 41
+[Tick 248] Nouveau bloc accepté: logging_0_15 de logging_0, hauteur 43
+[Tick 248] Nouveau bloc accepté: groupe_samson_tilio_0_23 de groupe_samson_tilio_0, hauteur 43
+[Tick 249] Nouveau bloc accepté: logging_1_16 de logging_0, hauteur 42
+[Tick 250] Tentative de minage au tick 250
+[Tick 250] Nouveau bloc accepté: greedy_1_24 de greedy_1, hauteur 42
+[Tick 251] Nouveau bloc accepté: EMKAMA_0_26 de EMKAMA_0, hauteur 27
+[Tick 255] Nouveau bloc accepté: greedy_1_25 de groupe_samson_tilio_0, hauteur 44
+[Tick 258] Nouveau bloc accepté: greedy_0_24 de greedy_0, hauteur 43
+[Tick 258] Bloc rejeté: logging_2_16 de EMKAMA_0
+[Tick 259] Nouveau bloc accepté: EMKAMA_0_27 de EMKAMA_0, hauteur 28
+[Tick 260] Tentative de minage au tick 260
+[Tick 261] Bloc rejeté: greedy_0_25 de greedy_1
+[Tick 263] Nouveau bloc accepté: logging_1_17 de logging_1, hauteur 44
+[Tick 264] Choix du parent: greedy_1_25 (hauteur 44)
+[Tick 264] Bloc rejeté: groupe_samson_tilio_0_25 de logging_0
+[Tick 265] Nouveau bloc accepté: basic_0_15 de basic_0, hauteur 44
+[Tick 265] Nouveau bloc accepté: adaptive_0_16 de EMKAMA_0, hauteur 44
+[Tick 266] Nouveau bloc accepté: conservative_0_11 de basic_0, hauteur 44
+[Tick 266] Nouveau bloc accepté: greedy_0_26 de greedy_0, hauteur 46
+[Tick 267] Nouveau bloc accepté: groupe_samson_tilio_0_24 de groupe_samson_tilio_0, hauteur 45
+[Tick 270] Tentative de minage au tick 270
+[Tick 270] Nouveau bloc accepté: greedy_1_26 de greedy_0, hauteur 46
+[Tick 272] Nouveau bloc accepté: adaptive_0_17 de adaptive_0, hauteur 46
+[Tick 272] Bloc rejeté: logging_2_17 de EMKAMA_0
+[Tick 272] Nouveau bloc accepté: logging_1_18 de EMKAMA_0, hauteur 46
+[Tick 274] Choix du parent: greedy_0_26 (hauteur 46)
+[Tick 275] Nouveau bloc accepté: EMKAMA_0_28 de greedy_0, hauteur 29
+[Tick 275] Bloc rejeté: greedy_0_27 de greedy_0
+[Tick 276] Bloc rejeté: logging_0_17 de logging_0
+[Tick 277] Nouveau bloc accepté: logging_0_16 de logging_0, hauteur 47
+[Tick 277] Nouveau bloc accepté: conservative_0_12 de conservative_0, hauteur 47
+[Tick 278] Nouveau bloc accepté: EMKAMA_0_29 de EMKAMA_0, hauteur 30
+[Tick 280] Tentative de minage au tick 280
+[Tick 281] Bloc rejeté: groupe_samson_tilio_0_26 de groupe_samson_tilio_0
+[Tick 281] Bloc rejeté: basic_0_17 de greedy_1
+[Tick 283] Nouveau bloc accepté: adaptive_0_18 de adaptive_0, hauteur 49
+[Tick 284] Choix du parent: adaptive_0_18 (hauteur 49)
+[Tick 284] Nouveau bloc accepté: basic_0_16 de basic_0, hauteur 47
+[Tick 286] Bloc rejeté: logging_2_18 de EMKAMA_0
+[Tick 286] Nouveau bloc accepté: logging_1_19 de greedy_1, hauteur 49
+[Tick 286] Bloc rejeté: logging_2_19 de EMKAMA_0
+[Tick 290] Tentative de minage au tick 290
+[Tick 291] Nouveau bloc accepté: greedy_1_27 de greedy_1, hauteur 48
+[Tick 292] Nouveau bloc accepté: conservative_0_13 de conservative_0, hauteur 50
+[Tick 295] Bloc rejeté: greedy_1_28 de greedy_1
+[Tick 297] Nouveau bloc accepté: greedy_0_28 de greedy_1, hauteur 50
+[Tick 297] Nouveau bloc accepté: groupe_samson_tilio_0_27 de logging_1, hauteur 51
+[Tick 298] Nouveau bloc accepté: EMKAMA_0_30 de groupe_samson_tilio_0, hauteur 31
+[Tick 299] Nouveau bloc accepté: logging_1_20 de logging_1, hauteur 52
+[Tick 299] Nouveau bloc accepté: greedy_1_29 de greedy_1, hauteur 52
+[Tick 300] Tentative de minage au tick 300
+[Tick 301] Nouveau bloc accepté: EMKAMA_0_31 de EMKAMA_0, hauteur 32
+[Tick 302] Nouveau bloc accepté: groupe_samson_tilio_0_28 de groupe_samson_tilio_0, hauteur 53
+[Tick 303] Choix du parent: groupe_samson_tilio_0_28 (hauteur 53)
+[Tick 303] Nouveau bloc accepté: logging_0_18 de logging_0, hauteur 52
+[Tick 306] Nouveau bloc accepté: basic_0_18 de basic_0, hauteur 51
+[Tick 307] Nouveau bloc accepté: adaptive_0_19 de logging_1, hauteur 51
+[Tick 309] Nouveau bloc accepté: greedy_0_29 de adaptive_0, hauteur 53
+[Tick 310] Tentative de minage au tick 310
+[Tick 311] Bloc rejeté: logging_2_20 de groupe_samson_tilio_0
+[Tick 313] Nouveau bloc accepté: basic_0_19 de basic_0, hauteur 54
+[Tick 313] Nouveau bloc accepté: logging_0_19 de greedy_0, hauteur 53
+[Tick 315] Nouveau bloc accepté: groupe_samson_tilio_0_29 de groupe_samson_tilio_0, hauteur 55
+[Tick 315] Nouveau bloc accepté: EMKAMA_0_32 de basic_0, hauteur 33
+[Tick 315] Nouveau bloc accepté: adaptive_0_20 de greedy_1, hauteur 54
+[Tick 316] Nouveau bloc accepté: greedy_0_30 de adaptive_0, hauteur 54
+[Tick 317] Bloc rejeté: conservative_0_14 de logging_1
+[Tick 318] Nouveau bloc accepté: greedy_1_30 de basic_0, hauteur 53
+[Tick 318] Nouveau bloc accepté: logging_1_21 de basic_0, hauteur 54
+[Tick 318] Nouveau bloc accepté: groupe_samson_tilio_0_30 de groupe_samson_tilio_0, hauteur 56
+[Tick 320] Tentative de minage au tick 320
+[Tick 320] Choix du parent: groupe_samson_tilio_0_30 (hauteur 56)
+[Tick 322] Nouveau bloc accepté: EMKAMA_0_33 de EMKAMA_0, hauteur 34
+[Tick 323] Nouveau bloc accepté: greedy_1_31 de basic_0, hauteur 56
+[Tick 324] Nouveau bloc accepté: basic_0_20 de logging_1, hauteur 55
+[Tick 325] Bloc rejeté: logging_2_21 de EMKAMA_0
+[Tick 327] Nouveau bloc accepté: greedy_0_31 de adaptive_0, hauteur 55
+[Tick 330] Tentative de minage au tick 330
+[Tick 332] Nouveau bloc accepté: logging_1_22 de logging_1, hauteur 58
+[Tick 332] Nouveau bloc accepté: EMKAMA_0_34 de groupe_samson_tilio_0, hauteur 35
+[Tick 332] Bloc rejeté: conservative_0_15 de conservative_0
+[Tick 333] Nouveau bloc accepté: adaptive_0_21 de greedy_1, hauteur 57
+[Tick 334] Nouveau bloc accepté: basic_0_21 de logging_1, hauteur 58
+[Tick 334] Nouveau bloc accepté: logging_0_20 de EMKAMA_0, hauteur 58
+[Tick 335] Nouveau bloc accepté: groupe_samson_tilio_0_31 de greedy_0, hauteur 57
+[Tick 336] Nouveau bloc accepté: greedy_0_32 de greedy_1, hauteur 58
+[Tick 337] Nouveau bloc accepté: groupe_samson_tilio_0_32 de groupe_samson_tilio_0, hauteur 59
+[Tick 337] Nouveau bloc accepté: EMKAMA_0_35 de greedy_1, hauteur 36
+[Tick 339] Choix du parent: groupe_samson_tilio_0_32 (hauteur 59)
+[Tick 339] Nouveau bloc accepté: greedy_1_32 de logging_0, hauteur 57
+[Tick 339] Nouveau bloc accepté: logging_0_21 de logging_0, hauteur 59
+[Tick 340] Tentative de minage au tick 340
+[Tick 341] Nouveau bloc accepté: greedy_0_33 de greedy_0, hauteur 59
+[Tick 342] Nouveau bloc accepté: logging_1_23 de logging_0, hauteur 59
+[Tick 342] Nouveau bloc accepté: adaptive_0_22 de greedy_0, hauteur 59
+[Tick 345] Bloc rejeté: logging_2_22 de basic_0
+[Tick 346] Nouveau bloc accepté: groupe_samson_tilio_0_33 de EMKAMA_0, hauteur 60
+[Tick 350] Tentative de minage au tick 350
+[Tick 350] Bloc rejeté: groupe_samson_tilio_0_34 de groupe_samson_tilio_0
+[Tick 351] Nouveau bloc accepté: EMKAMA_0_36 de EMKAMA_0, hauteur 37
+[Tick 351] Nouveau bloc accepté: conservative_0_16 de basic_0, hauteur 61
+[Tick 353] Nouveau bloc accepté: greedy_1_33 de greedy_0, hauteur 60
+[Tick 354] Choix du parent: conservative_0_16 (hauteur 61)
+[Tick 354] Nouveau bloc accepté: greedy_1_34 de greedy_1, hauteur 62
+[Tick 355] Nouveau bloc accepté: basic_0_22 de EMKAMA_0, hauteur 61
+[Tick 356] Nouveau bloc accepté: greedy_0_34 de logging_1, hauteur 61
+[Tick 358] Nouveau bloc accepté: groupe_samson_tilio_0_35 de groupe_samson_tilio_0, hauteur 63
+[Tick 359] Nouveau bloc accepté: adaptive_0_23 de adaptive_0, hauteur 62
+[Tick 360] Tentative de minage au tick 360
+[Tick 360] Nouveau bloc accepté: logging_0_22 de basic_0, hauteur 62
+[Tick 361] Nouveau bloc accepté: EMKAMA_0_37 de EMKAMA_0, hauteur 38
+[Tick 362] Bloc rejeté: logging_2_23 de greedy_0
+[Tick 363] Nouveau bloc accepté: logging_1_24 de greedy_1, hauteur 63
+[Tick 364] Nouveau bloc accepté: greedy_0_35 de logging_0, hauteur 63
+[Tick 366] Nouveau bloc accepté: EMKAMA_0_38 de basic_0, hauteur 39
+[Tick 367] Nouveau bloc accepté: logging_0_23 de greedy_1, hauteur 64
+[Tick 369] Choix du parent: logging_0_23 (hauteur 64)
+[Tick 370] Tentative de minage au tick 370
+[Tick 370] Nouveau bloc accepté: adaptive_0_24 de adaptive_0, hauteur 65
+[Tick 371] Nouveau bloc accepté: conservative_0_17 de conservative_0, hauteur 65
+[Tick 372] Nouveau bloc accepté: greedy_0_36 de greedy_0, hauteur 64
+[Tick 373] Nouveau bloc accepté: basic_0_23 de basic_0, hauteur 63
+[Tick 373] Nouveau bloc accepté: greedy_1_35 de logging_1, hauteur 65
+[Tick 373] Nouveau bloc accepté: groupe_samson_tilio_0_36 de groupe_samson_tilio_0, hauteur 65
+[Tick 376] Choix du parent: logging_2_24 (hauteur 65)
+[Tick 377] Nouveau bloc accepté: logging_0_24 de logging_0, hauteur 65
+[Tick 377] Nouveau bloc accepté: logging_1_25 de logging_0, hauteur 66
+[Tick 379] Bloc rejeté: logging_2_24 de logging_0
+[Tick 380] Tentative de minage au tick 380
+[Tick 380] Nouveau bloc accepté: groupe_samson_tilio_0_37 de greedy_0, hauteur 66
+[Tick 382] Nouveau bloc accepté: EMKAMA_0_39 de adaptive_0, hauteur 40
+[Tick 384] Choix du parent: logging_2_25 (hauteur 66)
+[Tick 385] Nouveau bloc accepté: greedy_1_36 de logging_1, hauteur 66
+[Tick 386] Bloc rejeté: logging_2_25 de greedy_0
+[Tick 390] Tentative de minage au tick 390
+[Tick 390] Nouveau bloc accepté: greedy_0_37 de logging_1, hauteur 67
+[Tick 390] Nouveau bloc accepté: basic_0_24 de logging_1, hauteur 67
+[Tick 391] Nouveau bloc accepté: EMKAMA_0_40 de EMKAMA_0, hauteur 41
+[Tick 391] Nouveau bloc accepté: adaptive_0_25 de greedy_1, hauteur 67
+[Tick 392] Nouveau bloc accepté: greedy_0_38 de logging_1, hauteur 68
+[Tick 394] Nouveau bloc accepté: greedy_1_37 de greedy_1, hauteur 68
+[Tick 394] Bloc rejeté: logging_2_26 de adaptive_0
+[Tick 395] Choix du parent: greedy_0_38 (hauteur 68)
+[Tick 398] Nouveau bloc accepté: conservative_0_18 de conservative_0, hauteur 68
+[Tick 398] Nouveau bloc accepté: groupe_samson_tilio_0_38 de logging_0, hauteur 68
+[Tick 399] Nouveau bloc accepté: EMKAMA_0_41 de EMKAMA_0, hauteur 42
+[Tick 399] Nouveau bloc accepté: adaptive_0_26 de groupe_samson_tilio_0, hauteur 69
+[Tick 399] Bloc rejeté: logging_2_27 de EMKAMA_0
+[Tick 400] Tentative de minage au tick 400
+[Tick 401] Bloc rejeté: groupe_samson_tilio_0_39 de groupe_samson_tilio_0
+[Tick 401] Nouveau bloc accepté: logging_1_26 de adaptive_0, hauteur 69
+[Tick 403] Bloc rejeté: greedy_1_39 de greedy_1
+[Tick 405] Nouveau bloc accepté: logging_0_25 de greedy_1, hauteur 69
+[Tick 406] Nouveau bloc accepté: basic_0_25 de adaptive_0, hauteur 68
+[Tick 409] Nouveau bloc accepté: greedy_0_39 de greedy_0, hauteur 71
+[Tick 409] Bloc rejeté: adaptive_0_27 de adaptive_0
+[Tick 410] Tentative de minage au tick 410
+[Tick 410] Nouveau bloc accepté: EMKAMA_0_42 de EMKAMA_0, hauteur 43
+[Tick 410] Nouveau bloc accepté: conservative_0_19 de logging_1, hauteur 70
+[Tick 412] Nouveau bloc accepté: groupe_samson_tilio_0_40 de groupe_samson_tilio_0, hauteur 71
+[Tick 413] Choix du parent: greedy_0_39 (hauteur 71)
+[Tick 413] Nouveau bloc accepté: greedy_1_38 de greedy_1, hauteur 70
+[Tick 414] Nouveau bloc accepté: logging_0_26 de groupe_samson_tilio_0, hauteur 71
+[Tick 415] Nouveau bloc accepté: EMKAMA_0_43 de basic_0, hauteur 44
+[Tick 418] Nouveau bloc accepté: greedy_0_40 de greedy_0, hauteur 72
+[Tick 418] Bloc rejeté: logging_2_28 de adaptive_0
+[Tick 418] Nouveau bloc accepté: greedy_1_40 de greedy_1, hauteur 73
+[Tick 419] Nouveau bloc accepté: logging_0_27 de logging_0, hauteur 72
+[Tick 419] Nouveau bloc accepté: logging_1_27 de adaptive_0, hauteur 72
+[Tick 420] Tentative de minage au tick 420
+[Tick 420] Nouveau bloc accepté: basic_0_26 de basic_0, hauteur 72
+[Tick 423] Nouveau bloc accepté: greedy_1_41 de greedy_1, hauteur 74
+[Tick 424] Choix du parent: greedy_1_41 (hauteur 74)
+[Tick 429] Bloc rejeté: logging_0_28 de logging_0
+[Tick 429] Nouveau bloc accepté: greedy_0_41 de EMKAMA_0, hauteur 73
+[Tick 430] Tentative de minage au tick 430
+[Tick 431] Nouveau bloc accepté: groupe_samson_tilio_0_41 de logging_1, hauteur 74
+[Tick 434] Nouveau bloc accepté: EMKAMA_0_44 de EMKAMA_0, hauteur 45
+[Tick 434] Nouveau bloc accepté: basic_0_27 de EMKAMA_0, hauteur 74
+[Tick 435] Nouveau bloc accepté: adaptive_0_28 de adaptive_0, hauteur 75
+[Tick 437] Nouveau bloc accepté: greedy_1_42 de greedy_1, hauteur 75
+[Tick 437] Nouveau bloc accepté: greedy_0_42 de greedy_0, hauteur 75
+[Tick 437] Nouveau bloc accepté: greedy_1_43 de greedy_1, hauteur 76
+[Tick 438] Nouveau bloc accepté: logging_1_28 de logging_1, hauteur 76
+[Tick 438] Nouveau bloc accepté: logging_0_29 de logging_1, hauteur 76
+[Tick 439] Nouveau bloc accepté: groupe_samson_tilio_0_42 de logging_0, hauteur 76
+[Tick 440] Tentative de minage au tick 440
+[Tick 441] Choix du parent: greedy_1_43 (hauteur 76)
+[Tick 441] Bloc rejeté: logging_2_29 de EMKAMA_0
+[Tick 441] Nouveau bloc accepté: conservative_0_20 de groupe_samson_tilio_0, hauteur 76
+[Tick 444] Bloc rejeté: greedy_0_44 de greedy_0
+[Tick 446] Nouveau bloc accepté: basic_0_28 de basic_0, hauteur 77
+[Tick 446] Bloc rejeté: logging_2_30 de greedy_1
+[Tick 447] Nouveau bloc accepté: greedy_1_44 de greedy_1, hauteur 77
+[Tick 448] Nouveau bloc accepté: greedy_0_43 de EMKAMA_0, hauteur 77
+[Tick 449] Nouveau bloc accepté: adaptive_0_29 de groupe_samson_tilio_0, hauteur 78
+[Tick 450] Tentative de minage au tick 450
+[Tick 450] Nouveau bloc accepté: EMKAMA_0_45 de EMKAMA_0, hauteur 46
+[Tick 450] Nouveau bloc accepté: groupe_samson_tilio_0_43 de groupe_samson_tilio_0, hauteur 77
+[Tick 451] Nouveau bloc accepté: conservative_0_21 de basic_0, hauteur 78
+[Tick 452] Nouveau bloc accepté: EMKAMA_0_46 de greedy_0, hauteur 47
+[Tick 453] Nouveau bloc accepté: logging_1_29 de logging_1, hauteur 79
+[Tick 454] Choix du parent: logging_1_29 (hauteur 79)
+[Tick 454] Nouveau bloc accepté: logging_0_30 de basic_0, hauteur 78
+[Tick 458] Bloc rejeté: logging_2_31 de basic_0
+[Tick 460] Tentative de minage au tick 460
+[Tick 460] Nouveau bloc accepté: basic_0_29 de adaptive_0, hauteur 79
+[Tick 461] Nouveau bloc accepté: groupe_samson_tilio_0_44 de groupe_samson_tilio_0, hauteur 79
+[Tick 464] Nouveau bloc accepté: logging_0_31 de EMKAMA_0, hauteur 80
+[Tick 465] Nouveau bloc accepté: adaptive_0_30 de greedy_1, hauteur 79
+[Tick 466] Nouveau bloc accepté: EMKAMA_0_47 de groupe_samson_tilio_0, hauteur 48
+[Tick 466] Nouveau bloc accepté: greedy_0_45 de groupe_samson_tilio_0, hauteur 80
+[Tick 467] Nouveau bloc accepté: greedy_1_45 de groupe_samson_tilio_0, hauteur 79
+[Tick 467] Nouveau bloc accepté: EMKAMA_0_48 de EMKAMA_0, hauteur 49
+[Tick 468] Nouveau bloc accepté: greedy_0_46 de logging_0, hauteur 81
+[Tick 468] Nouveau bloc accepté: greedy_1_46 de groupe_samson_tilio_0, hauteur 80
+[Tick 470] Tentative de minage au tick 470
+[Tick 471] Nouveau bloc accepté: greedy_1_47 de adaptive_0, hauteur 81
+[Tick 472] Choix du parent: greedy_0_46 (hauteur 81)
+[Tick 472] Nouveau bloc accepté: logging_1_30 de basic_0, hauteur 81
+[Tick 473] Nouveau bloc accepté: logging_0_32 de adaptive_0, hauteur 82
+[Tick 476] Nouveau bloc accepté: conservative_0_22 de greedy_0, hauteur 81
+[Tick 477] Nouveau bloc accepté: basic_0_30 de basic_0, hauteur 82
+[Tick 478] Nouveau bloc accepté: EMKAMA_0_49 de EMKAMA_0, hauteur 50
+[Tick 480] Tentative de minage au tick 480
+[Tick 481] Nouveau bloc accepté: groupe_samson_tilio_0_45 de groupe_samson_tilio_0, hauteur 82
+[Tick 482] Bloc rejeté: logging_2_32 de groupe_samson_tilio_0
+[Tick 483] Nouveau bloc accepté: greedy_0_47 de greedy_0, hauteur 83
+[Tick 483] Nouveau bloc accepté: greedy_1_48 de greedy_1, hauteur 83
+[Tick 483] Nouveau bloc accepté: greedy_0_48 de logging_0, hauteur 84
+[Tick 483] Nouveau bloc accepté: adaptive_0_31 de groupe_samson_tilio_0, hauteur 83
+[Tick 484] Nouveau bloc accepté: logging_1_31 de logging_1, hauteur 82
+[Tick 484] Nouveau bloc accepté: groupe_samson_tilio_0_46 de logging_1, hauteur 83
+[Tick 485] Nouveau bloc accepté: EMKAMA_0_50 de EMKAMA_0, hauteur 51
+[Tick 487] Choix du parent: greedy_0_48 (hauteur 84)
+[Tick 487] Nouveau bloc accepté: logging_0_33 de logging_0, hauteur 84
+[Tick 490] Tentative de minage au tick 490
+[Tick 490] Nouveau bloc accepté: basic_0_31 de logging_1, hauteur 84
+[Tick 491] Nouveau bloc accepté: groupe_samson_tilio_0_47 de groupe_samson_tilio_0, hauteur 84
+[Tick 492] Nouveau bloc accepté: adaptive_0_32 de adaptive_0, hauteur 84
+[Tick 492] Nouveau bloc accepté: greedy_1_49 de adaptive_0, hauteur 85
+[Tick 497] Nouveau bloc accepté: logging_0_34 de greedy_1, hauteur 85
+[Tick 498] Nouveau bloc accepté: logging_1_32 de logging_1, hauteur 85
+[Tick 499] Choix du parent: logging_2_33 (hauteur 85)
+[Tick 499] Bloc rejeté: logging_2_33 de groupe_samson_tilio_0
+[Tick 500] Tentative de minage au tick 500
+[Tick 500] Nouveau bloc accepté: groupe_samson_tilio_0_48 de groupe_samson_tilio_0, hauteur 86
+[Tick 500] Nouveau bloc accepté: conservative_0_23 de conservative_0, hauteur 85
+[Tick 501] Nouveau bloc accepté: EMKAMA_0_51 de EMKAMA_0, hauteur 52
+[Tick 501] Bloc rejeté: greedy_0_50 de greedy_0
+[Tick 503] Nouveau bloc accepté: greedy_1_50 de EMKAMA_0, hauteur 86
+[Tick 504] Nouveau bloc accepté: greedy_0_49 de greedy_0, hauteur 86
+[Tick 505] Nouveau bloc accepté: EMKAMA_0_52 de greedy_0, hauteur 53
+[Tick 508] Nouveau bloc accepté: greedy_1_51 de greedy_1, hauteur 87
+[Tick 509] Bloc rejeté: logging_2_34 de logging_0
+[Tick 510] Tentative de minage au tick 510
+[Tick 511] Choix du parent: greedy_0_50 (hauteur 87)
+[Tick 512] Nouveau bloc accepté: EMKAMA_0_53 de logging_0, hauteur 54
+[Tick 512] Nouveau bloc accepté: logging_0_35 de basic_0, hauteur 87
+[Tick 513] Nouveau bloc accepté: adaptive_0_33 de adaptive_0, hauteur 87
+[Tick 513] Nouveau bloc accepté: groupe_samson_tilio_0_49 de basic_0, hauteur 88
+[Tick 513] Nouveau bloc accepté: basic_0_32 de greedy_0, hauteur 88
+[Tick 515] Nouveau bloc accepté: greedy_0_51 de logging_1, hauteur 89
+[Tick 516] Nouveau bloc accepté: greedy_1_52 de greedy_1, hauteur 89
+[Tick 518] Bloc rejeté: logging_0_36 de logging_0
+[Tick 518] Nouveau bloc accepté: groupe_samson_tilio_0_50 de greedy_1, hauteur 89
+[Tick 519] Nouveau bloc accepté: conservative_0_24 de logging_0, hauteur 89
+[Tick 520] Tentative de minage au tick 520
+[Tick 520] Bloc rejeté: logging_2_35 de groupe_samson_tilio_0
+[Tick 521] Nouveau bloc accepté: EMKAMA_0_54 de EMKAMA_0, hauteur 55
+[Tick 525] Nouveau bloc accepté: logging_1_33 de basic_0, hauteur 89
+[Tick 529] Nouveau bloc accepté: groupe_samson_tilio_0_51 de groupe_samson_tilio_0, hauteur 90
+[Tick 529] Nouveau bloc accepté: groupe_samson_tilio_0_52 de groupe_samson_tilio_0, hauteur 91
+[Tick 530] Tentative de minage au tick 530
+[Tick 530] Nouveau bloc accepté: adaptive_0_34 de adaptive_0, hauteur 90
+[Tick 530] Nouveau bloc accepté: greedy_1_53 de greedy_1, hauteur 91
+[Tick 531] Choix du parent: groupe_samson_tilio_0_52 (hauteur 91)
+[Tick 531] Nouveau bloc accepté: basic_0_33 de greedy_0, hauteur 90
+[Tick 534] Bloc rejeté: conservative_0_25 de conservative_0
+[Tick 535] Nouveau bloc accepté: greedy_0_52 de basic_0, hauteur 91
+[Tick 536] Nouveau bloc accepté: logging_1_34 de logging_1, hauteur 92
+[Tick 536] Nouveau bloc accepté: EMKAMA_0_55 de greedy_1, hauteur 56
+[Tick 537] Nouveau bloc accepté: greedy_0_53 de logging_0, hauteur 92
+[Tick 538] Nouveau bloc accepté: logging_0_37 de greedy_0, hauteur 92
+[Tick 540] Tentative de minage au tick 540
+[Tick 542] Bloc rejeté: logging_2_36 de greedy_0
+[Tick 544] Nouveau bloc accepté: greedy_1_54 de greedy_1, hauteur 92
+[Tick 545] Choix du parent: logging_2_36 (hauteur 92)
+[Tick 545] Nouveau bloc accepté: logging_1_35 de EMKAMA_0, hauteur 93
+[Tick 545] Nouveau bloc accepté: groupe_samson_tilio_0_53 de EMKAMA_0, hauteur 93
+[Tick 547] Nouveau bloc accepté: basic_0_34 de basic_0, hauteur 94
+[Tick 549] Nouveau bloc accepté: adaptive_0_35 de basic_0, hauteur 91
+[Tick 550] Tentative de minage au tick 550
+[Tick 550] Bloc rejeté: conservative_0_26 de conservative_0
+[Tick 551] Nouveau bloc accepté: logging_1_36 de groupe_samson_tilio_0, hauteur 94
+[Tick 551] Bloc rejeté: logging_2_37 de greedy_0
+[Tick 551] Nouveau bloc accepté: greedy_1_55 de basic_0, hauteur 93
+[Tick 554] Nouveau bloc accepté: greedy_0_54 de logging_0, hauteur 94
+[Tick 555] Bloc rejeté: EMKAMA_0_57 de EMKAMA_0
+[Tick 555] Nouveau bloc accepté: groupe_samson_tilio_0_54 de basic_0, hauteur 95
+[Tick 557] Nouveau bloc accepté: EMKAMA_0_56 de logging_0, hauteur 57
+[Tick 557] Bloc rejeté: greedy_1_57 de greedy_1
+[Tick 559] Nouveau bloc accepté: EMKAMA_0_58 de EMKAMA_0, hauteur 59
+[Tick 559] Nouveau bloc accepté: groupe_samson_tilio_0_55 de groupe_samson_tilio_0, hauteur 96
+[Tick 560] Tentative de minage au tick 560
+[Tick 561] Nouveau bloc accepté: logging_0_38 de logging_0, hauteur 95
+[Tick 562] Choix du parent: groupe_samson_tilio_0_55 (hauteur 96)
+[Tick 562] Nouveau bloc accepté: adaptive_0_36 de logging_1, hauteur 95
+[Tick 563] Nouveau bloc accepté: greedy_1_56 de greedy_1, hauteur 95
+[Tick 563] Nouveau bloc accepté: greedy_0_55 de EMKAMA_0, hauteur 96
+[Tick 565] Nouveau bloc accepté: adaptive_0_37 de greedy_0, hauteur 97
+[Tick 568] Nouveau bloc accepté: logging_0_39 de groupe_samson_tilio_0, hauteur 97
+[Tick 570] Tentative de minage au tick 570
+[Tick 570] Bloc rejeté: greedy_1_58 de greedy_1
+[Tick 571] Nouveau bloc accepté: logging_1_37 de greedy_0, hauteur 97
+[Tick 571] Bloc rejeté: logging_2_38 de adaptive_0
+[Tick 572] Nouveau bloc accepté: EMKAMA_0_59 de EMKAMA_0, hauteur 60
+[Tick 574] Nouveau bloc accepté: basic_0_35 de adaptive_0, hauteur 97
+[Tick 574] Nouveau bloc accepté: greedy_0_56 de groupe_samson_tilio_0, hauteur 98
+[Tick 575] Nouveau bloc accepté: greedy_0_57 de greedy_0, hauteur 99
+[Tick 576] Nouveau bloc accepté: conservative_0_27 de greedy_0, hauteur 98
+[Tick 576] Nouveau bloc accepté: groupe_samson_tilio_0_56 de EMKAMA_0, hauteur 98
+[Tick 578] Nouveau bloc accepté: logging_0_40 de logging_0, hauteur 99
+[Tick 578] Nouveau bloc accepté: greedy_1_59 de EMKAMA_0, hauteur 100
+[Tick 580] Tentative de minage au tick 580
+[Tick 582] Nouveau bloc accepté: greedy_1_60 de greedy_1, hauteur 101
+[Tick 582] Nouveau bloc accepté: logging_1_38 de greedy_0, hauteur 100
+[Tick 583] Choix du parent: greedy_1_60 (hauteur 101)
+[Tick 583] Nouveau bloc accepté: adaptive_0_38 de adaptive_0, hauteur 101
+[Tick 585] Bloc rejeté: logging_0_41 de logging_0
+[Tick 587] Nouveau bloc accepté: EMKAMA_0_60 de greedy_1, hauteur 61
+[Tick 588] Nouveau bloc accepté: greedy_0_58 de groupe_samson_tilio_0, hauteur 101
+[Tick 588] Bloc rejeté: logging_2_39 de EMKAMA_0
+[Tick 590] Tentative de minage au tick 590
+[Tick 591] Nouveau bloc accepté: basic_0_36 de greedy_1, hauteur 102
+[Tick 592] Nouveau bloc accepté: EMKAMA_0_61 de basic_0, hauteur 62
+[Tick 594] Nouveau bloc accepté: groupe_samson_tilio_0_57 de groupe_samson_tilio_0, hauteur 100
+[Tick 594] Nouveau bloc accepté: greedy_0_59 de greedy_0, hauteur 103
+[Tick 594] Nouveau bloc accepté: logging_1_39 de greedy_0, hauteur 102
+[Tick 598] Nouveau bloc accepté: conservative_0_28 de logging_1, hauteur 102
+[Tick 600] Tentative de minage au tick 600
+[Tick 600] Choix du parent: greedy_0_59 (hauteur 103)
+[Tick 601] Nouveau bloc accepté: adaptive_0_39 de adaptive_0, hauteur 103
+[Tick 602] Nouveau bloc accepté: logging_0_42 de greedy_0, hauteur 104
+[Tick 603] Nouveau bloc accepté: groupe_samson_tilio_0_58 de basic_0, hauteur 103
+[Tick 603] Nouveau bloc accepté: greedy_0_60 de EMKAMA_0, hauteur 104
+[Tick 603] Nouveau bloc accepté: basic_0_37 de basic_0, hauteur 105
+[Tick 603] Nouveau bloc accepté: groupe_samson_tilio_0_59 de greedy_0, hauteur 104
+[Tick 604] Nouveau bloc accepté: greedy_1_61 de greedy_1, hauteur 104
+[Tick 604] Nouveau bloc accepté: EMKAMA_0_62 de logging_1, hauteur 63
+[Tick 605] Nouveau bloc accepté: EMKAMA_0_63 de adaptive_0, hauteur 64
+[Tick 608] Nouveau bloc accepté: greedy_1_62 de greedy_1, hauteur 105
+[Tick 608] Bloc rejeté: logging_0_43 de logging_0
+[Tick 609] Bloc rejeté: logging_2_40 de greedy_0
+[Tick 610] Tentative de minage au tick 610
+[Tick 610] Bloc rejeté: greedy_1_63 de greedy_1
+[Tick 611] Nouveau bloc accepté: groupe_samson_tilio_0_60 de groupe_samson_tilio_0, hauteur 105
+[Tick 611] Nouveau bloc accepté: greedy_0_61 de greedy_1, hauteur 106
+[Tick 611] Nouveau bloc accepté: logging_1_40 de greedy_0, hauteur 104
+[Tick 614] Nouveau bloc accepté: conservative_0_29 de conservative_0, hauteur 107
+[Tick 615] Nouveau bloc accepté: adaptive_0_40 de adaptive_0, hauteur 106
+[Tick 615] Nouveau bloc accepté: basic_0_38 de basic_0, hauteur 108
+[Tick 616] Nouveau bloc accepté: logging_1_41 de logging_1, hauteur 106
+[Tick 617] Choix du parent: basic_0_38 (hauteur 108)
+[Tick 617] Nouveau bloc accepté: groupe_samson_tilio_0_61 de groupe_samson_tilio_0, hauteur 107
+[Tick 617] Nouveau bloc accepté: EMKAMA_0_64 de adaptive_0, hauteur 65
+[Tick 620] Tentative de minage au tick 620
+[Tick 622] Nouveau bloc accepté: greedy_1_64 de logging_0, hauteur 108
+[Tick 624] Nouveau bloc accepté: greedy_0_62 de logging_0, hauteur 108
+[Tick 625] Choix du parent: logging_2_41 (hauteur 109)
+[Tick 625] Nouveau bloc accepté: logging_0_44 de adaptive_0, hauteur 109
+[Tick 625] Nouveau bloc accepté: adaptive_0_41 de groupe_samson_tilio_0, hauteur 109
+[Tick 625] Nouveau bloc accepté: greedy_0_63 de greedy_0, hauteur 110
+[Tick 627] Nouveau bloc accepté: groupe_samson_tilio_0_62 de groupe_samson_tilio_0, hauteur 109
+[Tick 627] Nouveau bloc accepté: EMKAMA_0_65 de adaptive_0, hauteur 66
+[Tick 628] Nouveau bloc accepté: greedy_1_65 de greedy_1, hauteur 110
+[Tick 630] Tentative de minage au tick 630
+[Tick 630] Nouveau bloc accepté: conservative_0_30 de logging_1, hauteur 110
+[Tick 631] Nouveau bloc accepté: logging_1_42 de basic_0, hauteur 111
+[Tick 632] Bloc rejeté: logging_2_41 de adaptive_0
+[Tick 634] Bloc rejeté: logging_2_42 de EMKAMA_0
+[Tick 636] Nouveau bloc accepté: basic_0_39 de basic_0, hauteur 110
+[Tick 637] Choix du parent: logging_1_42 (hauteur 111)
+[Tick 637] Nouveau bloc accepté: groupe_samson_tilio_0_63 de basic_0, hauteur 110
+[Tick 637] Bloc rejeté: EMKAMA_0_67 de EMKAMA_0
+[Tick 638] Nouveau bloc accepté: adaptive_0_42 de adaptive_0, hauteur 111
+[Tick 638] Nouveau bloc accepté: EMKAMA_0_66 de logging_0, hauteur 67
+[Tick 640] Tentative de minage au tick 640
+[Tick 640] Nouveau bloc accepté: greedy_0_64 de greedy_0, hauteur 111
+[Tick 642] Nouveau bloc accepté: greedy_1_66 de EMKAMA_0, hauteur 112
+[Tick 643] Bloc rejeté: logging_2_43 de greedy_1
+[Tick 644] Nouveau bloc accepté: groupe_samson_tilio_0_64 de EMKAMA_0, hauteur 113
+[Tick 645] Choix du parent: groupe_samson_tilio_0_64 (hauteur 113)
+[Tick 645] Nouveau bloc accepté: greedy_1_67 de greedy_1, hauteur 113
+[Tick 647] Nouveau bloc accepté: greedy_0_65 de greedy_0, hauteur 113
+[Tick 648] Nouveau bloc accepté: groupe_samson_tilio_0_65 de logging_1, hauteur 114
+[Tick 649] Nouveau bloc accepté: basic_0_40 de greedy_0, hauteur 113
+[Tick 650] Tentative de minage au tick 650
+[Tick 650] Nouveau bloc accepté: conservative_0_31 de conservative_0, hauteur 113
+[Tick 650] Nouveau bloc accepté: logging_0_45 de groupe_samson_tilio_0, hauteur 114
+[Tick 651] Nouveau bloc accepté: EMKAMA_0_68 de EMKAMA_0, hauteur 69
+[Tick 651] Bloc rejeté: logging_2_44 de logging_0
+[Tick 652] Nouveau bloc accepté: greedy_1_68 de greedy_1, hauteur 115
+[Tick 652] Nouveau bloc accepté: greedy_0_66 de groupe_samson_tilio_0, hauteur 115
+[Tick 657] Nouveau bloc accepté: logging_1_43 de logging_1, hauteur 114
+[Tick 658] Choix du parent: greedy_1_68 (hauteur 115)
+[Tick 660] Tentative de minage au tick 660
+[Tick 660] Nouveau bloc accepté: adaptive_0_43 de EMKAMA_0, hauteur 115
+[Tick 661] Nouveau bloc accepté: EMKAMA_0_69 de EMKAMA_0, hauteur 70
+[Tick 661] Nouveau bloc accepté: basic_0_41 de basic_0, hauteur 116
+[Tick 663] Bloc rejeté: logging_0_46 de logging_0
+[Tick 665] Bloc rejeté: logging_2_45 de adaptive_0
+[Tick 666] Choix du parent: logging_2_45 (hauteur 116)
+[Tick 666] Nouveau bloc accepté: logging_1_44 de logging_1, hauteur 116
+[Tick 667] Nouveau bloc accepté: groupe_samson_tilio_0_66 de groupe_samson_tilio_0, hauteur 116
+[Tick 669] Nouveau bloc accepté: EMKAMA_0_70 de greedy_1, hauteur 71
+[Tick 670] Tentative de minage au tick 670
+[Tick 673] Bloc rejeté: logging_2_46 de groupe_samson_tilio_0
+[Tick 674] Choix du parent: logging_2_46 (hauteur 117)
+[Tick 674] Nouveau bloc accepté: greedy_0_67 de basic_0, hauteur 116
+[Tick 675] Nouveau bloc accepté: greedy_1_69 de adaptive_0, hauteur 117
+[Tick 675] Nouveau bloc accepté: logging_1_45 de logging_0, hauteur 118
+[Tick 676] Nouveau bloc accepté: basic_0_42 de basic_0, hauteur 119
+[Tick 676] Nouveau bloc accepté: groupe_samson_tilio_0_67 de EMKAMA_0, hauteur 117
+[Tick 677] Nouveau bloc accepté: adaptive_0_44 de logging_1, hauteur 118
+[Tick 677] Nouveau bloc accepté: EMKAMA_0_71 de groupe_samson_tilio_0, hauteur 72
+[Tick 678] Nouveau bloc accepté: groupe_samson_tilio_0_68 de logging_1, hauteur 118
+[Tick 679] Nouveau bloc accepté: conservative_0_32 de logging_1, hauteur 118
+[Tick 680] Tentative de minage au tick 680
+[Tick 682] Bloc rejeté: logging_2_47 de adaptive_0
+[Tick 682] Nouveau bloc accepté: greedy_0_68 de greedy_0, hauteur 118
+[Tick 682] Nouveau bloc accepté: groupe_samson_tilio_0_69 de groupe_samson_tilio_0, hauteur 120
+[Tick 687] Nouveau bloc accepté: greedy_1_70 de greedy_0, hauteur 118
+[Tick 688] Nouveau bloc accepté: greedy_1_71 de greedy_1, hauteur 120
+[Tick 690] Tentative de minage au tick 690
+[Tick 691] Choix du parent: groupe_samson_tilio_0_69 (hauteur 120)
+[Tick 691] Nouveau bloc accepté: logging_0_47 de logging_0, hauteur 120
+[Tick 694] Nouveau bloc accepté: EMKAMA_0_72 de EMKAMA_0, hauteur 73
+[Tick 697] Bloc rejeté: greedy_0_70 de greedy_0
+[Tick 700] Tentative de minage au tick 700
+[Tick 701] Bloc rejeté: logging_2_48 de greedy_1
+[Tick 701] Nouveau bloc accepté: groupe_samson_tilio_0_70 de greedy_0, hauteur 121
+[Tick 704] Nouveau bloc accepté: greedy_1_72 de greedy_1, hauteur 122
+[Tick 706] Nouveau bloc accepté: conservative_0_33 de groupe_samson_tilio_0, hauteur 121
+[Tick 708] Nouveau bloc accepté: groupe_samson_tilio_0_71 de groupe_samson_tilio_0, hauteur 122
+[Tick 709] Bloc rejeté: EMKAMA_0_74 de EMKAMA_0
+[Tick 710] Tentative de minage au tick 710
+[Tick 710] Bloc rejeté: greedy_0_71 de greedy_0
+[Tick 713] Bloc rejeté: logging_1_46 de greedy_0
+[Tick 713] Bloc rejeté: basic_0_43 de EMKAMA_0
+[Tick 714] Choix du parent: greedy_1_72 (hauteur 122)
+[Tick 714] Nouveau bloc accepté: EMKAMA_0_73 de EMKAMA_0, hauteur 74
+[Tick 714] Nouveau bloc accepté: groupe_samson_tilio_0_72 de groupe_samson_tilio_0, hauteur 123
+[Tick 714] Nouveau bloc accepté: greedy_0_69 de groupe_samson_tilio_0, hauteur 121
+[Tick 716] Bloc rejeté: EMKAMA_0_76 de EMKAMA_0
+[Tick 718] Nouveau bloc accepté: EMKAMA_0_75 de EMKAMA_0, hauteur 76
+[Tick 720] Tentative de minage au tick 720
+[Tick 720] Bloc rejeté: logging_2_49 de greedy_0
+[Tick 724] Nouveau bloc accepté: greedy_0_72 de greedy_0, hauteur 124
+[Tick 726] Nouveau bloc accepté: EMKAMA_0_77 de EMKAMA_0, hauteur 78
+[Tick 727] Choix du parent: greedy_0_72 (hauteur 124)
+[Tick 729] Nouveau bloc accepté: groupe_samson_tilio_0_73 de greedy_0, hauteur 124
+[Tick 730] Tentative de minage au tick 730
+[Tick 733] Bloc rejeté: greedy_0_74 de greedy_0
+[Tick 735] Nouveau bloc accepté: groupe_samson_tilio_0_74 de groupe_samson_tilio_0, hauteur 125
+[Tick 736] Nouveau bloc accepté: EMKAMA_0_78 de EMKAMA_0, hauteur 79
+[Tick 737] Nouveau bloc accepté: greedy_0_73 de groupe_samson_tilio_0, hauteur 125
+[Tick 740] Tentative de minage au tick 740
+[Tick 744] Choix du parent: greedy_0_74 (hauteur 126)
+[Tick 750] Tentative de minage au tick 750
+[Tick 750] Bloc rejeté: logging_2_50 de EMKAMA_0
+[Tick 751] Nouveau bloc accepté: groupe_samson_tilio_0_75 de groupe_samson_tilio_0, hauteur 126
+[Tick 754] Bloc rejeté: logging_2_51 de EMKAMA_0
+[Tick 756] Nouveau bloc accepté: EMKAMA_0_79 de EMKAMA_0, hauteur 80
+[Tick 760] Tentative de minage au tick 760
+[Tick 760] Choix du parent: logging_2_51 (hauteur 127)
+[Tick 760] Nouveau bloc accepté: groupe_samson_tilio_0_76 de greedy_0, hauteur 127
+[Tick 762] Bloc rejeté: greedy_0_76 de greedy_0
+[Tick 764] Nouveau bloc accepté: greedy_0_75 de EMKAMA_0, hauteur 128
+[Tick 765] Nouveau bloc accepté: EMKAMA_0_80 de EMKAMA_0, hauteur 81
+[Tick 768] Nouveau bloc accepté: EMKAMA_0_81 de EMKAMA_0, hauteur 82
+[Tick 770] Tentative de minage au tick 770
+[Tick 770] Bloc rejeté: logging_2_52 de greedy_0
+[Tick 772] Bloc rejeté: greedy_0_77 de greedy_0
+[Tick 773] Nouveau bloc accepté: groupe_samson_tilio_0_77 de groupe_samson_tilio_0, hauteur 129
+[Tick 774] Choix du parent: greedy_0_77 (hauteur 131)
+[Tick 777] Nouveau bloc accepté: groupe_samson_tilio_0_78 de groupe_samson_tilio_0, hauteur 130
+[Tick 777] Nouveau bloc accepté: greedy_0_78 de greedy_0, hauteur 132
+[Tick 780] Tentative de minage au tick 780
+[Tick 783] Nouveau bloc accepté: groupe_samson_tilio_0_79 de groupe_samson_tilio_0, hauteur 131
+[Tick 784] Bloc rejeté: EMKAMA_0_83 de EMKAMA_0
+[Tick 785] Nouveau bloc accepté: groupe_samson_tilio_0_80 de groupe_samson_tilio_0, hauteur 132
+[Tick 786] Choix du parent: logging_2_53 (hauteur 132)
+[Tick 786] Nouveau bloc accepté: EMKAMA_0_82 de EMKAMA_0, hauteur 83
+[Tick 790] Tentative de minage au tick 790
+[Tick 792] Nouveau bloc accepté: greedy_0_79 de groupe_samson_tilio_0, hauteur 133
+[Tick 794] Nouveau bloc accepté: groupe_samson_tilio_0_81 de groupe_samson_tilio_0, hauteur 134
+[Tick 800] Tentative de minage au tick 800
+[Tick 801] Nouveau bloc accepté: greedy_0_80 de greedy_0, hauteur 134
+[Tick 803] Choix du parent: groupe_samson_tilio_0_81 (hauteur 134)
+[Tick 804] Bloc rejeté: logging_2_53 de greedy_0
+[Tick 804] Bloc rejeté: logging_2_54 de EMKAMA_0
+[Tick 806] Bloc rejeté: EMKAMA_0_85 de EMKAMA_0
+[Tick 810] Tentative de minage au tick 810
+[Tick 810] Nouveau bloc accepté: EMKAMA_0_84 de EMKAMA_0, hauteur 85
+[Tick 814] Bloc rejeté: groupe_samson_tilio_0_83 de groupe_samson_tilio_0
+[Tick 818] Nouveau bloc accepté: greedy_0_81 de greedy_0, hauteur 135
+[Tick 820] Tentative de minage au tick 820
+[Tick 820] Nouveau bloc accepté: EMKAMA_0_86 de groupe_samson_tilio_0, hauteur 87
+[Tick 821] Nouveau bloc accepté: groupe_samson_tilio_0_82 de greedy_0, hauteur 135
+[Tick 822] Choix du parent: groupe_samson_tilio_0_83 (hauteur 136)
+[Tick 822] Nouveau bloc accepté: greedy_0_82 de greedy_0, hauteur 137
+[Tick 825] Bloc rejeté: logging_2_55 de EMKAMA_0
+[Tick 827] Bloc rejeté: logging_2_56 de groupe_samson_tilio_0
+[Tick 830] Tentative de minage au tick 830
+[Tick 830] Nouveau bloc accepté: groupe_samson_tilio_0_84 de EMKAMA_0, hauteur 137
+[Tick 834] Nouveau bloc accepté: EMKAMA_0_87 de EMKAMA_0, hauteur 88
+[Tick 835] Nouveau bloc accepté: greedy_0_83 de greedy_0, hauteur 138
+[Tick 840] Tentative de minage au tick 840
+[Tick 843] Choix du parent: greedy_0_83 (hauteur 138)
+[Tick 843] Nouveau bloc accepté: greedy_0_84 de greedy_0, hauteur 139
+[Tick 843] Bloc rejeté: groupe_samson_tilio_0_86 de groupe_samson_tilio_0
+[Tick 845] Nouveau bloc accepté: groupe_samson_tilio_0_85 de greedy_0, hauteur 138
+[Tick 848] Bloc rejeté: logging_2_57 de groupe_samson_tilio_0
+[Tick 849] Nouveau bloc accepté: EMKAMA_0_88 de EMKAMA_0, hauteur 89
+[Tick 850] Tentative de minage au tick 850
+[Tick 856] Bloc rejeté: groupe_samson_tilio_0_87 de groupe_samson_tilio_0
+[Tick 857] Nouveau bloc accepté: EMKAMA_0_89 de groupe_samson_tilio_0, hauteur 90
+[Tick 859] Nouveau bloc accepté: greedy_0_85 de groupe_samson_tilio_0, hauteur 140
+[Tick 860] Tentative de minage au tick 860
+[Tick 861] Choix du parent: groupe_samson_tilio_0_87 (hauteur 141)
+[Tick 861] Nouveau bloc accepté: EMKAMA_0_90 de EMKAMA_0, hauteur 91
+[Tick 868] Bloc rejeté: adaptive_0_57 de basic_0
+[Tick 870] Tentative de minage au tick 870
+[Tick 870] Nouveau bloc accepté: greedy_0_86 de greedy_0, hauteur 141
+[Tick 870] Bloc rejeté: greedy_1_89 de logging_1
+[Tick 870] Bloc rejeté: logging_1_59 de basic_0
+[Tick 871] Nouveau bloc accepté: groupe_samson_tilio_0_88 de groupe_samson_tilio_0, hauteur 143
+[Tick 872] Bloc rejeté: basic_0_54 de basic_0
+[Tick 873] Nouveau bloc accepté: EMKAMA_0_91 de EMKAMA_0, hauteur 92
+[Tick 875] Bloc rejeté: logging_2_58 de groupe_samson_tilio_0
+[Tick 875] Bloc rejeté: basic_0_53 de logging_1
+[Tick 875] Bloc rejeté: conservative_0_42 de EMKAMA_0
+[Tick 877] Choix du parent: groupe_samson_tilio_0_88 (hauteur 143)
+[Tick 878] Bloc rejeté: logging_0_59 de logging_0
+[Tick 880] Tentative de minage au tick 880
+[Tick 880] Bloc rejeté: greedy_1_88 de logging_1
+[Tick 881] Bloc rejeté: logging_0_58 de EMKAMA_0
+[Tick 884] Bloc rejeté: greedy_1_90 de greedy_1
+[Tick 884] Bloc rejeté: basic_0_55 de EMKAMA_0
+[Tick 885] Choix du parent: logging_2_59 (hauteur 144)
+[Tick 885] Nouveau bloc accepté: EMKAMA_0_92 de EMKAMA_0, hauteur 93
+[Tick 886] Bloc rejeté: logging_2_59 de groupe_samson_tilio_0
+[Tick 889] Bloc rejeté: greedy_1_91 de greedy_1
+[Tick 889] Bloc rejeté: conservative_0_43 de conservative_0
+[Tick 890] Tentative de minage au tick 890
+[Tick 892] Bloc rejeté: logging_1_60 de adaptive_0
+[Tick 893] Nouveau bloc accepté: EMKAMA_0_93 de groupe_samson_tilio_0, hauteur 94
+[Tick 894] Bloc rejeté: logging_0_60 de logging_0
+[Tick 895] Bloc rejeté: adaptive_0_58 de adaptive_0
+[Tick 896] Bloc rejeté: logging_1_61 de logging_1
+[Tick 898] Choix du parent: logging_2_60 (hauteur 145)
+[Tick 898] Bloc rejeté: basic_0_56 de basic_0
+[Tick 898] Bloc rejeté: greedy_1_92 de logging_0
+[Tick 900] Tentative de minage au tick 900
+[Tick 902] Nouveau bloc accepté: groupe_samson_tilio_0_89 de groupe_samson_tilio_0, hauteur 145
+[Tick 905] Choix du parent: logging_2_61 (hauteur 146)
+[Tick 907] Bloc rejeté: adaptive_0_59 de basic_0
+[Tick 910] Tentative de minage au tick 910
+[Tick 910] Bloc rejeté: logging_1_62 de adaptive_0
+[Tick 912] Bloc rejeté: groupe_samson_tilio_0_91 de EMKAMA_0
+[Tick 912] Bloc rejeté: greedy_1_93 de logging_1
+[Tick 914] Bloc rejeté: conservative_0_44 de conservative_0
+[Tick 915] Bloc rejeté: basic_0_57 de basic_0
+[Tick 916] Nouveau bloc accepté: groupe_samson_tilio_0_90 de groupe_samson_tilio_0, hauteur 146
+[Tick 916] Nouveau bloc accepté: EMKAMA_0_94 de EMKAMA_0, hauteur 95
+[Tick 917] Bloc rejeté: logging_2_60 de groupe_samson_tilio_0
+[Tick 918] Bloc rejeté: logging_2_61 de EMKAMA_0
+[Tick 920] Tentative de minage au tick 920
+[Tick 920] Choix du parent: logging_2_62 (hauteur 147)
+[Tick 923] Bloc rejeté: logging_0_61 de logging_0
+[Tick 923] Bloc rejeté: adaptive_0_60 de adaptive_0
+[Tick 924] Nouveau bloc accepté: EMKAMA_0_95 de EMKAMA_0, hauteur 96
+[Tick 925] Bloc rejeté: greedy_1_94 de logging_0
+[Tick 929] Bloc rejeté: logging_2_63 de groupe_samson_tilio_0
+[Tick 930] Tentative de minage au tick 930
+[Tick 930] Bloc rejeté: logging_1_63 de greedy_1
+[Tick 931] Nouveau bloc accepté: groupe_samson_tilio_0_92 de groupe_samson_tilio_0, hauteur 148
+[Tick 932] Bloc rejeté: logging_2_62 de EMKAMA_0
+[Tick 934] Nouveau bloc accepté: groupe_samson_tilio_0_93 de groupe_samson_tilio_0, hauteur 149
+[Tick 935] Choix du parent: groupe_samson_tilio_0_93 (hauteur 149)
+[Tick 935] Bloc rejeté: basic_0_58 de basic_0
+[Tick 937] Bloc rejeté: EMKAMA_0_97 de EMKAMA_0
+[Tick 937] Bloc rejeté: conservative_0_45 de logging_1
+[Tick 938] Nouveau bloc accepté: EMKAMA_0_96 de groupe_samson_tilio_0, hauteur 97
+[Tick 940] Tentative de minage au tick 940
+[Tick 940] Bloc rejeté: logging_0_62 de logging_0
+[Tick 941] Bloc rejeté: adaptive_0_61 de adaptive_0
+[Tick 941] Bloc rejeté: greedy_1_96 de greedy_1
+[Tick 941] Bloc rejeté: logging_1_64 de basic_0
+[Tick 943] Bloc rejeté: greedy_1_95 de greedy_1
+[Tick 943] Bloc rejeté: adaptive_0_62 de adaptive_0
+[Tick 943] Bloc rejeté: greedy_1_97 de greedy_1
+[Tick 944] Bloc rejeté: basic_0_59 de EMKAMA_0
+[Tick 946] Nouveau bloc accepté: groupe_samson_tilio_0_94 de groupe_samson_tilio_0, hauteur 151
+[Tick 947] Bloc rejeté: logging_0_63 de greedy_1
+[Tick 949] Bloc rejeté: logging_2_64 de groupe_samson_tilio_0
+[Tick 950] Tentative de minage au tick 950
+[Tick 952] Bloc rejeté: logging_1_65 de logging_1
+[Tick 953] Bloc rejeté: conservative_0_46 de logging_0
+[Tick 954] Choix du parent: groupe_samson_tilio_0_94 (hauteur 151)
+[Tick 954] Nouveau bloc accepté: EMKAMA_0_98 de EMKAMA_0, hauteur 99
+[Tick 954] Nouveau bloc accepté: groupe_samson_tilio_0_95 de groupe_samson_tilio_0, hauteur 152
+[Tick 954] Bloc rejeté: basic_0_60 de EMKAMA_0
+[Tick 959] Bloc rejeté: logging_2_65 de groupe_samson_tilio_0
+[Tick 960] Tentative de minage au tick 960
+[Tick 961] Bloc rejeté: adaptive_0_63 de EMKAMA_0
+[Tick 964] Bloc rejeté: greedy_1_98 de basic_0
+[Tick 964] Bloc rejeté: logging_1_66 de EMKAMA_0
+[Tick 966] Bloc rejeté: logging_0_64 de logging_0
+[Tick 967] Nouveau bloc accepté: groupe_samson_tilio_0_96 de groupe_samson_tilio_0, hauteur 153
+[Tick 968] Bloc rejeté: basic_0_61 de basic_0
+[Tick 969] Bloc rejeté: adaptive_0_64 de adaptive_0
+[Tick 970] Tentative de minage au tick 970
+[Tick 972] Bloc rejeté: EMKAMA_0_100 de EMKAMA_0
+[Tick 972] Bloc rejeté: logging_1_67 de logging_1
+[Tick 974] Choix du parent: groupe_samson_tilio_0_96 (hauteur 153)
+[Tick 974] Bloc rejeté: conservative_0_47 de conservative_0
+[Tick 975] Bloc rejeté: greedy_1_99 de greedy_1
+[Tick 977] Nouveau bloc accepté: EMKAMA_0_99 de EMKAMA_0, hauteur 100
+[Tick 980] Tentative de minage au tick 980
+[Tick 980] Bloc rejeté: groupe_samson_tilio_0_98 de groupe_samson_tilio_0
+[Tick 981] Bloc rejeté: logging_0_65 de basic_0
+[Tick 981] Bloc rejeté: basic_0_62 de logging_1
+[Tick 982] Nouveau bloc accepté: groupe_samson_tilio_0_97 de groupe_samson_tilio_0, hauteur 154
+[Tick 986] Bloc rejeté: logging_2_66 de groupe_samson_tilio_0
+[Tick 988] Bloc rejeté: greedy_1_100 de basic_0
+[Tick 988] Bloc rejeté: logging_1_68 de basic_0
+[Tick 989] Bloc rejeté: adaptive_0_65 de logging_0
+[Tick 990] Tentative de minage au tick 990
+[Tick 990] Nouveau bloc accepté: EMKAMA_0_101 de EMKAMA_0, hauteur 102
+[Tick 990] Bloc rejeté: greedy_1_101 de logging_0
+[Tick 992] Choix du parent: groupe_samson_tilio_0_98 (hauteur 155)
+[Tick 993] Nouveau bloc accepté: groupe_samson_tilio_0_99 de groupe_samson_tilio_0, hauteur 156
+[Tick 994] Bloc rejeté: logging_0_66 de greedy_1
+[Tick 998] Bloc rejeté: logging_0_67 de logging_1
+[Tick 999] Bloc rejeté: basic_0_63 de adaptive_0
+[Tick 999] Bloc rejeté: logging_2_67 de groupe_samson_tilio_0
+[Tick 1000] Tentative de minage au tick 1000
+[Tick 1000] Bloc rejeté: greedy_1_102 de EMKAMA_0
+
