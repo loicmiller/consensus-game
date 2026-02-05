@@ -20,7 +20,7 @@ from simulator.strategy import Strategy
 from simulator.blockchain import Block
 
 
-class GreedyMiner(Strategy):
+class SamTilStra(Strategy):
     """Stratégie de minage agressif."""
     
     def __init__(self, node_id: str):
@@ -38,7 +38,6 @@ class GreedyMiner(Strategy):
         
         if added:
             return True
-        
         return False
     
     def should_mine_block(self) -> bool:
@@ -46,6 +45,14 @@ class GreedyMiner(Strategy):
         return True
     
     def choose_parent_block(self) -> str:
-        """Toujours la chaîne la plus longue."""
+        """Choisit intelligemment en cas de fork."""
         assert self.blockchain is not None
-        return self.blockchain.get_head().hash
+        tips = self.blockchain.get_all_tips()
+        
+        if len(tips) == 1:
+            # Pas de fork, simple
+            return tips[0].hash
+        
+        # En cas de fork, choisir le tip avec la plus grande hauteur
+        best_tip = min(tips, key=lambda b: b.height)
+        return best_tip.hash
