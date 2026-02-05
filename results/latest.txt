@@ -1,5 +1,5 @@
 Consensus-as-a-Game - Résultats de Simulation
-Date: 2026-02-05 14:15:24
+Date: 2026-02-05 14:25:26
 ================================================================================
 
 Durée: 1000 ticks
@@ -7,118 +7,118 @@ Nœuds: 10
 
 CLASSEMENT
 --------------------------------------------------------------------------------
- 1. basic_0                   | Score: 0.7629 | ExampleStrategy
- 2. greedy_0                  | Score: 0.7629 | GreedyMiner
- 3. adaptive_0                | Score: 0.7629 | AdaptiveStrategy
- 4. logging_2                 | Score: 0.7624 | LoggingExampleStrategy
- 5. logging_1                 | Score: 0.7623 | LoggingExampleStrategy
- 6. groupe_samson_tilio_0     | Score: 0.7510 | GreedyMiner
- 7. logging_0                 | Score: 0.7318 | LoggingExampleStrategy
- 8. conservative_0            | Score: 0.7292 | ConservativeWaiter
- 9. EMKAMA_0                  | Score: 0.6267 | MaStrategie
-10. groupeAisselle_0          | Score: 0.6181 | MaStrategie
+ 1. adaptive_0                | Score: 0.7747 | AdaptiveStrategy
+ 2. basic_0                   | Score: 0.7747 | ExampleStrategy
+ 3. logging_0                 | Score: 0.7747 | LoggingExampleStrategy
+ 4. greedy_1                  | Score: 0.7747 | GreedyMiner
+ 5. greedy_0                  | Score: 0.7747 | GreedyMiner
+ 6. groupe_samson_tilio_0     | Score: 0.7747 | SamTilStra
+ 7. conservative_0            | Score: 0.7745 | ConservativeWaiter
+ 8. conservative_1            | Score: 0.7744 | ConservativeWaiter
+ 9. groupeAisselle_0          | Score: 0.6232 | MaStrategie
+10. EMKAMA_0                  | Score: 0.6219 | MaStrategie
 
 ================================================================================
 
 MÉTRIQUES DÉTAILLÉES
 --------------------------------------------------------------------------------
 
-basic_0 (Rang 1)
-  Stratégie   : ExampleStrategy
-  Score total : 0.7629
-  Métriques   :
-    - convergence : 88.25%
-    - stability   : 100.00%
-    - liveness    : 100.00%
-    - efficiency  : 2.03%
-
-greedy_0 (Rang 2)
-  Stratégie   : GreedyMiner
-  Score total : 0.7629
-  Métriques   :
-    - convergence : 88.25%
-    - stability   : 100.00%
-    - liveness    : 100.00%
-    - efficiency  : 2.03%
-
-adaptive_0 (Rang 3)
+adaptive_0 (Rang 1)
   Stratégie   : AdaptiveStrategy
-  Score total : 0.7629
+  Score total : 0.7747
   Métriques   :
-    - convergence : 88.25%
+    - convergence : 92.09%
+    - stability   : 100.00%
+    - liveness    : 99.35%
+    - efficiency  : 1.88%
+
+basic_0 (Rang 2)
+  Stratégie   : ExampleStrategy
+  Score total : 0.7747
+  Métriques   :
+    - convergence : 92.09%
+    - stability   : 100.00%
+    - liveness    : 99.35%
+    - efficiency  : 1.87%
+
+logging_0 (Rang 3)
+  Stratégie   : LoggingExampleStrategy
+  Score total : 0.7747
+  Métriques   :
+    - convergence : 92.09%
+    - stability   : 100.00%
+    - liveness    : 99.35%
+    - efficiency  : 1.87%
+
+greedy_1 (Rang 4)
+  Stratégie   : GreedyMiner
+  Score total : 0.7747
+  Métriques   :
+    - convergence : 91.70%
     - stability   : 100.00%
     - liveness    : 100.00%
-    - efficiency  : 2.02%
+    - efficiency  : 1.88%
 
-logging_2 (Rang 4)
-  Stratégie   : LoggingExampleStrategy
-  Score total : 0.7624
+greedy_0 (Rang 5)
+  Stratégie   : GreedyMiner
+  Score total : 0.7747
   Métriques   :
-    - convergence : 88.46%
+    - convergence : 92.09%
     - stability   : 100.00%
-    - liveness    : 99.36%
-    - efficiency  : 2.02%
-
-logging_1 (Rang 5)
-  Stratégie   : LoggingExampleStrategy
-  Score total : 0.7623
-  Métriques   :
-    - convergence : 88.46%
-    - stability   : 100.00%
-    - liveness    : 99.36%
-    - efficiency  : 2.00%
+    - liveness    : 99.35%
+    - efficiency  : 1.86%
 
 groupe_samson_tilio_0 (Rang 6)
-  Stratégie   : GreedyMiner
-  Score total : 0.7510
+  Stratégie   : SamTilStra
+  Score total : 0.7747
   Métriques   :
-    - convergence : 88.02%
+    - convergence : 92.09%
     - stability   : 100.00%
-    - liveness    : 94.23%
-    - efficiency  : 2.23%
+    - liveness    : 99.35%
+    - efficiency  : 1.86%
 
-logging_0 (Rang 7)
-  Stratégie   : LoggingExampleStrategy
-  Score total : 0.7318
-  Métriques   :
-    - convergence : 86.29%
-    - stability   : 100.00%
-    - liveness    : 87.82%
-    - efficiency  : 2.09%
-
-conservative_0 (Rang 8)
+conservative_0 (Rang 7)
   Stratégie   : ConservativeWaiter
-  Score total : 0.7292
+  Score total : 0.7745
   Métriques   :
-    - convergence : 85.98%
+    - convergence : 92.09%
     - stability   : 100.00%
-    - liveness    : 87.18%
-    - efficiency  : 1.94%
+    - liveness    : 99.35%
+    - efficiency  : 1.73%
 
-EMKAMA_0 (Rang 9)
-  Stratégie   : MaStrategie
-  Score total : 0.6267
+conservative_1 (Rang 8)
+  Stratégie   : ConservativeWaiter
+  Score total : 0.7744
   Métriques   :
-    - convergence : 70.03%
+    - convergence : 91.70%
     - stability   : 100.00%
-    - liveness    : 63.46%
-    - efficiency  : 2.34%
+    - liveness    : 100.00%
+    - efficiency  : 1.74%
 
-groupeAisselle_0 (Rang 10)
+groupeAisselle_0 (Rang 9)
   Stratégie   : MaStrategie
-  Score total : 0.6181
+  Score total : 0.6232
   Métriques   :
-    - convergence : 68.85%
+    - convergence : 69.00%
     - stability   : 100.00%
-    - liveness    : 62.18%
-    - efficiency  : 1.38%
+    - liveness    : 64.71%
+    - efficiency  : 1.13%
+
+EMKAMA_0 (Rang 10)
+  Stratégie   : MaStrategie
+  Score total : 0.6219
+  Métriques   :
+    - convergence : 68.42%
+    - stability   : 100.00%
+    - liveness    : 64.05%
+    - efficiency  : 2.17%
 
 ================================================================================
 Statistiques réseau:
-  sent                : 68566
-  delivered           : 69639
-  lost                : 3643
-  duplicated          : 1340
+  sent                : 78772
+  delivered           : 79423
+  lost                : 4073
+  duplicated          : 1498
   delayed             : 0
-  in_transit          : 267
+  in_transit          : 847
   current_tick        : 1000

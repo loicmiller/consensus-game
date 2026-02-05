@@ -1,5 +1,5 @@
 {
-  "timestamp": "20260205_141524",
+  "timestamp": "20260205_142526",
   "simulation": {
     "duration": 1000,
     "num_nodes": 10
@@ -7,184 +7,184 @@
   "leaderboard": [
     {
       "rank": 1,
-      "node_id": "basic_0",
-      "score": 0.7629376112830577,
-      "strategy": "ExampleStrategy"
-    },
-    {
-      "rank": 2,
-      "node_id": "greedy_0",
-      "score": 0.7629360402825922,
-      "strategy": "GreedyMiner"
-    },
-    {
-      "rank": 3,
       "node_id": "adaptive_0",
-      "score": 0.7629224757552601,
+      "score": 0.7747409553046808,
       "strategy": "AdaptiveStrategy"
     },
     {
-      "rank": 4,
-      "node_id": "logging_2",
-      "score": 0.7623811186932127,
+      "rank": 2,
+      "node_id": "basic_0",
+      "score": 0.7747354486967513,
+      "strategy": "ExampleStrategy"
+    },
+    {
+      "rank": 3,
+      "node_id": "logging_0",
+      "score": 0.7747317866005243,
       "strategy": "LoggingExampleStrategy"
     },
     {
+      "rank": 4,
+      "node_id": "greedy_1",
+      "score": 0.7747267192472671,
+      "strategy": "GreedyMiner"
+    },
+    {
       "rank": 5,
-      "node_id": "logging_1",
-      "score": 0.7623458039226051,
-      "strategy": "LoggingExampleStrategy"
+      "node_id": "greedy_0",
+      "score": 0.7747208431642615,
+      "strategy": "GreedyMiner"
     },
     {
       "rank": 6,
       "node_id": "groupe_samson_tilio_0",
-      "score": 0.7509714151164988,
-      "strategy": "GreedyMiner"
+      "score": 0.7747181173022447,
+      "strategy": "SamTilStra"
     },
     {
       "rank": 7,
-      "node_id": "logging_0",
-      "score": 0.7318369484834814,
-      "strategy": "LoggingExampleStrategy"
+      "node_id": "conservative_0",
+      "score": 0.774454844822453,
+      "strategy": "ConservativeWaiter"
     },
     {
       "rank": 8,
-      "node_id": "conservative_0",
-      "score": 0.7291578233554652,
+      "node_id": "conservative_1",
+      "score": 0.7744358939279932,
       "strategy": "ConservativeWaiter"
     },
     {
       "rank": 9,
-      "node_id": "EMKAMA_0",
-      "score": 0.6267194793016947,
+      "node_id": "groupeAisselle_0",
+      "score": 0.6231773074987013,
       "strategy": "MaStrategie"
     },
     {
       "rank": 10,
-      "node_id": "groupeAisselle_0",
-      "score": 0.618107670514312,
+      "node_id": "EMKAMA_0",
+      "score": 0.6219337483437624,
       "strategy": "MaStrategie"
     }
   ],
   "detailed_scores": {
     "EMKAMA_0": {
-      "rank": 9,
-      "total_score": 0.6267194793016947,
+      "rank": 10,
+      "total_score": 0.6219337483437624,
       "strategy": "MaStrategie",
       "metrics": {
-        "convergence": 0.7003466301848172,
+        "convergence": 0.6842296918767504,
         "stability": 1.0,
-        "liveness": 0.6346153846153846,
-        "efficiency": 0.02337540906965872
+        "liveness": 0.6405228758169934,
+        "efficiency": 0.02174390511750494
       }
     },
     "groupeAisselle_0": {
-      "rank": 10,
-      "total_score": 0.618107670514312,
+      "rank": 9,
+      "total_score": 0.6231773074987013,
       "strategy": "MaStrategie",
       "metrics": {
-        "convergence": 0.6885174753588986,
+        "convergence": 0.6900299917946977,
         "stability": 1.0,
-        "liveness": 0.6217948717948718,
-        "efficiency": 0.01383789889861621
+        "liveness": 0.6470588235294118,
+        "efficiency": 0.011275228323373548
       }
     },
     "groupe_samson_tilio_0": {
       "rank": 6,
-      "total_score": 0.7509714151164988,
-      "strategy": "GreedyMiner",
+      "total_score": 0.7747181173022447,
+      "strategy": "SamTilStra",
       "metrics": {
-        "convergence": 0.8801563690098722,
+        "convergence": 0.9208518424204699,
         "stability": 1.0,
-        "liveness": 0.9423076923076923,
-        "efficiency": 0.022275737507525588
-      }
-    },
-    "conservative_0": {
-      "rank": 8,
-      "total_score": 0.7291578233554652,
-      "strategy": "ConservativeWaiter",
-      "metrics": {
-        "convergence": 0.8597699360701502,
-        "stability": 1.0,
-        "liveness": 0.8717948717948718,
-        "efficiency": 0.01939685685969135
-      }
-    },
-    "logging_0": {
-      "rank": 7,
-      "total_score": 0.7318369484834814,
-      "strategy": "LoggingExampleStrategy",
-      "metrics": {
-        "convergence": 0.8629046787451663,
-        "stability": 1.0,
-        "liveness": 0.8782051282051282,
-        "efficiency": 0.020896426408237433
-      }
-    },
-    "adaptive_0": {
-      "rank": 3,
-      "total_score": 0.7629224757552601,
-      "strategy": "AdaptiveStrategy",
-      "metrics": {
-        "convergence": 0.8825194621372965,
-        "stability": 1.0,
-        "liveness": 1.0,
-        "efficiency": 0.0202033200360314
+        "liveness": 0.9934640522875817,
+        "efficiency": 0.018635809987819732
       }
     },
     "basic_0": {
-      "rank": 1,
-      "total_score": 0.7629376112830577,
+      "rank": 2,
+      "total_score": 0.7747354486967513,
       "strategy": "ExampleStrategy",
       "metrics": {
-        "convergence": 0.8825194621372965,
+        "convergence": 0.9208518424204699,
         "stability": 1.0,
-        "liveness": 1.0,
-        "efficiency": 0.020278997675019374
-      }
-    },
-    "logging_1": {
-      "rank": 5,
-      "total_score": 0.7623458039226051,
-      "strategy": "LoggingExampleStrategy",
-      "metrics": {
-        "convergence": 0.8846289945016059,
-        "stability": 1.0,
-        "liveness": 0.9935897435897436,
-        "efficiency": 0.02003853564547206
+        "liveness": 0.9934640522875817,
+        "efficiency": 0.018722466960352423
       }
     },
     "greedy_0": {
-      "rank": 2,
-      "total_score": 0.7629360402825922,
+      "rank": 5,
+      "total_score": 0.7747208431642615,
       "strategy": "GreedyMiner",
       "metrics": {
-        "convergence": 0.8825194621372965,
+        "convergence": 0.9208518424204699,
         "stability": 1.0,
-        "liveness": 1.0,
-        "efficiency": 0.02027114267269206
+        "liveness": 0.9934640522875817,
+        "efficiency": 0.018649439297903463
       }
     },
-    "logging_2": {
+    "greedy_1": {
       "rank": 4,
-      "total_score": 0.7623811186932127,
+      "total_score": 0.7747267192472671,
+      "strategy": "GreedyMiner",
+      "metrics": {
+        "convergence": 0.917027417027417,
+        "stability": 1.0,
+        "liveness": 1.0,
+        "efficiency": 0.018835616438356163
+      }
+    },
+    "logging_0": {
+      "rank": 3,
+      "total_score": 0.7747317866005243,
       "strategy": "LoggingExampleStrategy",
       "metrics": {
-        "convergence": 0.8846289945016059,
+        "convergence": 0.9208518424204699,
         "stability": 1.0,
-        "liveness": 0.9935897435897436,
-        "efficiency": 0.020215109498509784
+        "liveness": 0.9934640522875817,
+        "efficiency": 0.018704156479217603
+      }
+    },
+    "conservative_0": {
+      "rank": 7,
+      "total_score": 0.774454844822453,
+      "strategy": "ConservativeWaiter",
+      "metrics": {
+        "convergence": 0.9208518424204699,
+        "stability": 1.0,
+        "liveness": 0.9934640522875817,
+        "efficiency": 0.01731944758886122
+      }
+    },
+    "conservative_1": {
+      "rank": 8,
+      "total_score": 0.7744358939279932,
+      "strategy": "ConservativeWaiter",
+      "metrics": {
+        "convergence": 0.917027417027417,
+        "stability": 1.0,
+        "liveness": 1.0,
+        "efficiency": 0.017381489841986456
+      }
+    },
+    "adaptive_0": {
+      "rank": 1,
+      "total_score": 0.7747409553046808,
+      "strategy": "AdaptiveStrategy",
+      "metrics": {
+        "convergence": 0.9208518424204699,
+        "stability": 1.0,
+        "liveness": 0.9934640522875817,
+        "efficiency": 0.01875
       }
     }
   },
   "network_stats": {
-    "sent": 68566,
-    "delivered": 69639,
-    "lost": 3643,
-    "duplicated": 1340,
+    "sent": 78772,
+    "delivered": 79423,
+    "lost": 4073,
+    "duplicated": 1498,
     "delayed": 0,
-    "in_transit": 267,
+    "in_transit": 847,
     "current_tick": 1000
   },
   "strategy_errors": {
@@ -194,15 +194,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 13,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 14,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 15,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 18,
+        "tick": 20,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -210,19 +210,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 21,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 23,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 24,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 25,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 25,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 26,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -238,23 +234,31 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 28,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 28,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 28,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 30,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 30,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 31,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 32,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 33,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 34,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 36,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -270,15 +274,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 43,
+        "tick": 41,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 43,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 43,
+        "tick": 42,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -290,7 +290,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 48,
+        "tick": 46,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 46,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -298,23 +302,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 49,
+        "tick": 48,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 51,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 51,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 52,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 53,
+        "tick": 54,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -322,35 +314,55 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 55,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 56,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 56,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 57,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 57,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 58,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 59,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 59,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 60,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 60,
+        "tick": 61,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 62,
+        "tick": 64,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 63,
+        "tick": 65,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 66,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 67,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 67,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -366,11 +378,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 71,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 72,
+        "tick": 70,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -382,27 +390,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 77,
+        "tick": 75,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 80,
+        "tick": 78,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 80,
+        "tick": 78,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 81,
+        "tick": 79,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 83,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 83,
+        "tick": 82,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -414,11 +418,31 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 87,
+        "tick": 85,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 90,
+        "tick": 85,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 85,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 85,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 86,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 86,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 89,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -427,14 +451,6 @@
       },
       {
         "tick": 92,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 93,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 94,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -442,6 +458,10 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 96,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 97,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
@@ -454,7 +474,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 101,
+        "tick": 102,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 103,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -466,15 +490,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 105,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 106,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 107,
+        "tick": 108,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 108,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -482,27 +506,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 111,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 111,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 111,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 112,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 113,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 114,
+        "tick": 115,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -510,19 +514,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 117,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 117,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 117,
+        "tick": 118,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 118,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 119,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 120,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -534,31 +538,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 122,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 122,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 123,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 125,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 126,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 126,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 128,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -566,11 +550,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 131,
+        "tick": 129,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 135,
+        "tick": 132,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 133,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 134,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 134,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -578,11 +574,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 137,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 137,
+        "tick": 138,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -594,11 +586,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 141,
+        "tick": 139,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 141,
+        "tick": 139,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 140,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -610,15 +606,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 143,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 144,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 147,
+        "tick": 148,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 148,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 148,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 148,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -630,27 +634,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 150,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 151,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 151,
+        "tick": 154,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 153,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 153,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 153,
+        "tick": 154,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -658,15 +650,35 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 157,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 158,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 159,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 159,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 160,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 165,
+        "tick": 161,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 166,
+        "tick": 161,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 163,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -674,31 +686,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 167,
+        "tick": 169,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 168,
+        "tick": 171,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 172,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 172,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 172,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 174,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 174,
+        "tick": 175,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -710,31 +706,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 176,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 177,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 178,
+        "tick": 183,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 178,
+        "tick": 183,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 179,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 180,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 180,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 182,
+        "tick": 185,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -742,7 +730,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 187,
+        "tick": 188,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 189,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 189,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -754,19 +750,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 192,
+        "tick": 191,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 193,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 193,
+        "tick": 191,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 194,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 195,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 196,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -778,11 +778,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 200,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 200,
+        "tick": 201,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -790,19 +786,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 203,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 205,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 206,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 207,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 207,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -814,7 +802,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 209,
+        "tick": 208,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -830,11 +818,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 211,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 212,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 214,
+        "tick": 213,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -846,15 +838,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 218,
+        "tick": 216,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 219,
+        "tick": 216,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 219,
+        "tick": 220,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -862,11 +854,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 222,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 223,
+        "tick": 221,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -878,19 +866,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 225,
+        "tick": 227,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 226,
+        "tick": 229,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 226,
+        "tick": 231,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 232,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 233,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 233,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -906,11 +902,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 240,
+        "tick": 237,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 241,
+        "tick": 237,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 239,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 240,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -926,6 +930,10 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 245,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 246,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
@@ -934,15 +942,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 247,
+        "tick": 251,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 249,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 250,
+        "tick": 251,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -950,11 +954,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 253,
+        "tick": 254,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 258,
+        "tick": 257,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -962,27 +966,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 260,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 260,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 261,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 261,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 262,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 263,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 264,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 265,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 266,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 268,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -998,15 +1002,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 271,
+        "tick": 270,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 271,
+        "tick": 272,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 273,
+        "tick": 274,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 274,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1014,15 +1022,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 276,
+        "tick": 277,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 276,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 278,
+        "tick": 277,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1030,7 +1034,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 280,
+        "tick": 279,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 281,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 282,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1042,19 +1054,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 287,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 287,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 288,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 288,
+        "tick": 289,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1062,11 +1062,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 290,
+        "tick": 292,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 290,
+        "tick": 292,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 292,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1078,23 +1082,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 294,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 296,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 297,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 299,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 299,
+        "tick": 300,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 302,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 303,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1103,6 +1107,14 @@
       },
       {
         "tick": 304,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 305,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 306,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1114,11 +1126,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 309,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 310,
+        "tick": 311,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1126,7 +1134,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 313,
+        "tick": 312,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1134,11 +1142,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 315,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 316,
+        "tick": 317,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1146,11 +1150,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 319,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 320,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 320,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 320,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 321,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1158,7 +1174,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 323,
+        "tick": 322,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 322,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1166,15 +1186,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 324,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 324,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 327,
+        "tick": 329,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1186,23 +1198,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 330,
+        "tick": 333,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 330,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 331,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 331,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 331,
+        "tick": 333,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1210,7 +1210,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 340,
+        "tick": 336,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 337,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 338,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 339,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1218,19 +1230,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 341,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 345,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 346,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 346,
+        "tick": 342,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1242,7 +1242,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 347,
+        "tick": 349,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 350,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1258,15 +1262,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 352,
+        "tick": 353,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 352,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 352,
+        "tick": 353,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1274,11 +1274,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 357,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 359,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 360,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 361,
+        "tick": 360,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 363,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1294,19 +1306,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 365,
+        "tick": 366,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 368,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 369,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 369,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1318,7 +1322,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 372,
+        "tick": 371,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1326,19 +1330,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 376,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 377,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 377,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 377,
+        "tick": 375,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1346,11 +1338,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 379,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 379,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 380,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 382,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 384,
+        "tick": 382,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 383,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1358,7 +1366,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 386,
+        "tick": 385,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1366,35 +1374,35 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 387,
+        "tick": 392,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 389,
+        "tick": 392,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 389,
+        "tick": 392,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 390,
+        "tick": 393,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 394,
+        "tick": 397,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 396,
+        "tick": 398,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 396,
+        "tick": 398,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 399,
+        "tick": 398,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1410,27 +1418,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 404,
+        "tick": 402,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 404,
+        "tick": 403,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 405,
+        "tick": 403,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 407,
+        "tick": 403,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 407,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 409,
+        "tick": 403,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1438,15 +1442,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 410,
+        "tick": 412,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 411,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 413,
+        "tick": 412,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1454,11 +1454,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 413,
+        "tick": 414,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 414,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 415,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 415,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 416,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 417,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1470,7 +1486,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 421,
+        "tick": 420,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1478,23 +1494,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 422,
+        "tick": 423,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 424,
+        "tick": 425,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 426,
+        "tick": 428,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 427,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 430,
+        "tick": 429,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1502,23 +1514,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 432,
+        "tick": 431,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 435,
+        "tick": 433,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 435,
+        "tick": 433,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 435,
+        "tick": 433,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 436,
+        "tick": 434,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1526,11 +1538,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 438,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 439,
+        "tick": 437,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1538,7 +1546,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 443,
+        "tick": 442,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1546,7 +1554,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 446,
+        "tick": 443,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 444,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 445,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1554,15 +1570,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 448,
+        "tick": 450,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 448,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 449,
+        "tick": 450,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1570,39 +1582,47 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 451,
+        "tick": 452,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 451,
+        "tick": 452,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 457,
+        "tick": 453,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 457,
+        "tick": 454,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 458,
+        "tick": 454,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 458,
+        "tick": 455,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 455,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 456,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 456,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 456,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 459,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 460,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 460,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1618,19 +1638,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 463,
+        "tick": 468,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 464,
+        "tick": 468,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 465,
+        "tick": 468,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 469,
+        "tick": 470,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1646,7 +1666,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 475,
+        "tick": 474,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1654,14 +1674,6 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 477,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 478,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 478,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
@@ -1674,15 +1686,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 479,
+        "tick": 480,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 485,
+        "tick": 484,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 486,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 486,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 488,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1698,23 +1718,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 493,
+        "tick": 491,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 495,
+        "tick": 491,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 495,
+        "tick": 492,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 492,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 497,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 498,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1738,19 +1758,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 503,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 504,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 507,
+        "tick": 505,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 508,
+        "tick": 506,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 509,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 509,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 509,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1762,27 +1790,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 511,
+        "tick": 514,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 512,
+        "tick": 514,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 516,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 516,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 516,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 518,
+        "tick": 515,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1790,11 +1806,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 521,
+        "tick": 522,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 521,
+        "tick": 522,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 522,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 523,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 523,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 524,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1810,15 +1842,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 527,
+        "tick": 530,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 528,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 531,
+        "tick": 530,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1826,27 +1854,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 535,
+        "tick": 534,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 534,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 535,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 536,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 536,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 537,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 537,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1854,11 +1870,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 540,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 542,
+        "tick": 541,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1870,7 +1882,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 546,
+        "tick": 544,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 545,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 545,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1878,11 +1898,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 550,
+        "tick": 546,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 550,
+        "tick": 547,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 551,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1894,43 +1918,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 553,
+        "tick": 554,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 555,
+        "tick": 554,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 555,
+        "tick": 557,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 556,
+        "tick": 559,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 556,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 558,
+        "tick": 560,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 561,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 561,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 561,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 562,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1946,7 +1954,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 565,
+        "tick": 564,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 564,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1954,11 +1966,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 569,
+        "tick": 568,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 569,
+        "tick": 570,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1970,7 +1982,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 574,
+        "tick": 573,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1978,7 +1990,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 578,
+        "tick": 577,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 577,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -1990,11 +2006,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 578,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 580,
+        "tick": 579,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2002,19 +2014,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 584,
+        "tick": 581,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 586,
+        "tick": 581,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 586,
+        "tick": 583,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 590,
+        "tick": 583,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 588,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 588,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2022,11 +2042,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 592,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 592,
+        "tick": 593,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2034,7 +2050,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 595,
+        "tick": 594,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2042,7 +2058,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 599,
+        "tick": 597,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 598,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 598,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 598,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2054,7 +2082,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 600,
+        "tick": 601,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2066,23 +2094,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 602,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 602,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 605,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 607,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 609,
+        "tick": 610,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2094,6 +2110,10 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 612,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 613,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
@@ -2102,7 +2122,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 616,
+        "tick": 615,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 615,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 617,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 617,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 618,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 618,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2110,15 +2150,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 619,
+        "tick": 620,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 622,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 622,
+        "tick": 621,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2126,11 +2162,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 626,
+        "tick": 623,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 627,
+        "tick": 624,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 625,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2142,27 +2182,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 629,
+        "tick": 637,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 630,
+        "tick": 638,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 631,
+        "tick": 639,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 631,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 634,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 636,
+        "tick": 639,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2170,23 +2202,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 641,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 641,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 641,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 642,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 642,
+        "tick": 643,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2206,27 +2222,47 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 645,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 645,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 646,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 649,
+        "tick": 648,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 651,
+        "tick": 648,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 651,
+        "tick": 650,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 658,
+        "tick": 652,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 658,
+        "tick": 656,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 656,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 656,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 657,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2242,7 +2278,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 661,
+        "tick": 660,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2254,19 +2290,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 663,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
         "tick": 666,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 666,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 667,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2274,11 +2298,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 669,
+        "tick": 668,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 669,
+        "tick": 668,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 670,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 671,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 671,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 672,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2294,7 +2334,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 675,
+        "tick": 677,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 677,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2302,23 +2346,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 680,
+        "tick": 682,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 680,
+        "tick": 686,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 683,
+        "tick": 686,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 683,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 684,
+        "tick": 686,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2330,7 +2370,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 688,
+        "tick": 687,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2338,15 +2378,7 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 691,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 691,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 692,
+        "tick": 690,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2354,11 +2386,47 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 701,
+        "tick": 693,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 701,
+        "tick": 694,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 695,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 695,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 696,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 696,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 698,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 700,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 700,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 700,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 703,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2366,7 +2434,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 708,
+        "tick": 705,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 706,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 709,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 711,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2374,11 +2454,39 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 713,
+        "tick": 716,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 718,
+        "tick": 717,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 719,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 719,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 721,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 721,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 722,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 723,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 723,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2390,11 +2498,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 725,
+        "tick": 726,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 729,
+        "tick": 727,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 730,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 732,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 732,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2402,7 +2522,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 736,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 738,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 738,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 738,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 739,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 740,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2410,7 +2550,23 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 747,
+        "tick": 744,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 750,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 752,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 752,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 753,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2422,11 +2578,31 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 754,
+        "tick": 756,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 756,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 758,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 760,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 760,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 760,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 761,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2438,51 +2614,171 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 763,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 763,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 764,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 764,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 766,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 768,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 769,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 772,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 776,
+        "tick": 774,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 777,
+        "tick": 774,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 777,
+        "tick": 775,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 786,
+        "tick": 778,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 789,
+        "tick": 780,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 800,
+        "tick": 780,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 800,
+        "tick": 781,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 800,
+        "tick": 784,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 802,
+        "tick": 784,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 804,
+        "tick": 787,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 790,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 791,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 794,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 794,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 794,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 794,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 796,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 796,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 796,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 797,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 797,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 797,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 801,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 803,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 805,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 807,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 807,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 808,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 808,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 810,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 814,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 814,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 815,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 815,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2498,7 +2794,35 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 824,
+        "tick": 818,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 818,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 819,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 823,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 825,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 825,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 827,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 828,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2506,35 +2830,67 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 829,
+        "tick": 832,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 838,
+        "tick": 832,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 841,
+        "tick": 833,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 846,
+        "tick": 836,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 850,
+        "tick": 839,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 850,
+        "tick": 839,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 854,
+        "tick": 840,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 854,
+        "tick": 840,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 842,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 842,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 843,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 843,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 845,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 848,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 849,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 853,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2542,7 +2898,15 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 858,
+        "tick": 855,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 856,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 857,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2550,15 +2914,47 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 868,
+        "tick": 861,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 871,
+        "tick": 862,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 874,
+        "tick": 863,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 863,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 864,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 864,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 865,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 865,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 866,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 869,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 869,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2566,7 +2962,31 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 875,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 875,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 876,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 876,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 877,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 878,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 879,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2574,11 +2994,27 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 885,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 886,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 888,
+        "tick": 889,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 890,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 891,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 892,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2590,11 +3026,51 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 895,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 897,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 898,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 900,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 900,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 903,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 904,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 906,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 906,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 907,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 908,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 910,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2610,19 +3086,43 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 915,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 917,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 917,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 917,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 917,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 919,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 920,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 921,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 922,
+        "tick": 921,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 922,
-        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
-      },
-      {
-        "tick": 926,
+        "tick": 925,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2630,11 +3130,39 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 929,
+        "tick": 931,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 941,
+        "tick": 931,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 933,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 934,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 935,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 935,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 937,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 938,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 942,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2646,7 +3174,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 948,
+        "tick": 947,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 947,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 949,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 949,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2662,15 +3202,55 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 960,
+        "tick": 952,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 960,
+        "tick": 955,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 966,
+        "tick": 958,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 958,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 958,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 961,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 963,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 964,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 964,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 964,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 965,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 967,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 967,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2678,7 +3258,11 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 972,
+        "tick": 971,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 973,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2686,15 +3270,51 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
-        "tick": 982,
+        "tick": 976,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 976,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 979,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 981,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 982,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 983,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 985,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 985,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 986,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 986,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 987,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 987,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
@@ -2706,11 +3326,19 @@
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
+        "tick": 993,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
         "tick": 996,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
         "tick": 998,
+        "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
+      },
+      {
+        "tick": 999,
         "error": "on_block_received: 'MaStrategie' object has no attribute 'pending_blocks'"
       },
       {
