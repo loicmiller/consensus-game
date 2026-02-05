@@ -1,191 +1,191 @@
 {
-  "timestamp": "20260205_140120",
+  "timestamp": "20260205_140818",
   "simulation": {
-    "duration": 980,
+    "duration": 1000,
     "num_nodes": 10
   },
   "leaderboard": [
     {
       "rank": 1,
-      "node_id": "basic_2",
-      "score": 0.7846877760674991,
-      "strategy": "ExampleStrategy"
-    },
-    {
-      "rank": 2,
-      "node_id": "basic_4",
-      "score": 0.7846802475001656,
-      "strategy": "ExampleStrategy"
-    },
-    {
-      "rank": 3,
       "node_id": "greedy_0",
-      "score": 0.7846140961271973,
+      "score": 0.774466752492327,
       "strategy": "GreedyMiner"
     },
     {
-      "rank": 4,
-      "node_id": "basic_0",
-      "score": 0.7846086783903251,
-      "strategy": "ExampleStrategy"
-    },
-    {
-      "rank": 5,
-      "node_id": "basic_3",
-      "score": 0.7838653120201812,
-      "strategy": "ExampleStrategy"
-    },
-    {
-      "rank": 6,
-      "node_id": "basic_1",
-      "score": 0.7838517840270617,
-      "strategy": "ExampleStrategy"
-    },
-    {
-      "rank": 7,
+      "rank": 2,
       "node_id": "logging_0",
-      "score": 0.7838482867442059,
+      "score": 0.7744528039679016,
       "strategy": "LoggingExampleStrategy"
     },
     {
-      "rank": 8,
-      "node_id": "basic_5",
-      "score": 0.7838421193023024,
+      "rank": 3,
+      "node_id": "logging_1",
+      "score": 0.7744223188309705,
+      "strategy": "LoggingExampleStrategy"
+    },
+    {
+      "rank": 4,
+      "node_id": "conservative_0",
+      "score": 0.7741407017332113,
+      "strategy": "ConservativeWaiter"
+    },
+    {
+      "rank": 5,
+      "node_id": "adaptive_1",
+      "score": 0.7734535293860711,
+      "strategy": "AdaptiveStrategy"
+    },
+    {
+      "rank": 6,
+      "node_id": "adaptive_0",
+      "score": 0.7734387264041929,
+      "strategy": "AdaptiveStrategy"
+    },
+    {
+      "rank": 7,
+      "node_id": "basic_0",
+      "score": 0.7715122549304018,
       "strategy": "ExampleStrategy"
     },
     {
+      "rank": 8,
+      "node_id": "greedy_1",
+      "score": 0.7368382739123797,
+      "strategy": "GreedyMiner"
+    },
+    {
       "rank": 9,
-      "node_id": "adaptive_0",
-      "score": 0.7838418517321242,
-      "strategy": "AdaptiveStrategy"
+      "node_id": "conservative_1",
+      "score": 0.6599268946896975,
+      "strategy": "ConservativeWaiter"
     },
     {
       "rank": 10,
       "node_id": "EMKAMA_0",
-      "score": 0.5838809414965315,
+      "score": 0.6244520444237422,
       "strategy": "MaStrategie"
     }
   ],
   "detailed_scores": {
     "EMKAMA_0": {
       "rank": 10,
-      "total_score": 0.5838809414965315,
+      "total_score": 0.6244520444237422,
       "strategy": "MaStrategie",
       "metrics": {
-        "convergence": 0.6036363442034028,
+        "convergence": 0.6866560307697536,
         "stability": 1.0,
-        "liveness": 0.5963855421686747,
-        "efficiency": 0.016655562958027982
-      }
-    },
-    "basic_0": {
-      "rank": 4,
-      "total_score": 0.7846086783903251,
-      "strategy": "ExampleStrategy",
-      "metrics": {
-        "convergence": 0.9474384564204925,
-        "stability": 1.0,
-        "liveness": 1.0,
-        "efficiency": 0.0150260932157639
-      }
-    },
-    "logging_0": {
-      "rank": 7,
-      "total_score": 0.7838482867442059,
-      "strategy": "LoggingExampleStrategy",
-      "metrics": {
-        "convergence": 0.952228924164571,
-        "stability": 1.0,
-        "liveness": 0.9879518072289156,
-        "efficiency": 0.01488900920411478
-      }
-    },
-    "basic_1": {
-      "rank": 6,
-      "total_score": 0.7838517840270617,
-      "strategy": "ExampleStrategy",
-      "metrics": {
-        "convergence": 0.952228924164571,
-        "stability": 1.0,
-        "liveness": 0.9879518072289156,
-        "efficiency": 0.014906495618393712
-      }
-    },
-    "basic_2": {
-      "rank": 1,
-      "total_score": 0.7846877760674991,
-      "strategy": "ExampleStrategy",
-      "metrics": {
-        "convergence": 0.951145900969146,
-        "stability": 1.0,
-        "liveness": 0.9939759036144579,
-        "efficiency": 0.014957650027031897
+        "liveness": 0.6455696202531646,
+        "efficiency": 0.025042548018477998
       }
     },
     "adaptive_0": {
-      "rank": 9,
-      "total_score": 0.7838418517321242,
+      "rank": 6,
+      "total_score": 0.7734387264041929,
       "strategy": "AdaptiveStrategy",
       "metrics": {
-        "convergence": 0.952228924164571,
+        "convergence": 0.915629505789525,
         "stability": 1.0,
-        "liveness": 0.9879518072289156,
-        "efficiency": 0.014856834143706105
+        "liveness": 0.9936708860759493,
+        "efficiency": 0.02117111081334584
       }
     },
-    "basic_3": {
-      "rank": 5,
-      "total_score": 0.7838653120201812,
-      "strategy": "ExampleStrategy",
+    "conservative_0": {
+      "rank": 4,
+      "total_score": 0.7741407017332113,
+      "strategy": "ConservativeWaiter",
       "metrics": {
-        "convergence": 0.952228924164571,
+        "convergence": 0.9147449336128582,
         "stability": 1.0,
-        "liveness": 0.9879518072289156,
-        "efficiency": 0.014974135583991287
-      }
-    },
-    "basic_4": {
-      "rank": 2,
-      "total_score": 0.7846802475001656,
-      "strategy": "ExampleStrategy",
-      "metrics": {
-        "convergence": 0.951145900969146,
-        "stability": 1.0,
-        "liveness": 0.9939759036144579,
-        "efficiency": 0.01492000719036491
-      }
-    },
-    "basic_5": {
-      "rank": 8,
-      "total_score": 0.7838421193023024,
-      "strategy": "ExampleStrategy",
-      "metrics": {
-        "convergence": 0.952228924164571,
-        "stability": 1.0,
-        "liveness": 0.9879518072289156,
-        "efficiency": 0.014858171994597028
+        "liveness": 1.0,
+        "efficiency": 0.019899874843554443
       }
     },
     "greedy_0": {
-      "rank": 3,
-      "total_score": 0.7846140961271973,
+      "rank": 1,
+      "total_score": 0.774466752492327,
       "strategy": "GreedyMiner",
       "metrics": {
-        "convergence": 0.9474384564204923,
+        "convergence": 0.9147449336128582,
         "stability": 1.0,
         "liveness": 1.0,
-        "efficiency": 0.015053181900126195
+        "efficiency": 0.021530128639133377
+      }
+    },
+    "adaptive_1": {
+      "rank": 5,
+      "total_score": 0.7734535293860711,
+      "strategy": "AdaptiveStrategy",
+      "metrics": {
+        "convergence": 0.915629505789525,
+        "stability": 1.0,
+        "liveness": 0.9936708860759493,
+        "efficiency": 0.02124512572273766
+      }
+    },
+    "logging_0": {
+      "rank": 2,
+      "total_score": 0.7744528039679016,
+      "strategy": "LoggingExampleStrategy",
+      "metrics": {
+        "convergence": 0.9147449336128582,
+        "stability": 1.0,
+        "liveness": 1.0,
+        "efficiency": 0.021460386017006342
+      }
+    },
+    "conservative_1": {
+      "rank": 9,
+      "total_score": 0.6599268946896975,
+      "strategy": "ConservativeWaiter",
+      "metrics": {
+        "convergence": 0.7492669806672486,
+        "stability": 1.0,
+        "liveness": 0.7151898734177216,
+        "efficiency": 0.023227383863080684
+      }
+    },
+    "logging_1": {
+      "rank": 3,
+      "total_score": 0.7744223188309705,
+      "strategy": "LoggingExampleStrategy",
+      "metrics": {
+        "convergence": 0.9147449336128582,
+        "stability": 1.0,
+        "liveness": 1.0,
+        "efficiency": 0.021307960332350575
+      }
+    },
+    "basic_0": {
+      "rank": 7,
+      "total_score": 0.7715122549304018,
+      "strategy": "ExampleStrategy",
+      "metrics": {
+        "convergence": 0.9137390567294167,
+        "stability": 1.0,
+        "liveness": 0.9873417721518988,
+        "efficiency": 0.021176153223630968
+      }
+    },
+    "greedy_1": {
+      "rank": 8,
+      "total_score": 0.7368382739123797,
+      "strategy": "GreedyMiner",
+      "metrics": {
+        "convergence": 0.8669358901406845,
+        "stability": 1.0,
+        "liveness": 0.8924050632911392,
+        "efficiency": 0.024648498524561708
       }
     }
   },
   "network_stats": {
-    "sent": 104334,
-    "delivered": 105086,
-    "lost": 5286,
-    "duplicated": 2100,
+    "sent": 65794,
+    "delivered": 66598,
+    "lost": 3470,
+    "duplicated": 1340,
     "delayed": 0,
-    "in_transit": 1348,
-    "current_tick": 980
+    "in_transit": 536,
+    "current_tick": 1000
   },
   "strategy_errors": {}
 }
