@@ -1,57 +1,73 @@
 from simulator.strategy import Strategy
 from simulator.blockchain import Block
 
-class Merge(Strategy):
+from simulator.strategy import Strategy
+from simulator.blockchain import Block
+
+class MaStratEmmyKa(Strategy):
+    """
+    Stratégie du meillleur groupe.
+    We <3 blockchain
+    """
 
     def __init__(self, node_id: str):
-            super().__init__(node_id)
+        super().__init__(node_id)
 
-            self.current_tick = 0
-            self.blocks_mined = 0
-            self.blocks_received = 0
-            self.seen_blocks = set()
-            #self.strategy_mode = "honest"
-            self.mine_probability = 1.0  # 1.0 = toujours miner
-    
-    def should_mine_block(self) -> bool:
-        """Décide s'il faut miner."""
-        if self.current_tick - self.last_mine_tick >= self.mining_frequency:
-            self.last_mine_tick = self.current_tick
-            self.log(f"Tentative de minage au tick {self.current_tick}")
-            return True
-        return False
-    
+        self.blocks_seen = set()
+        self.last_block_receive_tick = -100
+        self.safe_mining_interval = 5
+
     def on_block_received(self, block: Block, sender_id: str) -> bool:
-        """Attend avant de relayer."""
+        """Decide si on relaye ce bloc aux autres"""
+
         if block.hash in self.blocks_seen:
             return False
         
         self.blocks_seen.add(block.hash)
-        
-        # Enregistrer le moment de réception
-        self.pending_blocks[block.hash] = self.current_tick
-        
-        # Ajouter à la blockchain
+
         assert self.blockchain is not None
-        self.blockchain.add_block(block)
-        
-        # Relayer seulement après le délai d'attente
-        ticks_waiting = self.current_tick - self.pending_blocks.get(block.hash, 0)
-        
-        if ticks_waiting >= self.wait_time:
+        added = self.blockchain.add_block(block)
+
+        if not added:
+            return False
+
+        if block.parent_hash == self.blockchain.get_head().parent.hash:
             return True
         
-        return False
+        if self.blockchain.has_fork():
+            return True
+
+        return True  # relayer toujours si autre cas
+    
+
+
+    def should_mine_block(self) -> bool:
+        """Decide si on cree un bloc ce tick (1000 ticks total)"""
+
+        if self.current_tick - self.last_block_receive_tick < self.safe_mining_interval:
+            return False
+        
+        # si y'a fork -> on aggrave pas
+        if self.has_fork():
+            return False
+        
+        return self.current_tick % 3 == 0
+        
+    
+    
     
     def choose_parent_block(self) -> str:
-        """Choisit intelligemment en cas de fork."""
+        """Choisit le parent du nouveau bloc"""
+        
         assert self.blockchain is not None
+
         tips = self.blockchain.get_all_tips()
-        
-        if len(tips) == 1:
-            # Pas de fork, simple
-            return tips[0].hash
-        
-        # En cas de fork, choisir le tip avec la plus grande hauteur
-        best_tip = max(tips, key=lambda b: b.height)
-        return best_tip.hash
+
+        max_height = max(tip.height for tip in tips)
+
+        bests = [tip for tip in tips if tip.height == max_height]
+
+        best = min(bests, key = lambda b: b.timestamp)
+
+        return best.hash  
+    
