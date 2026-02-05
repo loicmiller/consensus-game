@@ -38,7 +38,6 @@ class SamTilStra(Strategy):
         
         if added:
             return True
-        
         return False
     
     def should_mine_block(self) -> bool:
